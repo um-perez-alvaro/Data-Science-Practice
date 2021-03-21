@@ -2,7 +2,7 @@
 
 **Contents:**
 
-- [Pandas](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Pandas)
+- [Pandas](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Pandas)
 - [Classification Algorithms]()
 - [Naive Bayes and Text Classification]()
 - [Ensemble Methods and Random Forests]()
