@@ -1,6 +1,6 @@
 # Data Science Analytics
 
-<img src="logo.png" height="350" width = "600">
+<img src="logo.png" height="350" width = "1000">
 
 **Contents:**
 
