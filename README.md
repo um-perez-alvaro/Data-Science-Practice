@@ -1,5 +1,7 @@
 # Data Science Analytics
 
+<img src="logo.png" height="400">
+
 **Contents:**
 
 - [Pandas](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Pandas)
