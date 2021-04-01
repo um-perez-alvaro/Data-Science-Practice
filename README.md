@@ -2,6 +2,8 @@
 
 <img src="logo.png" height="350" width = "1000">
 
+This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytics (M561)
+
 **Contents:**
 
 - [Pandas](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Pandas)
