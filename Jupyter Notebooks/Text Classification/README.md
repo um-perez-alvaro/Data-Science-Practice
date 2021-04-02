@@ -2,9 +2,9 @@
 
 ## Jupyter notebooks
 
-- [Vectorization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Vectorization.ipynb)
-- [A SMS spam detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/%20Building%20s%20SMS%20spam%20detector.ipynb)
-- [Classifying messages by topic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Classifying%20Text%20Messages%20by%20Topic.ipynb)
+- [Vectorization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/notebooks/Vectorization.ipynb)
+- [A SMS spam detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/notebooks/%20Building%20s%20SMS%20spam%20detector.ipynb)
+- [Classifying messages by topic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/notebooks/Classifying%20Text%20Messages%20by%20Topic.ipynb)
 
 ## Homework (due, Oct 12, Monday)
 - [Yelp reviews](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Homework/Homework%201.ipynb)
