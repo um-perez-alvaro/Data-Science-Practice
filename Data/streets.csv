@@ -1,0 +1,2835 @@
+name,tag,origin
+Saiboo,Street,Indian
+Merchant,Loop,Generic
+Hill,Street,Generic
+Ophir,Road,Malay
+Buona,Vista Road,Other
+Sengkang,Avenue,Chinese
+Ang Mo Kio,Avenue,Chinese
+Brickland,Road,British
+Choa Chu Kang,Road,Chinese
+Woodlands,Avenue,Generic
+Merpati,Road,Malay
+Tractor,Road,Generic
+Nanyang,Walk,Chinese
+Orchard,Road,Generic
+Duchess,Place,British
+Kee Sun,Avenue,Chinese
+Gul,Avenue,Malay
+Harvey,Road,British
+Watten,Estate Road,British
+Seletar,Expressway,Malay
+Sandy,Lane,Generic
+Boon Tat,Link,Chinese
+Central,Expressway,Generic
+Siglap,Lorong,Malay
+Gallop,Park,Generic
+Malan,Road,British
+Binkiang,Lorong,Chinese
+Compassvale,Street,Generic
+Sims,Avenue,Chinese
+Hougang,Avenue,Chinese
+Coronation,Drive,British
+Serangoon,Road,Malay
+Outram,Road,British
+Havelock,Road,British
+Senoko,Loop,Malay
+Keppel,Way,British
+Pasir Panjang,Hill,Malay
+Sari,Lorong,Malay
+Jurong,Street,Malay
+Claymore,Hill,British
+Tuas,Avenue,Malay
+Pandan,Loop,Malay
+Redop,Jalan,Malay
+Charlton,Road,British
+Whampoa,Drive,Chinese
+Mount Pleasant,Road,Generic
+Pan-Island,Expressway,Generic
+Buroh,Jalan,Malay
+Moulmein,Road,Other
+Mount Vernon,Road,British
+Onan,Road,Malay
+Tampines,Expressway,Malay
+Jurong Town Hall,Road,Malay
+Nipah,Jalan,Malay
+Bukit Batok,Road,Malay
+Clementi,Avenue,British
+Sembawang,Road,Malay
+Pioneer,Road,British
+Petir,Road,Malay
+Woodlands,Height,Generic
+Yishun,Avenue,Chinese
+Waringin,Park,Malay
+Fulton,Avenue,British
+Senyum,Jalan,Malay
+Sunset,Way,Generic
+Tuas,Crescent,Malay
+Bayfront,Avenue,Generic
+Toh,Heights,Chinese
+Changi,Road,Malay
+Orchard,Link,Generic
+Marina Coastal,Drive,Generic
+Orchard,Turn,Generic
+Bishan,Road,Chinese
+Bedok,Road,Malay
+Hong San,Walk,Chinese
+Sungei Kadut,Avenue,Malay
+Sungei Kadut,Way,Malay
+Choa Chu Kang,Way,Chinese
+Mandai,Road,Malay
+Eastwood,Way,British
+Admiralty,Road,British
+Serangoon,Avenue,Malay
+Yishun,,Chinese
+Kang Ching,Road,Chinese
+Airport,Road,Generic
+Boon Lay,Drive,Chinese
+Neythal,Road,Indian
+Telok,Lorong,Malay
+Synagogue,Street,Generic
+Defu,Lane,Chinese
+Changi,Avenue,Malay
+Margate,Road,British
+Sampan,Place,Malay
+Nicoll,Drive,British
+Tay Lian Teck,Road,Chinese
+Kew,Avenue,British
+Tuas,Link,Malay
+Gul,Road,Malay
+Kempas,Road,Malay
+Balam,Road,Other
+Arif,Jalan,Malay
+Buangkok,Green,Malay
+Tamarind,Road,Generic
+Braddell,Road,British
+Mandai,Avenue,Malay
+Coronation,Walk,British
+Empress,Road,British
+Singa,Jalan,Malay
+Tuas,Circus,Malay
+Henderson,Road,British
+Tosca,Terrace,Other
+Arab,Street,Other
+Robertson,Quay,British
+West,Coast Green,Generic
+Lowland,Road,Generic
+Geylang,Road,Malay
+Neil,Road,British
+North,Bridge Road,Generic
+Ubi,Avenue,Malay
+Chin Bee,Drive,Chinese
+Compassvale,Road,Generic
+Holland,Road,British
+Balestier,Road,Other
+West,Coast Road,Generic
+Clementi,Road,British
+Victoria,Street,British
+Xilin,Avenue,Chinese
+Alexandra,Road,British
+Seletar Aerospace,Drive,Malay
+Ahmad Ibrahim,Jalan,Malay
+Siloso,Beach Walk,Malay
+Kilat,Lorong,Malay
+Penjuru,Close,Malay
+Kent,Ridge Crescent,British
+East,Coast Parkway,Generic
+Tanjong Penjuru,,Malay
+Grove,Drive,Generic
+Kebaya,Jalan,Malay
+Havelock,Link,British
+Ocean,Drive,Generic
+Sungei Kadut,Drive,Malay
+Toh Yi,Drive,Chinese
+Boon Lay,Way,Chinese
+Kranji,Expressway,Malay
+Geneng,Jalan,Malay
+Todak,Jalan,Malay
+Queensway,,British
+Ardmore,Park,British
+Angullia,Park,Indian
+Tari Lilin,Jalan,Malay
+Bras Basah,Road,Malay
+Tari Payong,Jalan,Malay
+Tari Piring,Jalan,Malay
+Mugliston,Bukit,British
+Punggol,Road,Malay
+Carmichael,Road,British
+Tampines,Avenue,Malay
+Nee Soon,Road,Chinese
+Chengkek,Jalan,Malay
+Tambur,Jalan,Malay
+Sin Ming,Drive,Chinese
+Pasir Ris,Drive,Malay
+Nanyang,View,Chinese
+Whampoa,Road,Chinese
+Jelebu,Road,Malay
+Samulun,Jalan,Malay
+Ah Soo,Lorong,Chinese
+Venus,Drive,Other
+Ayer Rajah,Expressway,Malay
+Toh Guan,Road,Chinese
+Sembawang,Drive,Malay
+Create,Way,Generic
+Jelapang,Road,Malay
+Woodlands,Drive,Generic
+Gateway,Avenue,Generic
+Raffles,Boulevard,British
+Haigsville,Drive,British
+Fir,Avenue,Generic
+Arumugam,Road,Malay
+Corporation,Road,Generic
+Soon Lee,Road,Chinese
+Marina,Way,Generic
+Chancery,Lane,Generic
+Segar,Road,Malay
+Mariam,Lengkok,Malay
+Telok Ayer,Street,Malay
+Oxley,Road,British
+Guillemard,Road,British
+Lornie,Road,British
+Thomson,Road,British
+Eunos,Jalan,Malay
+Temasek,Boulevard,Malay
+Buangkok,Drive,Malay
+Boon Lay,Jalan,Chinese
+Mattar,Road,Malay
+Penjuru,Road,Malay
+Lemon,Avenue,Generic
+Penhas,Road,Other
+Haji,Lane,Malay
+Harrison,Road,British
+Davidson,Road,British
+Seagull,Walk,Generic
+Punggol,Field,Malay
+Ubi,Jalan,Malay
+Ridgewood,Close,British
+Pine,Grove,Generic
+Hume,Avenue,British
+Yarrow,Gardens,British
+Gallop,Park Road,Generic
+Klang,Lane,Malay
+Koon Seng,Road,Chinese
+Punggol,Way,Malay
+Sengkang,Way,Chinese
+Drake,Avenue,British
+Dock,Road,Generic
+Auckland,Road,British
+Sarhad,Lorong,Malay
+Awang,Jalan,Malay
+Bukit Ho Swee,Jalan,Chinese
+Pesari,Walk,Malay
+Peakville,Avenue,British
+Peakville,Walk,British
+Simpang Bedok,Jalan,Malay
+Hoy Fatt,Road,Chinese
+Kung Chong,Road,Chinese
+Yishun,Street,Chinese
+East,Coast Park,Generic
+Leo,Drive,British
+Joo Koon,Crescent,Chinese
+Grove,Crescent,Generic
+Grove,Avenue,Generic
+Mimosa,Terrace,Generic
+Seletar,Farmway,Malay
+Causeway,,Generic
+Pakistan,Road,Other
+Pelatina,Jalan,Malay
+Draycott,Drive,British
+Handy,Road,British
+Geylang Bahru,Bridge,Malay
+Kranji,Road,Malay
+Dunearn,Road,British
+Anggerek,Jalan,Malay
+Lornie,Viaduct,British
+River,Valley Road,Generic
+Bukit Batok,Avenue,Malay
+Batok,Bukit,Malay
+Toa Payoh,,Chinese
+Ang Mo Kio,Street,Chinese
+Siglap,Link,Malay
+Grange,Road,British
+Kayu,Jalan,Malay
+Sengkang,Road,Chinese
+Bukit Timah,Expressway,Malay
+Punggol,Drive,Malay
+Bukit Merah,Jalan,Malay
+Andrew,Road,British
+Inggu,Road,Malay
+Amber,Road,Other
+Lengkok Sembawang,Jalan,Malay
+Oxford,Road,British
+Richards,Avenue,British
+Scotts,Road,British
+Selegie,Road,Malay
+Keng Lee,Road,Chinese
+Newton,Road,British
+Sarkies,Road,Other
+Paterson,Road,British
+Orchard,Boulevard,Generic
+Paterson,Hill,British
+Unity,Street,Generic
+Merbau,Road,Malay
+Mohamed Sultan,Road,Malay
+Clemenceau,Avenue,Other
+Merchant,Road,Generic
+Read,Crescent,British
+Prinsep,Street,British
+Telok Blangah,Road,Malay
+Nicoll,Highway,British
+Turf Club,Avenue,Generic
+Tanglin,Road,Chinese
+Devonshire,Road,British
+Exeter,Road,British
+Kallang,Road,Malay
+Yio Chu Kang,Road,Chinese
+Serangoon,Viaduct,Malay
+Chuan,Lorong,Chinese
+Boundary,Road,Generic
+Eunos,Link,Malay
+Defu,Avenue,Chinese
+Beach,Road,Generic
+High,Street,Generic
+Boat,Quay,Generic
+Parliament,Place,Generic
+Coleman,Street,British
+Stamford,Road,British
+St Andrew's,Road,British
+Sungei,Road,Malay
+Bain,Street,British
+Seah,Street,Chinese
+Liang Seah,Street,Chinese
+Tan Quee Lan,Street,Chinese
+Rochor,Road,British
+Raffles,Avenue,British
+Temasek,Avenue,Malay
+Napier,Road,British
+Republic,Boulevard,Generic
+Republic,Avenue,Generic
+Rochor Canal,Road,British
+Queen,Street,British
+Crawford,Street,British
+Fort Canning,Tunnel,British
+Besar,Jalan,Malay
+Waterloo,Street,Other
+Weld,Road,British
+Sultan,Jalan,Malay
+Penang,Road,Malay
+Somerset,Road,British
+Tomlinson,Road,British
+Cuscaden,Road,British
+Adam,Road,British
+Paya Lebar,Road,Malay
+New,Bridge Road,Generic
+Bukit Timah,Road,Malay
+Dairy Farm,Road,Generic
+Bukit Panjang,Road,Malay
+Woodlands,Road,Generic
+Pasir Ris,,Malay
+Elgin,Bridge,British
+South,Bridge Road,Generic
+Esplanade,Drive,British
+Fullerton,Road,British
+Robinson,Road,British
+Cecil,Street,British
+Maxwell,Road,British
+Wallich,Street,Other
+Choon Guan,Street,Chinese
+Tanjong Pagar,Road,Malay
+Tras,Street,Malay
+Kreta Ayer,Road,Malay
+Shenton,Way,British
+Anson,Road,British
+Hoe Chiang,Road,Chinese
+Circular,Road,Generic
+Carpenter,Street,Generic
+Hong Kong,Street,Chinese
+Eu Tong Seng,Road,Chinese
+Canal,Road,Generic
+Cantonment,Road,Generic
+Lim Teck Kim,Road,Chinese
+Cantonment,Link,Generic
+Cross,Street,Generic
+Hokien,Street,Chinese
+Leng Kee,Road,Chinese
+Commonwealth,Avenue,British
+Holland,Avenue,British
+Holland,Drive,British
+Dover,Road,British
+Ayer Rajah,Avenue,Malay
+West,Coast Highway,Generic
+Dover,Rise,British
+Dover,Close,British
+Portsdown,Road,British
+Serangoon,,Malay
+Toa Payoh,Lorong,Chinese
+Toa Payoh,Interchange,Chinese
+Raffles,Quay,British
+Serangoon,Garden Circus,Malay
+Serangoon,Garden Way,Malay
+Farleigh,Avenue,British
+Chartwell,Drive,British
+Yio Chu Kang,Link,Chinese
+Marymount,Road,British
+Lavender,Street,Generic
+Java,Road,Malay
+Bideford,Road,British
+Cairnhill,Road,British
+Cairnhill,Circle,British
+Empress,Place,British
+Cashin,Street,British
+Farrer,Road,British
+Delta,Road,Generic
+Marymount,Lane,British
+Newton,Circus,British
+Ulu Pandan,Road,Malay
+Loyang,Avenue,Malay
+Cranwell,Road,British
+Hendon,Road,British
+Changi,Coast Road,Malay
+Hougang,Street,Chinese
+Sengkang,Drive,Chinese
+Sengkang,,Chinese
+Kim Seng,Road,Chinese
+Tiong Bahru,Road,Chinese
+Sims,Way,Chinese
+Compassvale,Bow,Generic
+Sengkang,Square,Chinese
+Rivervale,Drive,Generic
+Rivervale,Crescent,Generic
+Anchorvale,Link,Generic
+Anchorvale,Drive,Generic
+Ubi,Road,Malay
+Zion,Road,Other
+East,Coast Road,Generic
+Mount Faber,Road,British
+Kampong Bahru,Road,Malay
+Bukit Ho Swee,Link,Chinese
+Bukit Ho Swee,Crescent,Chinese
+Ganges,Avenue,Indian
+Nallur,Road,Indian
+Battery,Road,Generic
+Canning,Rise,British
+Killiney,Road,British
+Bencoolen,Street,Malay
+Sin Ming,Road,Chinese
+Bishan,Street,Chinese
+Buangkok,Link,Malay
+Sembawang Hills,Drive,Malay
+Mountbatten,Road,British
+Still,Road,British
+Marine Parade,Road,Generic
+Marina Parade,Circus,Generic
+Bedok,Reservoir Road,Malay
+Gangsa,Road,Malay
+Upper,Coast Road,Generic
+Bedok,Street,Malay
+Bedok,Avenue,Malay
+Aljunied,Road,Other
+Boundary,Close,Generic
+Keong Saik,Road,Chinese
+Smith,Street,British
+Bukit Pasoh,Road,Malay
+Teo Hong,Road,Chinese
+Geylang Serai,,Malay
+Geylang,,Malay
+Sims,Drive,Chinese
+Kaki Bukit,Avenue,Malay
+Tenaga,Jalan,Malay
+Damai,Jalan,Malay
+Kaki Bukit,Road,Malay
+Tampines,Industrial Avenue,Malay
+Tampines,Street,Malay
+Tampines,,Malay
+Pending,Road,Malay
+Fajar,Road,Malay
+Bukit Panjang,Ring Road,Malay
+Senja,Road,Malay
+Lok Yang,Way,Chinese
+Saujana,Road,Malay
+Choa Chu Kang,Drive,Chinese
+Choa Chu Kang,Avenue,Chinese
+Teck Whye,Crescent,Chinese
+Teck Whye,Lane,Chinese
+Choa Chu Kang,,Chinese
+Choa Chu Kang,Loop,Chinese
+Teck Whye,Jalan,Chinese
+Hillview,Road,Generic
+Choa Chu Kang,Street,Chinese
+Choa Chu Kang,Crescent,Chinese
+Bukit Batok,Street,Malay
+Kranji,Way,Malay
+Kranji,Loop,Malay
+Hillview,Avenue,Generic
+Sungei Kadut,Street,Malay
+Sungei Kadut,Loop,Malay
+Sungei Kadut,Crescent,Malay
+Mandai,Estate,Malay
+Toh Tuck,Avenue,Chinese
+Jurong,,Malay
+Jurong,Avenue,Malay
+Lim Chu Kang,Lane,Chinese
+Bahar,Jalan,Malay
+Lim Chu Kang,Road,Chinese
+Neo Tiew,Road,Chinese
+Neo Tiew,Crescent,Chinese
+Neo Tiew,Lane,Chinese
+Gemala,Jalan,Malay
+Bahtera,Jalan,Malay
+Mandai Lake,Road,Malay
+Lada Hitam,Lorong,Malay
+Marsiling,Lane,Chinese
+Marsiling,Drive,Chinese
+Woodlands,Centre Road,Generic
+Woodlands,Street,Generic
+Marsiling,Road,Chinese
+Marsiling,Crescent,Chinese
+Woodlands,Industrial Park Street,Generic
+Woodlands,Square,Generic
+Woodlands,Way,Generic
+Woodlands,Link,Generic
+Woodlands,Industrial Park,Generic
+Woodlands,Crescent,Generic
+Woodlands,Terrace,Generic
+Canberra,Road,Other
+Admiralty,Street,British
+Woodlands,Ring Road,Generic
+Gambas,Avenue,Malay
+Woodgrove,Avenue,Generic
+Woodgrove,Drive,Generic
+Rosewood,Drive,British
+Lentor,Avenue,British
+Everton,Road,British
+Yishun,Ring Road,Chinese
+Yishun,Industrial Park,Chinese
+Sembawang,Way,Malay
+Sembawang,Vista,Malay
+Sembawang,Crescent,Malay
+Mydin,Jalan,Malay
+Eng Neo,Avenue,Chinese
+Sixth,Avenue,Generic
+Kallang-Paya Lebar,Expressway,Malay
+Bartley,Road,British
+Bussorah,Street,Other
+Evans,Road,British
+Cluny,Road,British
+Sin Ming,Avenue,Chinese
+Kembangan,Jalan,Malay
+Bedok,Drive,Malay
+Chai Chee,Road,Chinese
+Frankel,Avenue,Other
+Coast Park Service,Road,Generic
+Bengkok,Lorong,Malay
+Joo Chiat,Road,Chinese
+Haig,Road,British
+Brooke,Road,British
+Tanjong Katong,Road,Malay
+Marine Parade,,Generic
+Dunman,Road,British
+Klapa,Jalan,Malay
+Pahang,Street,Malay
+Sultan,Gate,Malay
+Kandahar,Street,Other
+Tessensohn,Road,Other
+Rangoon,Road,Other
+Race Course,Road,Generic
+Little,Road,Generic
+Bunga Rampai,Jalan,Malay
+Whitley,Road,British
+Teck Whye,Avenue,Chinese
+Jurong Canal,Drive,Malay
+Japanese,Garden Road,Other
+Tah Ching,Road,Chinese
+Prince Edward,Link,British
+Jurong,Road,Malay
+Boon Lay,Place,Chinese
+Yung Ho,Road,Chinese
+Yung Kuang,Road,Chinese
+Ho Ching,Road,Chinese
+Chin Bee,Crescent,Chinese
+Chin Bee,Road,Chinese
+Chin Bee,Avenue,Chinese
+Quality,Road,Generic
+Tukang,Jalan,Malay
+Jentera,Jalan,Malay
+International,Road,Generic
+Enterprise,Road,Generic
+Wan Lee,Road,Chinese
+Nanyang,Avenue,Chinese
+Joo Koon,Circle,Chinese
+Lien Ying Chow,Drive,Chinese
+Nanyang,Hill,Chinese
+Nanyang,Green,Chinese
+Nanyang,Drive,Chinese
+Nanyang,Circle,Chinese
+Students,Walk,Generic
+Nanyang,Terrace,Chinese
+Nanyang,Link,Chinese
+Fort,Road,Generic
+Nanyang,Crescent,Chinese
+Stanley,Street,British
+Fan Yoong,Road,Chinese
+Kian Teck,Way,Chinese
+Kian Teck,Crescent,Chinese
+Lok Yang,Road,Chinese
+Kian Teck,Road,Chinese
+Benoi,Road,Other
+Joo Koon,Road,Chinese
+Joo Koon,Way,Chinese
+Pasir Panjang,Road,Malay
+Enggor,Street,Malay
+West,Coast Drive,Generic
+Pandan,Gardens,Malay
+Teban,Gardens Road,Malay
+McCallum,Street,British
+International Business,Park,Generic
+West,Coast Link,Generic
+Clementi,Street,British
+Tanjong Kling,Road,Indian
+Pioneer,Walk,British
+Sunview,Road,Generic
+Pioneer,Crescent,British
+Benoi,Crescent,Other
+Benoi,Sector,Other
+Shipyard,Road,Generic
+Tuas,Road,Malay
+Spottiswoode,Park Road,British
+Collyer,Quay,British
+Mosque,Street,Malay
+Temple,Street,Generic
+Teck Lim,Road,Chinese
+Jiak Chuan,Road,Chinese
+Tan Tye,Place,Chinese
+Sago,Lane,Generic
+Duxton,Road,British
+Duxton,Hill,British
+Craig,Road,British
+Boon Tat,Street,Chinese
+Maxwell,Link,British
+Palmer,Road,British
+Parsi,Road,Other
+Yan Kit,Road,Chinese
+Cantonment,Close,Generic
+Ann Siang,Road,Chinese
+Erskine,Road,British
+Club,Street,Generic
+China,Street,Chinese
+Church,Street,Generic
+Market,Street,Generic
+Malacca,Street,Malay
+Phillip,Street,British
+Finlayson,Green,British
+Amoy,Street,Chinese
+Boon Keng,Road,Chinese
+Geylang,Lorong,Malay
+Genting,Road,Malay
+Serangoon,View,Malay
+Seraya,Crescent,Malay
+Kim Seng,Promenade,Chinese
+Tanjong Rhu,Road,Malay
+Rhu Cross,,Malay
+Tanjong Rhu,View,Malay
+Meyer,Road,Other
+Kallang,Way,Malay
+Tannery,Road,Generic
+Bakar Batu,Lorong,Malay
+Kallang Pudding,Road,Malay
+Genting,Lane,Malay
+Kallang,Sector,Malay
+Anak Bukit,Jalan,Malay
+Margaret,Drive,British
+Strathmore,Avenue,British
+Dawson,Road,British
+Penjara,Jalan,Malay
+Depot,Road,Generic
+Telok Blangah,,Malay
+Brizay,Park,Other
+Telok Blangah,Green,Malay
+Telok Blangah,Heights,Malay
+Jurong Kechil,Jalan,Malay
+Eng Watt,Street,Chinese
+Wilby,Road,British
+Mei Ling,Street,Chinese
+Stirling,Road,British
+Portsdown,Avenue,British
+Tanah Merah Kechil,Road,Malay
+Hang Jebat,Jalan,Malay
+Tampines,Road,Malay
+Tai Seng,Link,Chinese
+Tai Seng,Avenue,Chinese
+Tai Seng,Drive,Chinese
+Blackmore,Drive,British
+Changi Ferry,Road,Malay
+Tanah Merah Kechil,Avenue,Malay
+Arthur,Road,British
+Holland,Link,British
+Garlick,Avenue,British
+Redwood,Avenue,British
+Maple,Avenue,Generic
+Cypress,Avenue,Generic
+Holland,Green,British
+Bachok,Lorong,Malay
+Greenleaf,Road,Generic
+Greenleaf,Avenue,Generic
+Greenleaf,Grove,Generic
+Greenleaf,Walk,Generic
+Greenleaf,Drive,Generic
+Bukit Sedap,Road,Malay
+Holland,Grove Road,British
+Mount Sinai,Drive,Other
+Seletar,Road,Malay
+Fernhill,Crescent,British
+Tanah Merah Kechil,Link,Malay
+Tanah Merah Kechil,Rise,Malay
+Pari Burong,Jalan,Malay
+Simei,Street,British
+Changi,Street,Malay
+Fulton,Road,British
+Jacaranda,Road,Generic
+Telok Paku,Road,Malay
+Meyappa Chettiar,Road,Indian
+Potong Pasir,Avenue,Malay
+Woodsville,Close,Generic
+Claymore,Road,British
+Orange,Grove Road,Generic
+Balmoral,Road,British
+Lermit,Road,British
+Stevens,Close,British
+Fernhill,Road,British
+Sungei Tengah,Road,Malay
+Pasu,Jalan,Malay
+Lekar,Jalan,Malay
+Choa Chu Kang,Track,Chinese
+Tampines,Drive,Malay
+Westlake,Avenue,Generic
+Casuarina,Walk,Generic
+Arang,Kampong,Malay
+Ramsgate,Road,British
+Kayu,Kampong,Malay
+Batu,Jalan,Malay
+Broadrick,Road,British
+Marina,Mall,Generic
+Central,Boulevard,Generic
+Marina,View Link,Generic
+Shunfu,Road,Chinese
+Casuarina,Road,Generic
+Nemesu,Road,Malay
+Eunos,Avenue,Malay
+Yio Chu Kang,Gardens,Chinese
+Horne,Road,British
+Tyrwhitt,Road,British
+Hamilton,Road,British
+Cavan,Road,British
+Coast Ferry,Road,Generic
+Jurong Pier,Road,Malay
+Pandan,Circus,Malay
+Coronation,Road,British
+Queen's,Road,British
+King's,Road,British
+Duchess,Avenue,British
+Pinang,Jalan,Malay
+Haji Alias,Jalan,Malay
+Ampang,Jalan,Malay
+Lim Tai See,Jalan,Chinese
+Lim Tai See,Walk,Chinese
+Astrid,Hill,British
+Gopeng,Street,Malay
+Peck Seah,Street,Chinese
+Bernam,Street,Malay
+Semangka,Lorong,Malay
+Dickenson,Hill Road,British
+Pickering,Street,British
+Park,Crescent,Generic
+York,Hill,British
+Chin Swee,Road,Chinese
+Magazine,Road,Generic
+Outram,Hill,British
+Bonham,Street,British
+Flint,Street,British
+Chulia,Street,Indian
+D'almeida,Street,Other
+Marina,View,Generic
+Hospital,Avenue,Generic
+Hospital,Drive,Generic
+Thomson,Green,British
+Eunos,Road,Malay
+College,Road,British
+Outram,Park,British
+Pearl,Bank,British
+Kim Pong,Road,Chinese
+Seng Poh,Road,Chinese
+Tiong Poh,Road,Chinese
+Yong Siak,Street,Chinese
+Chay Yan,Street,Chinese
+Peng Nguan,Street,Chinese
+Lim Liak,Street,Chinese
+Minyak,Jalan,Malay
+Thomson,View,British
+Thomson,Hill,British
+Thomson Hills,Drive,British
+Rambai,Road,Malay
+Serenade,Walk,Generic
+Thomson,Close,British
+Eastwood,Road,British
+Greja,Jalan,Malay
+Eastwood,Green,British
+Eastwood,Terrace,British
+Eastwood,Walk,British
+Suka,Jalan,Malay
+Molek,Jalan,Malay
+Westerhout,Road,British
+Talma,Road,Other
+Cassia,Crescent,Generic
+Sims,Place,Chinese
+Sims,Lane,Chinese
+Tahar,Lorong,Malay
+Dakota,Crescent,Other
+Enam,Jalan,Malay
+Guillemard,Crescent,British
+Guillemard,Lane,British
+Aljunied,Crescent,Other
+Dunbar,Walk,British
+Geylang,Avenue,Malay
+Pendek,Lorong,Malay
+Telok Kurau,Lorong,Malay
+Joo Chiat,Place,Chinese
+Still,Lane,British
+Telok Kurau,Road,Malay
+Siglap,Rise,Malay
+Duku,Lane,Malay
+St Patrick's,Road,British
+Frankel,Close,Other
+Frankel,Walk,Other
+Frankel,Drive,Other
+Frankel,Street,Other
+Hartley,Grove,British
+Roseburn,Avenue,British
+Coldstream,Avenue,British
+Greenfield,Drive,Generic
+Siglap,Plain,Malay
+Frankel,Terrace,Other
+Siglap,Avenue,Malay
+La Salle,Street,Other
+Ang Mo Kio,Industrial Park,Chinese
+Chapel,Road,Generic
+Jago,Close,British
+Kuo Chuan,Avenue,Chinese
+Karikal,Lane,Indian
+Tembeling,Road,Malay
+Duku,Road,Malay
+Everitt,Road,British
+Teng Tong,Road,Chinese
+Stangee,Lorong,Malay
+Stangee,Close,Malay
+Pulasan,Road,Malay
+Nangka,Lorong,Malay
+Duku,Place,Malay
+Joo Chiat,Terrace,Chinese
+Joo Chiat,Lane,Chinese
+Mangis,Road,Malay
+Changi,Lorong,Malay
+Langsat,Road,Malay
+Turl,Jalan,British
+Marine,Crescent,Generic
+Marine,Terrace,Generic
+Wilton,Gardens,British
+Lothian,Terrace,British
+Ettrick,Terrace,British
+Cheviot,Hill,British
+Burnfoot,Terrace,British
+East,Coast Drive,Generic
+East,Coast Avenue,Generic
+Buloh Perindu,Jalan,Malay
+East,Coast Terrace,Generic
+Chapel,Close,Generic
+Cheow Keng,Road,Chinese
+Seraya,Road,Malay
+Carpmael,Road,British
+Amber,Gardens,Other
+Crescent,Road,Generic
+Seaview,Jalan,Generic
+Sedap,Jalan,Malay
+Bournemouth,Road,British
+Wilkinson,Road,British
+Avon,Road,British
+Goodman,Road,British
+Branksome,Road,British
+Lyndhurst,Road,British
+Clacton,Road,British
+Walton,Road,British
+Nuri,Jalan,Malay
+Mayfield,Avenue,British
+Fowlie,Road,British
+Pennefather,Road,British
+Marshall,Lane,British
+Ceylon,Road,Indian
+Crane,Road,British
+Buangkok,View,Malay
+Lima,Lengkong,Malay
+Satu,Lengkong,Malay
+Empat,Lengkong,Malay
+Selamat,Jalan,Malay
+Sayang,Jalan,Malay
+Kupang,Jalan,Malay
+Tay Lian Teck,Drive,Chinese
+Elliot,Road,British
+Ulu Siglap,Jalan,Malay
+Woo Mon Chew,Road,Chinese
+Figaro,Street,Other
+Aida,Street,Other
+Norma,Terrace,British
+Dido,Street,Other
+Swan Lake,Avenue,Generic
+Maria,Avenue,British
+Siglap,Hill,Malay
+Bangsawan,Jalan,Malay
+Evergreen,Avenue,Generic
+Kew,Crescent,British
+Palm,Road,Generic
+Palm,Avenue,Generic
+Elliot,Walk,British
+Palm,Drive,Generic
+Abu Talib,Lorong,Malay
+Springside,Drive,Generic
+Tanah Puteh,Jalan,Malay
+Primrose,Avenue,Generic
+Evergreen,Gardens,Generic
+Hajijah,Jalan,Malay
+Pokok Serunai,Jalan,Malay
+Thong Soon,Road,Chinese
+Tanjong,Jalan,Malay
+Tiga,Lengkong,Malay
+Dua,Lengkong,Malay
+Daud,Jalan,Malay
+Dryburgh,Avenue,British
+Fidelio,Street,Other
+Bintang Tiga,Jalan,Malay
+Metropole,Drive,British
+Rienzi,Street,Other
+Ernani,Street,Other
+Tosca,Street,Other
+Dafne,Street,Other
+Lakme,Street,Other
+Carmen,Street,Other
+Lakme,Terrace,Other
+Tua Kong,Jalan,Chinese
+Siglap,Walk,Malay
+Siglap,View,Malay
+Siglap,Valley,Malay
+Siglap,Terrace,Malay
+Siglap,Road,Malay
+Terang Bulan,Jalan,Malay
+Siglap,Taman,Malay
+Siglap,Drive,Malay
+Siglap,Bank,Malay
+Sea,Avenue,Generic
+Marine,Drive,Generic
+Dover,Avenue,British
+Beringin,Jalan,Malay
+Tembusu,Jalan,Malay
+Binja,Jalan,Malay
+Gajus,Jalan,Malay
+Seraya,Lane,Malay
+Haig,Avenue,British
+Haig,Lane,British
+Mugliston,Road,British
+Martia,Road,British
+Rendang,Jalan,Malay
+Siglap,Gardens,Malay
+Bayshore,Road,Generic
+Lucky,Heights,Generic
+Yio Chu Kang,Terrace,Chinese
+Parbury,Avenue,British
+Riviera,Drive,Generic
+Lucky,Gardens,Generic
+Pakis,Jalan,Malay
+Lucky,Rise,Generic
+Cavenagh,Road,British
+Sennett,Avenue,British
+Sennett,Road,British
+Sennett,Drive,British
+Sennett,Lane,British
+Sennett,Place,British
+Remis,Jalan,Malay
+Lucky,View,Generic
+Lucky,Crescent,Generic
+Limau Purut,Jalan,Malay
+Limau Balli,Jalan,Malay
+Limau Manis,Jalan,Malay
+Haji Salam,Jalan,Malay
+Kew,Drive,British
+Salam,Walk,Malay
+Limau,Garden,Malay
+Kew,Terrace,British
+Kew,Walk,British
+Kew,Heights,British
+Mayflower,Rise,British
+Mayflower,Drive,British
+Mayflower,Place,British
+Mayflower,Crescent,British
+Mayflower,Way,British
+Mayflower,Terrace,British
+Mayflower,Link,British
+Ellington,Square,British
+Menarong,Jalan,Malay
+Poh Huat,Road,Chinese
+Florence,Road,Chinese
+Lim Ah Pin,Road,Chinese
+Park Villas,Rise,Generic
+Poh Huat,Terrace,Chinese
+Park Villas,Green,Generic
+Park Villas,Terrace,Generic
+Poh Huat,Crescent,Chinese
+Robey,Crescent,British
+Poh Huat,Drive,Chinese
+Kang Choo Bin,Road,Chinese
+Kang Choo Bin,Walk,Chinese
+Chuan Hoe,Avenue,Chinese
+Parry,Walk,British
+Phillips,Avenue,British
+Parry,Road,British
+Limbok,Jalan,Malay
+Limbok,Terrace,Malay
+Simon,Lane,British
+Loyang,Way,Malay
+Tani,Jalan,Malay
+Parry,Avenue,British
+Glasgow,Road,British
+Rosyth,Road,British
+Rosyth,Avenue,British
+Leith,Road,British
+Leith,Park,British
+Sirat,Place,Malay
+Hong Lee,Place,Chinese
+Hillside,Drive,Generic
+Jansen,Road,British
+Richards,Place,British
+Flower,Road,Generic
+Chorak,Jalan,Malay
+Ee Teow Leng,Road,Chinese
+Palm,Grove Avenue,Generic
+Sirat,Road,Malay
+Simon,Place,British
+Simon,Road,British
+Loyang,Cres,Malay
+Loyang,Lane,Malay
+Loyang,Drive,Malay
+Loyang,Street,Malay
+Loyang,Link,Malay
+Marsiling,Industrial Road,Chinese
+Tuas,Street,Malay
+Tuas,Drive,Malay
+Tuas,Lane,Malay
+Faber,Walk,British
+Faber,Grove,British
+Faber,Heights,British
+Tong Soon,Avenue,Chinese
+Faber,Drive,British
+Faber,Terrace,British
+Faber,Green,British
+Faber,Avenue,British
+Faber,Park,British
+Isnin,Jalan,Malay
+Thong Soon,Green,Chinese
+Minggu,Jalan,Malay
+Hari Raya,Jalan,Malay
+Chegar,Jalan,Malay
+Pintau,Jalan,Malay
+Kuak,Jalan,Malay
+Rabu,Jalan,Malay
+Khamis,Jalan,Malay
+Springleaf,Road,British
+Springleaf,Crescent,British
+Springleaf,Height,British
+Springleaf,Rise,British
+Springleaf,Drive,British
+Springleaf,Avenue,British
+Springleaf,Garden,British
+Springleaf,View,British
+Springleaf,Lane,British
+Springleaf,Walk,British
+Springside,Avenue,Generic
+Springside,Green,Generic
+Meng Suan,Road,Chinese
+Sam Leong,Road,Chinese
+Syed Alwi,Road,Malay
+Desker,Road,Other
+Rowell,Road,British
+Hindoo,Road,Indian
+Norris,Road,British
+Veerasamy,Road,Indian
+Dunlop,Street,British
+Campbell,Lane,British
+Perak,Road,Malay
+Madras,Street,Indian
+Toh Tuck,Link,Chinese
+Munshi Abdullah,Walk,Malay
+Munshi Abdullah,Avenue,Malay
+Omar Khayyam,Avenue,Other
+Li Po,Avenue,Chinese
+Tagore,Avenue,Indian
+Iqbal,Avenue,Other
+Tu Fu,Avenue,Chinese
+Kalidasa,Avenue,Indian
+Bumbong,Jalan,Malay
+Rasok,Jalan,Malay
+Gelegar,Jalan,Malay
+Jendela,Jalan,Malay
+Dinding,Jalan,Malay
+Verde,View,Other
+Phoenix,Road,Generic
+Sunset,Terrace,Generic
+Phoenix,Garden,Generic
+Phoenix,Walk,Generic
+Batu Nilam,Jalan,Malay
+Elizabeth,Drive,British
+Zamrud,Jalan,Malay
+Sunset,Vale,Generic
+Dermawan,Jalan,Malay
+Gumilang,Jalan,Malay
+Remaja,Jalan,Malay
+Chu Yen,Street,Chinese
+Larut,Road,Malay
+Chu Lin,Road,Chinese
+Hillview,Crescent,Generic
+Hillview,Drive,Generic
+Hillview,Terrace,Generic
+Sunset,Walk,Generic
+Sunset,View,Generic
+Sunset,Place,Generic
+Sunset,Heights,Generic
+Anderson,Bridge,British
+Sunset,Square,Generic
+Sunset,Crescent,Generic
+Brookvale,Drive,Generic
+Brookvale,Walk,Generic
+Pitt,Street,British
+Clementi,Loop,British
+Toh Tuck,Road,Chinese
+King George's,Avenue,British
+Hastings,Road,British
+Buffalo,Road,Generic
+Muscat,Street,Other
+Lorong Realty,Park,Generic
+Naung,Jalan,Other
+St Helier's,Avenue,British
+Eu Tong Sen,Road,Chinese
+Baghdad,Street,Other
+Aliwal,Street,Indian
+Kubor,Jalan,Malay
+Kledek,Jalan,Malay
+Pisang,Jalan,Malay
+Victoria,Lane,British
+Kelantan,Road,Malay
+Ann Siang,Hill,Chinese
+Cove,Avenue Circus,Generic
+Pearl's,Hill Road,British
+Tagore,Drive,Indian
+Tagore,Road,Indian
+Tagore,Lane,Indian
+Tagore,Industrial Avenue,Indian
+Brighton,Crescent,British
+Marlene,Avenue,British
+Brighton,Avenue,British
+Ripley,Crescent,British
+Chepstow,Close,British
+Paya Lebar,Crescent,Malay
+Paya Lebar,Walk,Malay
+Kelichap,Jalan,Malay
+Lokam,Jalan,Malay
+Tai Keng,Gardens,Chinese
+Tai Keng,Lane,Chinese
+Tai Keng,Terrace,Chinese
+Tai Keng,Avenue,Chinese
+Lim Teck Boo,Road,Chinese
+Thrift,Drive,British
+New,Industrial Road,Generic
+Teliti,Jalan,Malay
+Hock Chye,Jalan,Chinese
+Gul,Way,Malay
+Gul,Crescent,Malay
+Gul,Circle,Malay
+Gul,Drive,Malay
+Gul,Street,Malay
+Gul,Lane,Malay
+Gul,Link,Malay
+Benoi,Place,Other
+Benoi,Lane,Other
+Pioneer,Place,British
+Pioneer,Sector,British
+Pioneer,Sector Lane,British
+Pioneer,Sector Walk,British
+Coral,Island,Generic
+Paradise,Island,British
+Tanjong,Beach Walk,Malay
+Cove,Way,Generic
+Allanbrooke,Road,British
+Cove,Avenue,Generic
+Grace,Walk,British
+Anchorvale,Street,Generic
+Treasure,Island,Generic
+Lakeshore,View,Generic
+Almond,Avenue,Generic
+Almond,Crescent,Generic
+Almond,Street,Generic
+Chestnut,Drive,Generic
+Chestnut,Crescent,Generic
+Suasa,Jalan,Malay
+Chestnut,Gardens,Generic
+Cashew,Crescent,Generic
+Anchorvale,Bridge,Generic
+Vaughan,Road,British
+Chestnut,Avenue,Generic
+Cashew,Terrace,Generic
+Cashew,Road,Generic
+Dairy Farm,Crescent,Generic
+Emas Urai,Jalan,Malay
+Lompang,Road,Malay
+Chestnut,Close,Generic
+Cashew,Link,Generic
+Chestnut,Lane,Generic
+Chestnut,Terrace,Generic
+Fernvale,Road,Generic
+Sengkang,Bridge,Chinese
+Fernvale,Link,Generic
+Anchorvale,Lane,Generic
+Bukit Manis,Road,Malay
+Punggol,,Malay
+Sentul,Crescent,Malay
+Edgedale,Plains,Generic
+Edgefield,Plains,Generic
+Punggol,Field Walk,Malay
+Ponggol,Avenue,Malay
+Ponggol Twenty-Fourth,Avenue,Malay
+Tanggam,Lorong,Malay
+Samak,Lorong,Malay
+Rivervale,Link,Generic
+Kallang,Avenue,Malay
+Kallang,Place,Malay
+Anchorvale,Road,Generic
+Fernvale,Street,Generic
+Merryn,Drive,British
+Piccadilly,Circus,British
+Compassvale,Crescent,Generic
+Buangkok,Bridge,Malay
+Foch,Road,Other
+Mashhor,Jalan,Malay
+Kitchener,Road,British
+Townshend,Road,British
+Berseh,Jalan,Malay
+Kelantan,Lane,Malay
+Hun Yeang,Road,Chinese
+Tampines,Industrial Crescent,Malay
+Anchorvale,Crescent,Generic
+Halus,Lorong,Malay
+Kim Chuan,Road,Chinese
+Mei Hwan,Road,Chinese
+Mei Hwan,Drive,Chinese
+Mei Hwan,Crescent,Chinese
+Mornington,Crescent,British
+Piccadilly,,British
+Lambeth,Walk,British
+Dunkirk,Avenue,British
+Anchorvale,Close,Generic
+Tai Seng,Street,Chinese
+Harper,Road,British
+Playfair,Road,British
+Irving,Road,British
+Martin,Road,British
+River,Valley Green,Generic
+Camp,Road,Generic
+Hemsley,Avenue,British
+Beatty,Lane,British
+Seletar Club,Road,Malay
+Chencharu,Lorong,Malay
+Geylang Bahru,,Malay
+Kallang,Junction,Malay
+Regent,Street,British
+Maida,Vale,British
+Shaw,Road,British
+Brompton,Road,British
+Genting,Link,Malay
+Tavistock,Avenue,British
+Kingswear,Avenue,British
+Huddington,Avenue,British
+Portchester,Avenue,British
+Bridport,Avenue,British
+Cowdray,Avenue,British
+Stokesay,Drive,British
+Penshurst,Place,British
+Crowhurst,Drive,British
+Bloxhome,Drive,British
+Borthwick,Drive,British
+Braemar,Drive,British
+Brockhampton,Drive,British
+Blandford,Drive,British
+Corfe,Place,British
+Towner,Road,British
+McNair,Road,British
+St George's,Lane,British
+Rivervale,Street,Generic
+Rivervale,Walk,Generic
+Compassvale,Drive,Generic
+Rivervale,Lane,Generic
+Joo Seng,Road,Chinese
+Paya Lebar,Lorong,Malay
+Rochdale,Road,British
+Bartley,Viaduct,British
+Howard,Road,British
+MacTaggart,Road,British
+Burn,Road,British
+Pereira,Road,Other
+Vernon,Park,British
+MacPherson,Road,British
+Kallang Bahru,,Malay
+Jellicoe,Road,British
+French,Road,British
+Allenby,Road,British
+Petain,Road,Other
+Pillai,Road,Indian
+Kesoma,Jalan,Malay
+Ong Lye,Lorong,Chinese
+How Sun,Drive,Chinese
+Paya Lebar,Street,Malay
+Bunga Rampai,Place,Malay
+Ampat,Kampong,Malay
+Mesin,Jalan,Malay
+Aljunied,Link,Other
+Hougang,,Chinese
+Muhibbah,Jalan,Malay
+Mulia,Jalan,Malay
+Gembira,Jalan,Malay
+Kemajuan,Jalan,Malay
+Setia,Jalan,Malay
+Hiboran,Jalan,Malay
+Mesra,Jalan,Malay
+Ubi,Link,Malay
+Ubi,Crescent,Malay
+Ubi,View,Malay
+Punggol,Bridge,Malay
+Kian Teck,Drive,Chinese
+Jurong Port,Road,Malay
+Tampines,Grande,Malay
+Ama Keng,Road,Chinese
+Tampines,Concourse,Malay
+Soon Wing,Road,Chinese
+Tannery,Lane,Generic
+Pipit,Road,Malay
+Circuit,Road,Generic
+Sallim,Road,Other
+Tan Sim Boh,Road,Chinese
+Goldhill,Avenue,British
+Goldhill,Rise,British
+Goldhill,Drive,British
+Goldhill,View,British
+Chancery,Hill Walk,Generic
+Barker,Road,British
+Asimont,Lane,British
+Matlock,Rise,British
+Robin,Road,Chinese
+Goldhill,Place,British
+Gilstead,Road,British
+Pasiran,Jalan,Malay
+Buckley,Road,British
+Gentle,Drive,British
+Bukit Tunggal,Road,Malay
+Chancery,Hill Road,Generic
+Padang Chancery,,Malay
+Dyson,Road,British
+Bo Seng,Avenue,Chinese
+Merlimau,Jalan,Malay
+Evelyn,Road,British
+Chiltern,Drive,British
+Muswell,Hill,British
+Wolskel,Road,British
+Cotswold,Close,British
+Lynwood,Grove,British
+Clifton,Vale,British
+Sundrige,Park Road,British
+Girang,Jalan,Malay
+Sukachita,Jalan,Malay
+Riang,Jalan,Malay
+Selangat,Lorong,Malay
+Lateh,Jalan,Malay
+Sommerville,Walk,British
+Biawak,Lorong,Malay
+Merryn,Avenue,British
+Daisy,Avenue,Generic
+Daisy,Road,Generic
+Tyersall,Road,British
+Tyersall,Avenue,British
+Gallop,Road,Generic
+Cluny,Park Road,British
+Kembang Melati,Jalan,Malay
+Keppel,Road,British
+Balmoral,Crescent,British
+Balmoral,Park,British
+Robin,Close,Chinese
+Teow Hock,Avenue,Chinese
+Stevens,Drive,British
+Ewe Boon,Road,Chinese
+Keng Chin,Road,Chinese
+Dalvey,Road,British
+Dalvey,Estate,British
+Margoliouth,Road,British
+White House,Park,Generic
+Lady,Hill Road,British
+Nassim,Road,Other
+Tudor,Close,British
+Unggas,Jalan,Malay
+Tempua,Jalan,Malay
+Compassvale,Link,Generic
+Toa Payoh,Jalan,Chinese
+Kim Keat,Link,Chinese
+Kim Keat,Avenue,Chinese
+Chermat,Jalan,Malay
+Lew Lian,Lorong,Chinese
+Kheam Hock,Road,Chinese
+Trevose,Crescent,British
+Berrima,Road,Other
+Dalkeith,Road,British
+Camden,Park,British
+Chee Hoon,Avenue,Chinese
+Dunearn,Close,British
+Ross,Avenue,British
+University,Road,Generic
+University,Walk,Generic
+Bahasa,Jalan,Malay
+Asuhan,Jalan,Malay
+Sejarah,Jalan,Malay
+Limu,Jalan,Malay
+Seni,Jalan,Malay
+Leyden,Hill,British
+Linden,Drive,Generic
+Naga Sari,Jalan,Malay
+Chai Chee,Street,Chinese
+Pine,Walk,Generic
+Oriole,Crescent,Generic
+Ash,Grove,Generic
+Vanda,Road,Generic
+Vanda,Crescent,Generic
+Vanda,Drive,Generic
+Cassia,Drive,Generic
+Sunset,AVe,Generic
+Greenwood,Avenue,Generic
+Greenpark,Avenue,Generic
+Hillcrest,Road,Generic
+Watten,Rise,British
+Greenmead,Avenue,Generic
+Watten,Drive,British
+Watten,Close,British
+Shelford,Road,British
+Watten,Heights,British
+Watten,View,British
+Park,Vale,Generic
+Arcadia,Road,Other
+Greendale,Avenue,Generic
+Adam,Park,British
+Chempaka Kuning,Jalan,Malay
+Hindhede,Drive,Other
+Tai Hwan,Drive,Chinese
+Tai Hwan,Grove,Chinese
+Li Hwan,View,Chinese
+Tai Hwan,Close,Chinese
+Pacheli,Jalan,Malay
+Li Hwan,Place,Chinese
+Li Hwan,Drive,Chinese
+Tai Hwan,Avenue,Chinese
+Tai Hwan,Terrace,Chinese
+Cardiff,Grove,British
+Tai Hwan,Heights,Chinese
+Tai Hwan,Lane,Chinese
+Li Hwan,Terrace,Chinese
+Tai Hwan,Crescent,Chinese
+Li Hwan,Close,Chinese
+Changi,Crescent,Malay
+Changi,Rise,Malay
+Pasir Ris,Close,Malay
+Pasir Ris,Street,Malay
+Elias,Road,Other
+Elias,Terrace,Other
+Warna,Taman,Malay
+Merah Saga,Jalan,Malay
+Holland,Hill,British
+Commonwealth,Lane,British
+Sussex,Lane,British
+Countryside,Place,Generic
+Holland,Rise,British
+Tan Boon Chong,Avenue,Chinese
+Jelita,Jalan,Malay
+Tenang,Jalan,Malay
+Istimewa,Jalan,Malay
+Peirce,Road,British
+Ridout,Road,British
+Peel,Road,British
+Rochalie,Drive,British
+Swettenham,Road,British
+Ah Hood,Road,Chinese
+Kensington,Park Road,British
+Merah,Bukit,Malay
+Payah,Lorong,Malay
+Zubir Said,Drive,Malay
+Oldham,Lane,British
+Penang,Lane,Malay
+Buyong,Road,Malay
+Countryside,Link,Generic
+Da Silva,Lane,Other
+Parry,Terrace,British
+Parry,View,British
+Sandilands,Road,British
+Punggol,Place,Malay
+Buangkok,Crescent,Malay
+Mount Sinai,Road,Other
+Ghim Moh,Road,Chinese
+MacKenzie,Road,British
+Coleman,Bridge,British
+Eu Tong Sen,Street,Chinese
+Mugliston,Walk,British
+Lentor,Drive,British
+Lentor,Green,British
+Lentor,Grove,British
+Lentor,Road,British
+Lentor,Walk,British
+Fudu,Park,Chinese
+Fudu,Walk,Chinese
+Lentor,Terrace,British
+Countryside,Grove,Generic
+Countryside,Road,Generic
+Countryside,View,Generic
+Lentor,Way,British
+Lentor,Place,British
+Lentor,Lane,British
+Lentor,Grove Crescent,British
+Lentor,Street,British
+Sunrise,Way,Generic
+Sunrise,Avenue,Generic
+Kechubong,Jalan,Malay
+Sunrise,Drive,Generic
+Sunrise,Close,Generic
+Sunrise,Terrace,Generic
+Sunrise,Place,Generic
+Cactus,Road,Generic
+Cactus,Crescent,Generic
+Begonia,Drive,Generic
+Begonia,Crescent,Generic
+Begonia,Terrace,Generic
+Begonia,Walk,Generic
+Saraca,View,Generic
+Saraca,Walk,Generic
+Saraca,Drive,Generic
+Saraca,Place,Generic
+Kasai,Road,Malay
+Selaseh,Jalan,Malay
+Resak,Jalan,Malay
+Jarak,Jalan,Malay
+Kelulut,Hill,Malay
+Sindor,Jalan,Malay
+Seletar Hills,Drive,Malay
+Ketumbit,Jalan,Malay
+Antoi,Jalan,Malay
+Gerald,Drive,British
+Gerald,Crescent,British
+Eaton,Walk,British
+Gerald,Park,British
+Mugliston,Park,British
+Hythe,Road,British
+Worthing,Road,British
+Court,Road,Generic
+Lichfield,Road,British
+Walmer,Drive,British
+Alnwick,Road,British
+Raglan,Grove,British
+Chuan,View,Chinese
+Conway,Grove,British
+Chuan,Drive,Chinese
+Chiselhurst,Grove,British
+Coniston,Grove,British
+Colchester,Grove,British
+Grace,Park,British
+Summer,Place,Generic
+Terrace,,Generic
+Chuan,Garden,Chinese
+Tai Yuan,Heights,Chinese
+Chuan,Link,Chinese
+Chuan,Place,Chinese
+Serangoon,Drive,Malay
+Joon Hiang,Road,Chinese
+Lim Tua Tow,Road,Chinese
+Crichton,Close,British
+Nira,Jalan,Malay
+Cooling,Close,Generic
+Purvis,Street,British
+Ang Mo Kio,,Chinese
+Mayflower,Avenue,British
+Mayflower,Road,British
+Berwick,Drive,British
+Joan,Road,British
+Seletar,Close,Malay
+Harvey,Close,British
+Tanah Merah,Coast Road,Malay
+Tanah Merah Ferry,Road,Malay
+Changi,Coast Walk,Malay
+Sime,Road,British
+Artillery,Avenue,Generic
+Siloso,Road,Malay
+Oxley,Rise,British
+Harvey,Avenue,British
+Sea Breeze,Road,Generic
+Sea Breeze,Avenue,Generic
+Guan Soon,Avenue,Chinese
+Sea Breeze,Walk,Generic
+Harvey,Crescent,British
+Tram Safari,Route,Generic
+Banda,Street,Indian
+Jelutong,Bridge,Malay
+Prince of Wales,Road,British
+Lutheran,Road,Other
+Walshe,Road,British
+Angin Laut,Jalan,Malay
+Kaki Bukit,Crescent,Malay
+Kent,Ridge Road,British
+Toa Payoh,Rise,Chinese
+Pemimpin,Drive,Malay
+Seletar Aerospace,View,Malay
+Pandan,Valley,Malay
+Moonbeam,Walk,Generic
+Mount Sinai,Avenue,Other
+Mount Sinai,View,Other
+Mount Sinai,Rise,Other
+Foo Kim Lin,Road,Chinese
+Rimau,Jalan,Malay
+Teo Kim Eng,Road,Chinese
+Punai,Jalan,Malay
+Emerald,Hill Road,Generic
+Hullet,Road,British
+Saunders,Road,British
+Emerald,Link,Generic
+Nutmeg,Road,Generic
+Mount Elizabeth,,British
+Mount Elizabeth,Link,British
+Winstedt,Road,British
+Koek,Road,Chinese
+Kramat,Road,Malay
+Fernhill,Close,British
+Marina,Boulevard,Generic
+Irrawaddy,Road,Other
+Cairnhill,Rise,British
+Draycott,Park,British
+Goodwood,Hill,British
+Clemenceau,Av.,Other
+Eber,Road,Other
+Cuscaden,Walk,British
+Mariam,Way,Malay
+Flora,Road,British
+Flora,Drive,British
+Mariam,Walk,Malay
+Sinaran,Drive,Malay
+Mistri,Road,Other
+Tras,Link,Malay
+Asas,Jalan,Malay
+Uji,Jalan,Malay
+Tumpu,Jalan,Malay
+Siap,Jalan,Malay
+Tekad,Jalan,Malay
+Keris,Jalan,Malay
+Keris,Drive,Malay
+Azam,Jalan,Malay
+Hillview,Way,Generic
+Intan,Jalan,Malay
+Kemunchup,Lorong,Malay
+Vigilante,Drive,Generic
+Science,Park Drive,Generic
+Stockport,Road,British
+Chai Chee,Drive,Chinese
+Rifle Range,Road,Generic
+Ean Kiam,Place,Chinese
+Marshall,Road,British
+Boscombe,Road,British
+Dunman,Lane,British
+Morse,Road,British
+Market,Road,Generic
+Havelock,Square,British
+Pasir Ris,Coast Ind Park,Malay
+Pasir Ris,Farmway,Malay
+West,Coast Way,Generic
+Bird,Park Drive,British
+Leonie,Hill,British
+River,Valley Grove,Generic
+Leonie,Hill Rd,British
+Tengah,Avenue,Malay
+Laba,Road,Malay
+Sesuai,Lorong,Malay
+Peng Kang,Avenue,Chinese
+Brani,Avenue,Malay
+Bencoolen,Link,Malay
+Kramat,Lane,Malay
+Owen,Road,British
+Dorset,Road,British
+Hertford,Road,British
+Carlisle,Road,British
+Truro,Road,British
+Norfolk,Road,British
+Cambridge,Road,British
+Mar Thoma,Road,Other
+Mount Sophia,,British
+Bahagia,Jalan,Malay
+Kinta,Road,Malay
+Roberts,Lane,British
+Birch,Road,British
+Klang,Road,Malay
+Belilios,Road,Other
+Chander,Road,Indian
+Race Course,Lane,Generic
+Hampshire,Road,British
+Northumberland,Road,British
+Kerbau,Road,Malay
+Clive,Road,British
+Farrer Park Station,Road,British
+Verdun,Road,Other
+Kampong Kapor,Road,Malay
+Maude,Road,British
+Niven,Road,British
+Springwood,Height,British
+Hume,Heights,British
+Stadium,Walk,Generic
+Second,Street,Generic
+Carmen,Terrace,Other
+Stadium,Crescent,Generic
+Dua,Jalan,Malay
+Frankel,Place,Other
+Bowmont,Gardens,British
+Third,Street,Generic
+Fourth,Street,Generic
+First,Street,Generic
+Elite,Park Avenue,Generic
+Siglap,Close,Malay
+Elite,Terrace,Generic
+Adis,Road,Other
+Prinsep,Link,British
+Manila,Street,Other
+Cheng Yan,Place,Chinese
+Pepys,Road,British
+Cornwall,Road,British
+Royal,Road,Generic
+Alexandra,Terrace,British
+Hyderabad,Road,Indian
+Lock,Road,Other
+Preston,Road,British
+Pender,Road,British
+Marang,Road,Generic
+Telok Blangah,Way,Malay
+Telok Blangah,Rise,Malay
+Telok Blangah,Crescent,Malay
+Bristol,Road,British
+Seah Im,Road,Chinese
+Keppel,Hill,British
+Telok Blangah,Drive,Malay
+Bukit Purmei,Avenue,Malay
+Pebble,Lane,Generic
+Rose,Lane,Generic
+Ipoh,Lane,Malay
+Lim Ah Woo,Road,Chinese
+Green,Lane,British
+Butterworth,Lane,British
+Rutland,Road,British
+Baboo,Lane,Malay
+Tekka,Lane,Chinese
+Lembu,Road,Malay
+Cluny,Hill,British
+Cluny,Park,British
+Kee Seng,Street,Chinese
+Palawan,Beach Walk,Malay
+Imbiah,Hill Road,Malay
+Imbiah,Walk,Malay
+Harbourfront,Place,Generic
+Maritime,Square,Generic
+Short,Street,Generic
+McNally,Street,British
+Carver,Road,British
+Nelson,Road,British
+Canberra,Link,Other
+Sembawang,Alley,Malay
+Admiralty,Drive,British
+Harom Setangkai,Jalan,Malay
+Sankam,Jalan,Malay
+Kerayong,Jalan,Malay
+Machang,Jalan,Malay
+Basong,Jalan,Malay
+Kandis,Jalan,Malay
+Janggus,Jalan,Malay
+Gapis,Jalan,Malay
+Gelam,Jalan,Malay
+Andrew,Avenue,British
+Mempurong,Jalan,Malay
+Wellington,Circle,British
+Wishart,Road,British
+Montreal,Drive,Other
+Selimang,Jalan,Malay
+Inggu,Jalan,Malay
+Woollerton,Drive,British
+Woollerton,Park,British
+Laurelwood,Avenue,Generic
+Lantana,Avenue,Malay
+Farrer,Park Road,British
+Puaka,Bridge,Malay
+Jervois,Road,British
+Nathan,Road,Other
+Chatsworth,Road,British
+Bishopsgate,,Generic
+Stadium,Way,Generic
+Clive,Street,British
+Tanjong Rhu,Bridge,Malay
+Benaan Kapal,Jalan,Malay
+Mount Faber,Loop,British
+Nanyang,Valley,Chinese
+Victoria,Park Road,British
+Kingsmead,Road,British
+Wat Siam,Jalan,Other
+Sam Heng,Jalan,Chinese
+Canterbury,Road,British
+Berkshire,Road,British
+Caseen,Street,British
+Nanson,Road,British
+Rodyk,Street,British
+Jiak Kim,Street,Chinese
+Kim Yam,Road,Chinese
+Tong Watt,Road,Chinese
+Tank,Road,Generic
+Science,Park Road,Generic
+Zehnder,Road,Other
+Durain,Jalan,Malay
+Enduf Senin,Jalan,Generic
+Batu Ubin,Jalan,Malay
+Ubin,Jalan,Malay
+Noordin,Jalan,Malay
+Chwee Chian,Road,Chinese
+Lada Puteh,Jalan,Malay
+Bukit Merah,View,Malay
+West,Coast Park,Generic
+West,Coast Grove,Generic
+Malcolm,Road,British
+Mount Rosie,Road,British
+Dickson,Road,British
+Kayu Manis,Jalan,Malay
+Kolam Ayer,Jalan,Malay
+Taman,Jalan,Malay
+Pandan,Road,Malay
+Pandan,Avenue,Malay
+Penjuru,Lane,Malay
+Tanjong Penjuru,Crescent,Malay
+West,Coast Place,Generic
+West,Coast Terrace,Generic
+West,Coast Avenue,Generic
+Tuas View Circuit,,Malay
+Pandan,Crescent,Malay
+Papan,Jalan,Malay
+Terusan,Jalan,Malay
+Pesawat,Jalan,Malay
+Tepong,Jalan,Malay
+Fishery Port,Road,Generic
+Besut,Jalan,Malay
+Seraya,Avenue,Malay
+Ayer Merbau,Road,Malay
+Tuas Basin,Link,Malay
+Tuas,View Crescent,Malay
+Sakra,Road,Malay
+Holt,Road,British
+Jambu Ayer,Jalan,Malay
+Swiss Club,Road,Other
+Swiss Club,Avenue,Other
+Swiss Club,Lane,Other
+Ming Teck,Park,Chinese
+Holland,Plain,British
+Gymkhana,Avenue,British
+Changi,Village Road,Malay
+Simei,Avenue,British
+Simei,Road,British
+Stadium,Boulevard,Generic
+Bendemeer,Road,Other
+Redhill,Close,British
+Kembangan,Taman,Malay
+Bahru,Lengkok,Malay
+Tiong,Jalan,Chinese
+Sarina,Lorong,Malay
+Kampong Java,Road,Malay
+Gateway,Link,Generic
+Commonwealth,Drive,British
+Butik Merah,,Malay
+Connaught,Drive,British
+Irwell,Bank Road,British
+Eng Kong,Place,Chinese
+Eng Kong,Garden,Chinese
+Cheng Soon,Crescent,Chinese
+Kismis,Green,Other
+Cheng Soon,Garden,Chinese
+Kismis,Lorong,Other
+Eng Kong,Road,Chinese
+Eng Kong,Crescent,Chinese
+Greenridge,Crescent,Generic
+Kismis,Place,Other
+King's,Close,British
+King's,Walk,British
+King's,Drive,British
+Kew,Lane,British
+Kent,Road,British
+Toh Tuck,Terrace,Chinese
+Toh Tuck,Rise,Chinese
+Yuan Ching,Road,Chinese
+Strathmore,Road,British
+Gombak,Drive,Malay
+Hobart,Road,British
+Eastwood,Drive,British
+Mount Sinai,Lane,Other
+Ria,Jalan,Malay
+Sunset,Drive,Generic
+Kismis,Avenue,Other
+Kismis,Road,Other
+Sommerville,Road,British
+Greenleaf,Rise,Generic
+Greenleaf,Place,Generic
+Greenleaf,View,Generic
+Lasia,Avenue,Malay
+Bin Tong,Park,Chinese
+Kovan,Road,Other
+Hillcrest,Crescent,Generic
+Vanda,Avenue,Generic
+Adat,Jalan,Malay
+Harlyn,Road,British
+Dunsfold,Drive,British
+Melrose,Drive,British
+MacKerrow,Road,British
+Carisbrooke,Grove,British
+Chuan,Walk,Chinese
+Conway,Circle,British
+Lange,Road,Other
+Lentor,Loop,British
+Lentor,Vale,British
+Phoenix,Avenue,Generic
+Kasau,Jalan,Malay
+Springside,Walk,Generic
+Springside,Link,Generic
+Attap,Valley Road,Malay
+North,Coast Crescent,Generic
+Senoko,Drive,Malay
+Senoko,Road,Malay
+Senoko,Avenue,Malay
+Senoko,Way,Malay
+Wellington,Road,British
+Jamaica,Road,Other
+Fiji,Road,Other
+Falkland,Road,British
+Tasmania,Road,British
+Office,Road,Generic
+Woodleigh,Park,British
+Youngberg,Terrace,British
+Woodleigh,Close,British
+Kim Tian,Road,Chinese
+Heng Mui Keng,Terrace,Chinese
+Membina,Jalan,Malay
+Loyang,Rise,Malay
+Burghley,Drive,British
+Mutiara,Jalan,Malay
+Shanghai,Road,Chinese
+Tawas,Lorong,Malay
+Aviation,Park Road,Generic
+Chuan,Close,Chinese
+Chuan,Lane,Chinese
+Melayu,Lorong,Malay
+Port,Road,Generic
+Marican,Lorong,Malay
+Labrador Villa,Road,British
+Cove,Drive,Generic
+Pearl,Island,British
+Sandy,Island,Generic
+Ocean,Drive Circus,Generic
+Ocean,Way,Generic
+Woodgrove,Walk,Generic
+Beechwood,Grove,British
+Oakwood,Grove,British
+Woodgrove,View,Generic
+Marsiling,Rise,Chinese
+Peradun,Jalan,Malay
+Robin,Walk,Chinese
+Namly,Crescent,Indian
+St Thomas,Walk,British
+Keppel Bay,Drive,British
+Fusionopolis,Way,Generic
+Exchange,Green,Generic
+one-north Gateway,,Generic
+One-North,Crescent,Generic
+Biopolis,Drive,Generic
+Buona,Vista Drive,Other
+Biopolis,Way,Generic
+Biopolis,Road,Generic
+Biomedical,Grove,Generic
+Siok Wan,Close,Chinese
+Chwee Chian,View,Chinese
+Kilang Barat,Jalan,Malay
+Kilang,Jalan,Malay
+Kilang Timor,Jalan,Malay
+Namly,Avenue,Indian
+Fourth,Avenue,Generic
+Second,Avenue,Generic
+Ishak,Jalan,Malay
+Namly,Place,Indian
+Namly,Garden,Indian
+Namly,Drive,Indian
+Namly,Grove,Indian
+Turf Club,Road,Generic
+Marzuki,Lorong,Malay
+Tekong,Highway,Malay
+Vanda,Link,Generic
+Fifth,Avenue,Generic
+Eunos,Crescent,Malay
+Hemmant,Road,British
+Wimborne,Road,British
+Cranborne,Road,British
+Salleh,Jalan,Malay
+Yasin,Jalan,Malay
+Kechot,Jalan,Malay
+Rahmat,Jalan,Malay
+Ismail,Jalan,Malay
+Hussein,Jalan,Malay
+Melayu,Jalan,Malay
+Westwood,Drive,British
+Westwood,Walk,British
+Westwood,Crescent,British
+Westwood,Road,British
+Westwood,Avenue,British
+Westwood,Terrace,British
+Beach,View,Generic
+Punggol,Walk,Malay
+Sumang,Link,Malay
+Limau,Terrace,Malay
+Woodlands,Lane,Generic
+Yunnan,Drive,Chinese
+Yunnan,Crescent,Chinese
+Yunnan,Road,Chinese
+Tanglin Halt,Road,Chinese
+Tanglin Halt,Close,Chinese
+West,Coast Lane,Generic
+Limau,Rise,Malay
+Danau,Lorong,Malay
+Yung Sheng,Road,Chinese
+Yung An,Road,Chinese
+Tuas,View Walk,Malay
+Lam Sam,Jalan,Chinese
+Kian Teck,Avenue,Chinese
+Limau,Walk,Malay
+Bilal,Jalan,Malay
+Bilal,Lane,Malay
+Bedok,Garden,Malay
+Kathi,Jalan,Malay
+Minaret,Walk,Generic
+Limau,Grove,Malay
+Bedok,Taman,Malay
+Bedok,Place,Malay
+Bedok Ria,Crescent,Malay
+Bedok Ria,Drive,Malay
+Bedok Ria,Place,Malay
+Bedok Ria,Terrace,Malay
+Bedok Ria,Walk,Malay
+Langgar Bedok,Jalan,Malay
+Bedok,Close,Malay
+Bedok,Rise,Malay
+Limau Kasturi,Jalan,Malay
+Limau Nipis,Jalan,Malay
+Bedok,Terrace,Malay
+Ang Mo Kio Electronics,Park Road,Chinese
+Eastwood,Place,British
+Redhill,Road,British
+Bedok,Walk,Malay
+Bedok,Lane,Malay
+Pari Dedap,Walk,Malay
+Peakville,Grove,British
+Pari Kikis,Jalan,Malay
+Peakville,Terrace,British
+Pari Unak,Jalan,Malay
+Chang Charn,Road,Chinese
+Hu Ching,Road,Chinese
+Clover,Avenue,Generic
+Binchang,Rise,Malay
+Woodland,View,Generic
+Clover,Cres,Generic
+Clover,Way,Generic
+Clover,Close,Generic
+Binchang,Walk,Malay
+Pemimpin,Jalan,Malay
+Pemimpin,Place,Malay
+Binchang,Jalan,Malay
+Pemimpin,Terrace,Malay
+Changi Business,Park,Malay
+Changi Business,Park Cresent,Malay
+Anthony,Road,British
+Peck Hay,Road,Chinese
+Yunnan,Walk,Chinese
+Pioneer,Circus,British
+Soon Lee,Drive,Chinese
+Sunview,Way,Generic
+Carnation,Drive,Generic
+Anak Patong,Jalan,Malay
+Teban,Gardens Crescent,Malay
+Bedok,Interchange,Malay
+Bedok,,Malay
+Capricorn,Drive,Generic
+Jitong,Jalan,Malay
+Marina Coastal,Expressway,Generic
+Soo Chow,Garden Road,Chinese
+Toronto,Road,Other
+Marigold,Drive,Generic
+Straits,View,Generic
+Island Club,Road,Generic
+Windsor,Park Road,British
+Orchid,Drive,Generic
+Gardenia,Road,Generic
+Jupiter,Road,Generic
+Jasmine,Road,Generic
+Venus,Rd,Other
+Bright,Hill Drive,Generic
+Gladiola,Drive,Generic
+Daffodil,Drive,Generic
+Ontario,Avenue,Other
+Thomson,Ridge,British
+Soo Chow,Drive,Chinese
+Lembah Thomson,Jalan,British
+Soo Chow,Way,Chinese
+Soo Chow,View,Chinese
+Libra,Drive,Generic
+Soo Chow,Rise,Chinese
+Mega,Lorong,Malay
+Soo Chow,Walk,Chinese
+Angklong,Jalan,Malay
+Angklong,Lane,Malay
+Sin Ming,Walk,Chinese
+Seruling,Jalan,Malay
+Gendang,Jalan,Malay
+Island,Gardens Walk,Generic
+Rebana,Jalan,Malay
+Hindhede,Walk,Other
+Tuas Bay,Link,Malay
+Tuas,View Avenue,Malay
+Tuas,Loop,Malay
+Tuas Basin,Close,Malay
+Shipyard,Crescent,Generic
+Jurong Pier,Way,Malay
+Bukit,Drive,Malay
+Rochester,Drive,British
+Vista Exchange,Green,Generic
+Cosford,Road,British
+Kent,Ridge Drive,British
+Jurong Pier,Circus,Malay
+Chun Tin,Road,Chinese
+Pisang Batu,Lorong,Malay
+Yuk Tong,Avenue,Chinese
+Wilkie,Road,British
+Sophia,Road,British
+Commonwealth,Link,British
+Commonwealth,Crescent,British
+Penjuru,Street,Malay
+Penjuru,Place,Malay
+Penjuru,Walk,Malay
+Maju,Drive,Malay
+Mandalay,Road,Other
+Shan,Road,Other
+Bassein,Road,Other
+Angsana,Avenue,Malay
+Tan Tock Seng,Jalan,Chinese
+Jambol,Place,Malay
+Harbour,Drive,Generic
+Pine,Lane,Generic
+Cuff,Road,British
+Mount Emily,Road,British
+Martin,Place,British
+Lloyd,Road,British
+Springwood,Avenue,British
+Springwood,Crescent,British
+Jambol,Walk,Malay
+Springwood,Walk,British
+Normanton,Park,British
+Warwick,Road,British
+Camphor,Avenue,Generic
+Parkstone,Road,British
+Swanage,Road,British
+Poole,Rd,British
+Wareham,Road,British
+Samarinda,Jalan,Malay
+Gray,Lane,British
+Thiam Siew,Avenue,Chinese
+Kemboja,Jalan,Malay
+Aroozoo,Avenue,Other
+Mulberry,Avenue,Generic
+Belimbing,Avenue,Malay
+Siang Kuang,Avenue,Chinese
+Butterfly,Avenue,Generic
+Siak Kew,Avenue,Chinese
+Wan Tho,Avenue,Chinese
+Pheng Geck,Avenue,Chinese
+Willow,Avenue,Generic
+Lichi,Avenue,Malay
+Wangi,Jalan,Malay
+Kenanga,Avenue,Malay
+Chempaka,Avenue,Malay
+Cedar,Avenue,Generic
+Kwong,Avenue,Chinese
+Mastuli,Jalan,Malay
+Puay Hee,Avenue,Chinese
+Songket,Jalan,Malay
+Kee Choe,Avenue,Chinese
+Lepas,Jalan,Malay
+Surin,Avenue,Other
+Bunga,Lorong,Malay
+Pelikat,Jalan,Malay
+Tenon,Jalan,Malay
+Serangoon,Terrace,Malay
+Pier,Road,Generic
+Pasir Ris,Grove,Malay
+Eden,Grove,Generic
+Labu,Jalan,Malay
+Gambir,Lorong,Malay
+Third,Avenue,Generic
+Bedok,Reservoir View,Malay
+Tampines,Place,Malay
+Tuas Bay,Drive,Malay
+Ellis,Road,British
+Sikudangan,Jalan,Malay
+Mawar,Jalan,Malay
+Jermin,Jalan,Malay
+Happy,Avenue,Generic
+Raya,Jalan,Malay
+Melor,Jalan,Malay
+Nim,Drive,British
+Holland,Grove Terrace,British
+Belangkas,Jalan,Malay
+MacPherson,Lane,British
+Melati,Jalan,Malay
+Holland,Grove Drive,British
+Grove,Lane,Generic
+Holland,Grove View,British
+Holland,Grove Walk,British
+St George's,Road,British
+Manis,Jalan,Malay
+Seletar,Terrace,Malay
+St Michael's,Road,British
+Semerbak,Jalan,Malay
+Canton,Street,Chinese
+Middle,Road,Generic
+Mayne,Road,British
+Bangkit,Road,Malay
+George,Street,British
+Seletar,Crescent,Malay
+Nassim,Hill,Other
+Serasi,Taman,Malay
+Armenian,Street,Other
+Bangau,Jalan,Malay
+Lakum,Jalan,Malay
+Keruing,Jalan,Malay
+St Martin's,Drive,Other
+Kenarah,Jalan,Malay
+Lekub,Jalan,Malay
+Seletar,Court,Malay
+Pelajau,Jalan,Malay
+Joran,Jalan,Malay
+Toh Tuck,Crescent,Chinese
+Toh Tuck,Place,Chinese
+Toh Tuck,Walk,Chinese
+Pasir Ris,Road,Malay
+Indus,Road,Indian
+Belilios,Lane,Other
+Stratton,Road,British
+Kelulut,Jalan,Malay
+Stratton,Drive,British
+Stratton,Walk,British
+Lilac,Road,Generic
+Nim,Road,British
+Lilac,Walk,Generic
+Mimosa,Road,Generic
+Neram,Crescent,Indian
+Nim,Crescent,British
+Mimosa,Walk,Generic
+Nim,Green,British
+Neram,Road,Indian
+Lilac,Drive,Generic
+Stratton,Place,British
+Saraca,Road,Generic
+Lebat Daun,Jalan,Malay
+Rengas,Jalan,Malay
+Mimosa,Vale,Generic
+Fernvale,Lane,Generic
+Miltonia,Close,Other
+Orchid Club,Road,Generic
+Legundi,Jalan,Malay
+Kemuning,Jalan,Malay
+Shaer,Jalan,Other
+Mata Ayer,Jalan,Malay
+Sendudok,Jalan,Malay
+Salang,Jalan,Malay
+Sembawang,Place,Malay
+Jeruju,Jalan,Malay
+Hikayat,Jalan,Malay
+Woodlands,Sector,Generic
+Woodlands,Loop,Generic
+Woodlands,Walk,Generic
+North,Coast Drive,Generic
+Admiralty,Lane,British
+Stagmont,Ring,British
+Seletar Aerospace,Link,Malay
+Kelabu Asap,Jalan,Malay
+Bukit Timah,Link,Malay
+Cheong Chin Nam,Road,Chinese
+Eng Kong,Lane,Chinese
+Pisang Asam,Lorong,Malay
+Pisang Emas,Lorong,Malay
+Pisang Hijau,Lorong,Malay
+Pisang Raja,Lorong,Malay
+Pisang Udang,Lorong,Malay
+Pei Wah,Avenue,Chinese
+Tham Soong,Avenue,Chinese
+Toh Yi,Road,Chinese
+Highland,Road,Generic
+Turut,Track,Malay
+Rusuk,Lorong,Malay
+Sireh,Place,Malay
+Aroozoo,Lane,Other
+Rama Rama,Jalan,Malay
+Surin,Road,Other
+Sireh,Taman,Malay
+Sireh,Kampong,Malay
+Lew Lian,Vale,Chinese
+Ampas,Jalan,Malay
+Sakra,Avenue,Malay
+Banyan,Avenue,Malay
+Surin,Lane,Other
+Kim Keat,Road,Chinese
+Lagos,Circle,Other
+Edgware,Road,British
+College,Avenue,British
+Sudan,Road,Other
+Kenya,Crescent,Other
+Durban,Road,Other
+Montreal,Road,Other
+Canada,Road,Other
+Ottawa,Road,Other
+Bermuda,Road,Other
+St John's,Road,British
+Marina,Gardens Drive,Generic
+Kim Keat,Lane,Chinese
+Rajah,Jalan,Malay
+Dusun,Jalan,Malay
+Ampas,Lorong,Malay
+Kim Keat,Close,Chinese
+Boon Teck,Road,Chinese
+Limau,Lorong,Malay
+Kemaman,Jalan,Malay
+Fusionopolis,Walk,Generic
+Kim Chuan,Drive,Chinese
+Sunset,link,Generic
+King Albert,Park,British
+Sherwood,Road,British
+Lakeside,Drive,Generic
+Mount Sinai,Crescent,Other
+Mount Sinai,Plain,Other
+Rochester,Park,British
+Permata,Taman,Malay
+Pasir Ris,Avenue,Malay
+Pasir Ris,Green,Malay
+Pasir Ris,Heights,Malay
+Ayer Rajah,Crescent,Malay
+Toh Guan,Rd,Chinese
+Slim Barracks,Rise,British
+Liput,Lorong,Malay
+Leedon,Road,British
+Leedon,Heights,British
+Dedap,Road,Malay
+Commonwealth,Close,British
+Mambong,Lorong,Malay
+Farrer,Drive,British
+Asrama,Lorong,Malay
+Claymore,Drive,British
+Begonia,Lane,Generic
+Champions,Way,Generic
+Stevens,Road,British
+Bugis,Kampong,Malay
+Keli,Jalan,Malay
+Dedap,Link,Malay
+Dedap,Place,Malay
+Dover,Crescent,British
+Tupai,Jalan,Malay
+Arnap,Jalan,Malay
+One Tree,Hill,Generic
+Tari Serimpi,Jalan,Malay
+Tari Zapin,Jalan,Malay
+Tong Lee,Road,Chinese
+Tari Dulang,Jalan,Malay
+Mimosa,Crescent,Generic
+Mimosa,Place,Generic
+Mimosa,View,Generic
+Mimosa,Drive,Generic
+Saraca,Terrace,Generic
+Jurong Gateway,Road,Malay
+Venture,Avenue,Generic
+Saraca,Hill,Generic
+Tai Thong,Crescent,Chinese
+Stratton,Green,British
+Mugliston,Gardens,British
+Chermai,Jalan,Malay
+Datoh,Jalan,Malay
+Olive,Road,Generic
+Nakhoda,Taman,Malay
+Sommerville,Estate Road,British
+Whampoa,,Chinese
+Fairways,Drive,Generic
+Alps,Avenue,Other
+Binjai,Park,Malay
+Makepeace,Road,British
+Ford,Avenue,British
+Joo Hong,Road,Chinese
+Lewis,Road,British
+Changi,Way,Malay
+Tanah Merah Besar,Road,Malay
+Leedon,Park,British
+Sampurna,Jalan,Indian
+Oei Tiong Ham,Park,Chinese
+Verde,Cresent,Other
+Prince Charles,Crescent,British
+Zion,Close,Other
+Ridley,Park,British
+Cornwall,Gardens,British
+Siantan,Jalan,Malay
+Teck Whye,Walk,Chinese
+Stagmont,Road,British
+Seletar,Link,Malay
+Prince George's,Park,British
+College,Link,British
+Rajawali,Jalan,Malay
+Tekukor,Jalan,Malay
+Kakatua,Jalan,Malay
+Layang Layang,Jalan,Malay
+Selanting,Jalan,Malay
+Merbok,Jalan,Malay
+Highgate,Walk,British
+Highgate,Crescent,British
+Tanglin,Hill,Chinese
+Robin,Lane,Chinese
+Robin,Drive,Chinese
+Loyang Besar,Jalan,Malay
+Bukit Batok,Link,Malay
+Maidstone,Road,British
+Miller,Street,British
+Sturdee,Road,British
+Queen Astrid,Park,British
+Sembawang,Walk,Malay
+Ulu Sembawang,Jalan,Malay
+Sajak,Jalan,Malay
+Cherpen,Jalan,Malay
+Malu-Malu,Jalan,Malay
+Telipok,Jalan,Malay
+Serengam,Jalan,Malay
+Derum,Jalan,Malay
+Sembong,Road,Malay
+Bedford,Road,British
+Russels,Road,British
+York,Road,British
+MacRitchie,Viaduct,British
+Meranti,Road,Malay
+Adam,Drive,British
+Upp Toh Tuck,Terrace,Chinese
+Minden,Road,Other
+Sherwood,Avenue,British
+Harding,Road,British
+Simei,Rise,British
+Kuang,Jalan,Malay
+Meragi,Road,Malay
+Pergam,Jalan,Malay
+Tiga Ratus,Jalan,Malay
+Meragi,Terrace,Malay
+Demak,Jalan,Malay
+Pelatok,Jalan,Malay
+Segam,Jalan,Malay
+Simei,Lane,British
+Meragi,Close,Malay
+Mount Echo,Park,Generic
+Soo Bee,Jalan,Chinese
+Expo,Drive,Generic
+Prince Philip,Avenue,British
+Jervois,Close,British
+Chatsworth,Park,British
+Chatsworth,Avenue,British
+Jervois,Hill,British
+Prince Charles,Square,British
+Cable,Road,Generic
+Tampines,Link,Malay
+Kim Seng,Walk,Chinese
+Harbourfront,Avenue,Generic
+Jervois,Lane,British
+Rumah Tinggi,Jalan,Malay
+Boon Lay,Avenue,Chinese
+Mohamad Ali,Lane,Malay
+Bayfront,Link,Generic
+Sheares,Link,British
+Birdcage,Walk,British
+Harbourfront,Walk,Generic
+Clarence,Lane,British
+Bukit Chermin,Road,Malay
+Telok Blangah,Street,Malay
+Arguilla,Park,Indian
+Tan Tock Seng,Link,Chinese
+Monk's,Hill Road,British
+Monk's,Hill Terrace,British
+River,Valley Close,Generic
+Blair,Road,British
+Medway,Drive,British
+John,Road,British
+Gemmill,Lane,British
+Changi Business,Park Avenue,Malay
+Tebing,Lane,Malay
+Pasir Ris,View,Malay
+Queen's,Close,British
+Stirling,Walk,British
+Crawford,Lane,British
+Prince Edward,Road,British
+Kay Siang,Road,Chinese
+Chai Chee,Lane,Chinese
+Lapang,Jalan,Malay
+Senang,Jalan,Malay
+Kembangan,Lorong,Malay
+Paras,Jalan,Malay
+Sentosa,Jalan,Malay
+Senang,Crescent,Malay
+Chua Chu Kang,Grove,Chinese
+Compassvale,Walk,Generic
+Cuppage,Road,British
+Saint Martin,Lane,British
+Seletar Aerospace,Rise,Malay
+Loke Yew,Street,Chinese
+Technology,Drive,Generic
+Clementi,Crescent,British
+Tao Ching,Road,Chinese
+Winchester,Road,British
+Bury,Road,British
+Gelyang Bahru,Terrace,Malay
+Science,Centre Road,Generic
+Pioneer,Turn,British
+Pioneer,View,British
+Sungei Poyan,Jalan,Malay
+Kranji,Link,Malay
+Woodlands,Circle,Generic
+Eng Hoon,Street,Chinese
+Guan Chuan,Street,Chinese
+Imbiah,Road,Malay
+Moh Guan,Terrace,Chinese
+Terubok,Jalan,Malay
+Bright,Hill Crescent,Generic
+Belibas,Jalan,Malay
+Ikan Merah,Jalan,Malay
+Sembilang,Jalan,Malay
+Sotong,Jalan,Malay
+Senoko,Crescent,Malay
+Pavilion,Rise,Generic
+Pavilion,Street,Generic
+Pavilion,Grove,Generic
+Admiralty,Link,British
+Hua Guan,Avenue,Chinese
+Institution,Hill,Generic
+Galistan,Avenue,Other
+Pavilion,Circle,Generic
+Bingka,Jalan,Malay
+Gaharu,Jalan,Malay
+Kay Poh,Road,Chinese
+Sian Tuan,Avenue,Chinese
+Keria,Jalan,Malay
+Yarwood,Avenue,British
+Wajek,Walk,Malay
+Bangket,Jalan,Malay
+Wajek,Jalan,Malay
+Chitty,Road,Indian
+Dalhousie,Lane,British
+Mayo,Street,British
+Marymount,Terrace,British
+Clover,Rise,Generic
+Republic,Cresent,Generic
+Republic,Link,Generic
+Angsa,Lengkok,Malay
+Orchard Spring,Lane,Generic
+Berjaya,Jalan,Malay
+Insaf,Jalan,Malay
+Recreation,Road,Generic
+Recreation,Lane,Generic
+Stadium,Drive,Generic
+Stadium,Place,Generic
+Tamban,Jalan,Malay
+Rotan,Lane,Malay
+Moonstone,Lane,Generic
+Opal,Crescent,Generic
+Ruby,Lane,Generic
+Sims,View,Chinese
+Bedok,Reservoir Crescent,Malay
+Balmeg,Hill,Other
+Cleantech,Loop,Generic
+CleanTech,View,Generic
+Cleantech,Heights,Generic
+Enduf Serin,Jalan,Generic
+Pekan Ubin,Jalan,Malay
+Sennett,Terrace,British
+Pinewood,Grove,British
+Ashwood,Grove,British
+Cedarwood,Grove,Generic
+Goodlink,Park,British
+Suffolk,Road,British
+Wakaff,Jalan,Malay
+Ma'mor,Jalan,Malay
+Tenteram,Jalan,Malay
+Bali,Lane,Malay
+Minto,Road,Other
+Suffolk,Walk,British
+Wak Hassan,Kampong,Malay
+Gambas,Cresent,Malay
+Chiku,Road,Malay
+Rambutan,Road,Malay
+Tembeling,Lane,Malay
+Satu,Jalan,Malay
+St Barnabas,Lane,British
+St Wilfred,Road,British
+St Francis,Road,British
+Denham,Close,British
+Wilmonar,Avenue,British
+Jambu Batu,Jalan,Malay
+Jambu Mawar,Jalan,Malay
+Ascot,Rise,British
+Cherry,Avenue,Generic
+Elm,Avenue,Generic
+Kampong Chantek,Jalan,Malay
+Maple,Lane,Generic
+Lotus,Avenue,Generic
+Lily,Avenue,Generic
+Senandong,Jalan,Malay
+Anamalai,Avenue,Indian
+Anderson,Road,British
+Waringin,Jalan,Malay
+Tuas,View Square,Malay
+Keppel Bay,View,British
+Makeway,Avenue,British
+Aruan,Jalan,Malay
+Hooper,Road,British
+Derbyshire,Road,British
+Essex,Road,British
+Goldhill,Plaza,British
+Khiang Guan,Avenue,Chinese
+Shrewsbury,Road,British
+Surrey,Road,British
+Lincoln,Road,British
+Waringin,Walk,Malay
+Enam,Lengkong,Malay
+Tuas,View Loop,Malay
+Namly,Close,Indian
+Tuas,View Link,Malay
+Ang Mo Kio,Drive,Chinese
+Puntong,Lorong,Malay
+The Inglewood,,British
+Stangee,Place,Malay
+Tenggiri,Jalan,Malay
+Queen Astrid,Gardens,British
+Harum,Jalan,Malay
+Pelangi,Jalan,Malay
+Namly,View,Indian
+Namly,Hill,Indian
+First,Avenue,Generic
+Changi Business,Park Vista,Malay
+Somapah,Road,Indian
+Wenya,Avenue,Other
+Murai,Farmway,Malay
+Folkestone,Road,British
+Winstedt,Drive,British
+St Helena,Road,British
+Queen's,Avenue,British
+King's,Avenue,British
+Tuah,Road,Malay
+Gibraltar,Crescent,Other
+Malta,Crescent,Other
+Cyprus,Road,Other
+Kelopak,Road,Malay
+Wak Hassan,Drive,Malay
+Kerong,Walk,Malay
+Penaga,Place,Malay
+Wak Hassan,Place,Malay
+Kerong,Lane,Malay
+Andrews,Terrace,British
+Kandis,Walk,Malay
+Kandis,Lane,Malay
+Yishun,Industrial Street,Chinese
+Lentor,Plain,British
+Sempadan,Jalan,Malay
+Sennett,Close,British
+Binjai,Walk,Malay
+Binjai,Hill,Malay
+Binjai,Rise,Malay
+Elok,Jalan,Malay
+Jintan,Jalan,Malay
+Daliah,Jalan,Malay
+Maryland,Drive,British
+Ewart,Park,British
+Chancery,Court,Generic
+Oxford,Street,British
+Baker,Street,British
+Seletar Aerospace,Heights,Malay
+Hampstead,Gardens,Malay
+Novena,Terrace,Other
+Platina,Road,Other
+Rengkam,Jalan,Malay
+Valley,Road,Generic
+Hua Guan,Crescent,Chinese
+Merak,Lengkok,Malay
+Seng Poh,Lane,Chinese
+MacAlister,Road,British
+Deal,Road,British
+Sandwich,Road,British
+St Margaret's,Road,British
+Mas Kuning,Terrace,Malay
+Mas Kuning,Jalan,Malay
+Sinar Bintang,Jalan,Malay
+Mas Merah,Taman,Malay
+Toh,Avenue,Chinese
+Sinar Bulan,Jalan,Malay
+Toh,Close,Chinese
+Toh,Drive,Chinese
+Toh,Crescent,Chinese
+Chin,Terrace,Chinese
+Toh,Street,Chinese
+Tanah Merah Besar,Lane,Malay
+Tuas Bay,Walk,Malay
+Malcolm,Park,British
+kukoh,Jalan,Malay
+Tuas Bay,Lane,Malay
+Kebun Limau,Jalan,Malay
+Piring,Jalan,Malay
+Tapisan,Jalan,Malay
+Kian Teck,Lane,Chinese
+Soon Lee,Street,Chinese
+Tech,Park Crescent,Generic
+Tuas,Boulevard,Malay
+Tuas,View Close,Malay
+Bukit Batok,Crescent,Malay
+Mat Jambol,Jalan,Malay
+Burgundy,Rise,Other
+Burgundy,Drive,Other
+Burgundy,Crescent,Other
+Commerce,Street,Generic
+Shenton,Lane,British
+Sheares,Avenue,British
+Spring,Street,Generic
+Caldecott,Close,British
+Temechut,Lorong,Malay
+Novena,Jalan,Other
+Novena Timor,Jalan,Malay
+Novena Selatan,Jalan,Malay
+Novena,Rise,Other
+Kelawar,Jalan,Malay
+Novena Barat,Jalan,Malay
+Grange,Garden,British
+Murray,Street,British
+Lornie,Walk,British
+Wallace,Way,British
+Novena Utara,Jalan,Malay
+Martaban,Road,Other
+Minbu,Road,Other
+Springwood,Terrace,British
+Raja Udang,Jalan,Malay
+Tai Gin,Road,Chinese
+Bhamo,Road,Other
+Prome,Road,Other
+Swiss Cottage,Estate,Other
+Ava,Road,Other
+Lempeng,Drive,Malay
+Mapletree,Industrial Carpark,Generic
+Sussex,Garden,British
+Koh Sek Lim,Road,Chinese
+Pegu,Road,Other
+Thomson,Lane,British
+Kellock,Road,British
+Abingdon,Road,British
+Mariam,Jalan,Malay
+Mariam,Close,Malay
+Batalong,Jalan,Malay
+Kelempong,Jalan,Malay
+Chelagi,Jalan,Malay
+Loyang,View,Malay
+Bena,Jalan,Malay
+Pernama,Jalan,Malay
+Calshot,Road,British
+Clementi Service,Road,British
+Business,Park Drive,Generic
+Buroh,Lane,Malay
+Refinery,Road,Generic
+Eng Kong,Terrace,Chinese
+Marine,Vista,Generic
+Greenwich,Drive,British
+Mount Rosie,Terrace,British
+Kitchener,Link,British
+Bah Soon Pah,Road,Chinese
+Napiri,Lorong,Malay
+Ayer Molek,Bukit,Malay
+Greenbank,Park,Generic
+Charlton,Lane,British
+Regent,Heights,British
+Ceylon,Lane,Indian
+Old,Terminal Lane,Generic
+Jedburgh,Gardens,British
+Flanders,Square,Other
+Marne,Road,British
+Somme,Road,Other
+Beatty,Road,British
+Kranji,Crescent,Malay
+Hai Sing,Crescent,Chinese
+Hai Sing,Road,Chinese
+Lempeng,Jalan,Malay
+Low Koon,Lorong,Chinese
+Ludlow,Place,British
+Netheravon,Road,British
+Andover,Road,British
+Upavon,Road,British
+Halton,Road,British
+Sealand,Road,Generic
+How Sun,Walk,Chinese
+Catterick,Road,British
+Leuchars,Road,British
+Biggin,Hill Road,British
+Gosport,Road,British
+Paya Lebar,Way,Malay
+Kallang Airport,Way,Malay
+Pasir Ris,Coast Industrial Park,Malay
+How Sun,Road,Chinese
+How Sun,Lorong,Chinese
+Quemoy,Road,Chinese
+Penchalak,Lorong,Malay
+Rindu,Jalan,Malay
+Fraser,Street,British
+Stadium,Road,Generic
+Kallang Airport,Drive,Malay
+Rangoon,Lane,Other
+Sing,Avenue,Generic
+Starlight,Terrace,Generic
+Starlight,Road,Generic
+Sing Joo,Walk,Chinese
+Joo,Avenue,Chinese
+Seletar,Green Avenue,Malay
+Seletar,Green Walk,Malay
+Simon,Walk,British
+Ghim Moh,Link,Chinese
+Serangoon,Lane,Malay
+Gambir,Walk,Malay
+Serangoon,Crescent,Malay
+Ubi,Close,Malay
+Sin Ming,Lane,Chinese
+Compassvale,Lane,Generic
+Wee Nam,Road,Chinese
+Changi,Lane,Malay
+Telegraph,Street,Generic
+Biopolis,Street,Generic
+Biopolis,Link,Generic
+Plymouth,Avenue,British
+Gentle,Road,British
+Leicester,Road,British
+Florence,Close,Chinese
+Hoot Kiam,Road,Chinese
+Clarke,Quay,British
+Countryside,Walk,Generic
+Nepal,Park,Other
