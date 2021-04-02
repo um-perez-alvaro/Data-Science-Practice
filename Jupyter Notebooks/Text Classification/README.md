@@ -12,7 +12,7 @@
 - [Email spam detection](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Homework/Homework%203.ipynb)
 
 ## In-class project (due, Oct 12, Monday)
-- [The Disputed Federalist Papers](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/The%20Federalist%20Papers.ipynb)
+- [The Disputed Federalist Papers](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/notebooks/The%20Federalist%20Papers.ipynb)
 
 ## Datasets
 
