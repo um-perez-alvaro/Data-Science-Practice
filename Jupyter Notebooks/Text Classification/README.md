@@ -4,7 +4,7 @@
 
 - [Vectorization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Vectorization.ipynb)
 - [A SMS spam detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Building%20s%20SMS%20spam%20detector.ipynb)
-- [Classifying messages by topic]https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Classifying%20Text%20Messages%20by%20Topic.ipynb)
+- [Classifying messages by topic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Classifying%20Text%20Messages%20by%20Topic.ipynb)
 
 
 ## Homework (due, Oct 12, Monday)
