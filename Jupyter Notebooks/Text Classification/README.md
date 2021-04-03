@@ -8,12 +8,12 @@
 
 
 ## Homework (due, Oct 12, Monday)
-- [Yelp reviews](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Homework/Homework%201.ipynb)
-- [Revisiting the linguistic street map of Singapore](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Homework/Homework%202.ipynb)
-- [Email spam detection](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Homework/Homework%203.ipynb)
+- [Yelp reviews](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Homework%201.ipynb)
+- [Revisiting the linguistic street map of Singapore](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Homework%202.ipynb)
+- [Email spam detection](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Homework%203.ipynb)
 
 ## In-class project (due, Oct 12, Monday)
-- [The Disputed Federalist Papers](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/notebooks/The%20Federalist%20Papers.ipynb)
+- [The Disputed Federalist Papers](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/The%20Federalist%20Papers.ipynb)
 
 ## Datasets
 
