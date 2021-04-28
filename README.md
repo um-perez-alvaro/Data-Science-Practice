@@ -14,5 +14,5 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 - [Regression]()
 - [Clustering and Segmentation]()
 - [Recommender Systems]()
-- [Deep Learning]()
+- [Deep Learning](for Image Classification and Computer Vision)
 - Processing Massively Large Data Sets: Sequential, Parallel, and Distributed Computing
