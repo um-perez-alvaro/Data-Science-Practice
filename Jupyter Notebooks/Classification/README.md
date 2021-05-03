@@ -12,12 +12,12 @@
 - [Adding regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VIII.%20Adding%20regularization%20and%20polynomial%20features.ipynb)
  
 
-## Homework (due Sept 21, Monday)
+## Homework 
 - [Handwritten digits](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%201.ipynb)
 - [A linguistic street map of Singapore](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%202.ipynb)
 - [A simple face detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%203.ipynb)
 
-## In-class project (due, Oct 2, Friday)
+## Open-ended project 
 - [Diabetes in America: Identifying at-risk individuals](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Identifying%20At-Risk%20Individuals.ipynb)
 
 ## Datasets
