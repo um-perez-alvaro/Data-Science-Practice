@@ -1,5 +1,13 @@
 # Regression Problems
 
+With linear regression we aim to fit a line (or hyperplane in higher dimensions) to a dataset. 
+Regression in general may be performed for a variety of reasons: 
+
+- to produce a so-called trend line (or curve) that can be used to help visually summarize, drive home a particular point about the
+data under study, or
+- to learn a model so that precise predictions can be made regarding output values in the future
+
+
 ## Jupyter notebooks
 
 - [Linear and Polynomial Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
