@@ -1,4 +1,4 @@
-# Introduction to Pandas and Matplotlib
+# Data Manipulation and Data Visualization: Introduction to Pandas and Matplotlib
 
 [pandas](https://pandas.pydata.org/) is a powerful, open source Python library for data analysis, manipulation, and visualization. 
 [matplotlib](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualizations in Python.
