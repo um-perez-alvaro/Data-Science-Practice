@@ -11,6 +11,8 @@
 - [More Classification Models](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VII.%20More%20Classification%20Algorithms.ipynb)
 - [Adding regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VIII.%20Adding%20regularization%20and%20polynomial%20features.ipynb)
  
+## Practice Problems
+- [The adult census dataset](hell) ([solutions](still_hell))
 
 ## Homework 
 - [Handwritten digits](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%201.ipynb)
