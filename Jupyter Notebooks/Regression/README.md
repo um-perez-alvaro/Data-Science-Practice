@@ -15,6 +15,9 @@ data under study, or
 - [Regression Metrics, Cross Validation and Grid Search]()
 - [Feature Engineering and Pipelines]()
 
+## Practice Problems
+- [Overfitting and Underfitting: The Califorina housing dataset]() ([solutions]()) 
+
 ## Homework (Mon, November 16)
 - [Predicting house prices](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Predicting%20House%20Prices.ipynb)
 - [Cancer diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Leukemia%20Diagnosis.ipynb)
