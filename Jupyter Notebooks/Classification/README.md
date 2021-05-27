@@ -13,7 +13,6 @@
  
 ## Practice Problems
 - [Numerical and Categorical features: The adult census dataset](hell) ([solutions](still_hell))
-- [Overfitting and Underfitting: The Califorina housing dataset]() ([solutions]()) 
 
 ## Homework 
 - [Handwritten digits](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%201.ipynb)
