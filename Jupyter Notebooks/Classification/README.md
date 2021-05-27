@@ -12,7 +12,8 @@
 - [Adding regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VIII.%20Adding%20regularization%20and%20polynomial%20features.ipynb)
  
 ## Practice Problems
-- [The adult census dataset](hell) ([solutions](still_hell))
+- [Numerical and Categorical features: The adult census dataset](hell) ([solutions](still_hell))
+- [Overfitting and Underfitting: The Califorina housing dataset]() ([solutions]()) 
 
 ## Homework 
 - [Handwritten digits](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%201.ipynb)
