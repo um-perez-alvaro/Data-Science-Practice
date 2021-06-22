@@ -23,7 +23,7 @@ data under study, or
 - [Cancer diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Leukemia%20Diagnosis.ipynb)
 
 ## In-class project (Mon, November 16) 
-- [Predicting Bicycle Traffic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Predicting%20Bicycle%20Traffic.ipynb)
+- [Predicting Bicycle Traffic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Predicting%20Bicycle%20Traffic.ipynb)
 
 ## Datasets
 
