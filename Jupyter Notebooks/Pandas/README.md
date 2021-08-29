@@ -24,6 +24,8 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 - [Stanford Open Police Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%201.ipynb)
 
+## Datasets
+
 Filename | Description |  Source
 --- | --- |  --- 
 yob1880.csv -- yob2018.csv | frequency of baby names from 1880 through 2018 | [SSA](https://www.ssa.gov/oact/babynames/limits.html)
