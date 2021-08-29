@@ -16,8 +16,9 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Practice Problems
 
-- [Problem 1](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Problem%201.ipynb) - [Solution](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Practice%201%20-%20solutions.ipynb)
-- [Problem 2](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Prablem%202.ipynb) - [Solution](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Practice%202%20-%20solutions.ipynb)
+**Set 1 (due Sept 3)
+- [Problem 1](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Practice%20%20problem%20I.ipynb) 
+- [Problem 2](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Practice%20%20problem%20II.ipynb) 
 
 ## Homework  (due Sept 11)
 
