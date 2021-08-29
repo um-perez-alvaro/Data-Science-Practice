@@ -12,13 +12,15 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 - [Trees, Ensemble Methods and Random Forests]()
 - [Naive Bayes and Text Classification](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Text%20Classification)
 - [Clustering and Segmentation]()
+
+## Extra Topics:
+
 - [Recommender Systems]()
 - [Deep Learning (for Natural Language Processing, Image Classification and Computer Vision)]()
 - Processing Massively Large Data Sets: Sequential, Parallel, and Distributed Computing
 
-## Advanced Topics:
+## Takehome exam:
 
-- [Advanced Data Visualization]()
-- [Advanced Feature Engineering]()
-
+- [Part I: Data Analysis]()
+- [Part II: Machine Learning]()
 
