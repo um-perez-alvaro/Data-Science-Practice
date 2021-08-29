@@ -45,7 +45,7 @@ yob1880.csv -- yob2018.csv | frequency of baby names from 1880 through 2018 | [S
 
 These are three excellent books for learning Pandas:
 
-- [Python for Data Analysis (2nd edition)](https://www.google.com/search?q=Python+for+Data+Analysis+(2nd+edition)&rlz=1C1CHBF_enUS864US864&oq=Python+for+Data+Analysis+(2nd+edition)&aqs=chrome..69i57j0i22i30l9.596j0j4&sourceid=chrome&ie=UTF-8)
+- [Python for Data Analysis (2nd edition)](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (full text available)
 - [Pandas 1.x Cookbook (2nd edition)](https://www.packtpub.com/product/pandas-1-x-cookbook-second-edition/9781839213106)
 
