@@ -19,7 +19,7 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 - [Deep Learning (for Natural Language Processing, Image Classification and Computer Vision)]()
 - Processing Massively Large Data Sets: Sequential, Parallel, and Distributed Computing
 
-## Takehome exam:
+## Take-home exam:
 
 - [Part I: Data Analysis]()
 - [Part II: Machine Learning]()
