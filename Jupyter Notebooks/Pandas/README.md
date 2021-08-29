@@ -7,10 +7,11 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Jupyter Notebooks
 
 - [DataFrames and Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/The%20pandas%20DataFrame.ipynb)
-- [Sorting, Filtering and Applying](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Part%20II.ipynb)
-- [Data Cleaning and Preparation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Part%20III.ipynb)
-- [Data Aggregation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Part%20IV.ipynb)
-- [Data Visualization](hell)
+- [Working with Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Working%20with%20Series.ipynb)
+- [Sorting and Filtering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Filtering%20and%20Sorting.ipynb)
+- [Applying a function to a DataFrame or Series]()
+- [Data Aggregation]()
+- [Data Visualization]()
 
 
 ## Practice Problems
