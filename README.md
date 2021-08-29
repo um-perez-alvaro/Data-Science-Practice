@@ -21,6 +21,6 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 
 ## Take-home exam:
 
-- [Part I: Data Analysis]()
-- [Part II: Machine Learning]()
+- [Data Analysis part: Analyzing US baby name trends](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Final%20Exam/Part%20I.ipynb)
+- [Machine Learning part]()
 
