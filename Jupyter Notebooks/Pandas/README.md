@@ -50,6 +50,7 @@ These are three excellent books for learning Pandas:
 - [Pandas 1.x Cookbook (2nd edition)](https://www.packtpub.com/product/pandas-1-x-cookbook-second-edition/9781839213106)
 
 <table><tr>
+<td> <img src="book1.jpge" alt="Drawing" style="width: 500px;"/> </td>
 <td> <img src="book2.png" alt="Drawing" style="width: 500px;"/> </td>
 <td> <img src="book3.png" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
