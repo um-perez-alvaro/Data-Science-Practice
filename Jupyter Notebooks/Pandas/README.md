@@ -23,9 +23,6 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Homework  (due Sept 20)
 
 - [Stanford Open Police Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%201.ipynb)
-- [US Baby Names](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%202.ipynb)
-
-## Datasets
 
 Filename | Description |  Source
 --- | --- |  --- 
