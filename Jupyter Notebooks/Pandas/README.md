@@ -40,6 +40,7 @@ yob1880.csv -- yob2018.csv | frequency of baby names from 1880 through 2018 | [S
 [advertising.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/Advertising.csv) | Sales info in 200 different markets, along with advertising budgets for three different media: TV, radio, and newspaper | [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/index.html)
 [tips.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/tips.csv) | Restaurant tipping | [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781449323592/)
 [movies](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/movies.csv) | Movies | [IMDb](http://www.imdb.com/search/title?groups=top_1000&sort=user_rating&view=simple)
+[users](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/users.csv) | Demographic information about MovieLens users | [MovieLens](https://movielens.org/)
 
 ## Would You Like to Know More?
 
