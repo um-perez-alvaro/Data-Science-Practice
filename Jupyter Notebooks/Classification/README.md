@@ -18,12 +18,10 @@
 - [Numerical and Categorical features: The adult census dataset](hell) ([solutions](still_hell))
 
 ## Homework 
-- [Handwritten digits](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%201.ipynb)
-- [A linguistic street map of Singapore](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%202.ipynb)
-- [A simple face detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%203.ipynb)
-
-## Open-ended project 
-- [Diabetes in America: Identifying at-risk individuals](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Identifying%20At-Risk%20Individuals.ipynb)
+- [Handwritten digits]()
+- [A linguistic street map of Singapore]()
+- [A simple face detector]()
+- [Diabetes in America: Identifying at-risk individuals]()
 
 ## Datasets
 
