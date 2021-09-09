@@ -17,7 +17,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Practice Problems
 
 **Set 1 (due Sept 3):**
-- [Problem 1](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20I.ipynb) 
+- [Problem 1](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20I.ipynb)  ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20I%20-%20solutions.ipynb))
 - [Problem 2](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20%20problem%20II.ipynb) 
 
 **Set 2 (due Sept 7):**
@@ -27,6 +27,10 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 **Set 3 (due Sept 10)**
 - [Problem 5](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20V.ipynb)
 - [Problem 6](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI.ipynb)
+
+**Set 4 (due Sept 13)**
+- [Problem 7](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII.ipynb)
+- [Problem 8](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII.ipynb)
 
 ## Homework 1 (due Sept 20)
 
