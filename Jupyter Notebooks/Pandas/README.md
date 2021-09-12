@@ -41,6 +41,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 Filename | Description |  Source
 --- | --- |  --- 
+[crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) | This dataset covers traffic crashes on city streets within Chicago city limits | [Chicago Data Portal](https://data.cityofchicago.org/) 
 yob1880.csv -- yob2018.csv | frequency of baby names from 1880 through 2018 | [SSA](https://www.ssa.gov/oact/babynames/limits.html)
 [police_ri](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/police_ri.csv) | Data on vehicle and pedestrian stops from law enforcement departments across Rhode Island | [Stanford Open Policing Project](https://openpolicing.stanford.edu/data/)
 [sales](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/sales.csv) | Monthly Sales Data of sell of electronics equipment across USA in 2019 | [Kaggle](https://www.kaggle.com/subhendughosh/monthly-sales-data)
