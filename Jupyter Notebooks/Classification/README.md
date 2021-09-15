@@ -15,13 +15,9 @@
 - [Adding regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VIII.%20Adding%20regularization%20and%20polynomial%20features.ipynb)
  
 ## Practice Problems
-- [Numerical and Categorical features: The adult census dataset](hell) ([solutions](still_hell))
 
 ## Homework 
-- [Handwritten digits]()
-- [A linguistic street map of Singapore]()
-- [A simple face detector]()
-- [Diabetes in America: Identifying at-risk individuals]()
+
 
 ## Datasets
 
