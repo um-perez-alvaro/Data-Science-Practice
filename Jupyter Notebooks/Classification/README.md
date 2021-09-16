@@ -3,8 +3,8 @@
 ## Jupyther notebooks
 
 - [Classification with scikit-learn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20I.ipynb)
- - k-nearest-neighbors
- - logistic regression  
+* k-nearest-neighbors
+* logistic regression  
 - Cross validation and Classification Metrics
 - Grid Search
 - Classification Threshold
