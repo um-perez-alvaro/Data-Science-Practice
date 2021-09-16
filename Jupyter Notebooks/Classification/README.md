@@ -3,13 +3,14 @@
 ## Jupyther notebooks
 
 - [Classification with scikit-learn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20I.ipynb)
-- [Cross validation and Classification Metrics](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20II%20-%20Classification%20Metrics%20and%20Cross%20Validation.ipynb)
-- [Grid Search](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20III.%20Grid%20Search.ipynb)
-- [Classification Threshold](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20IV.%20Adjusting%20the%20classification%20threshold.ipynb)
-- [Feature Engineering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20V.%20Feature%20Engineering.ipynb)
-- [Pipelines](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
-- [More Classification Models](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VII.%20More%20Classification%20Algorithms.ipynb)
-- [Adding regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VIII.%20Adding%20regularization%20and%20polynomial%20features.ipynb)
+ - k-nearest-neighbors
+ - logistic regression  
+- Cross validation and Classification Metrics
+- Grid Search
+- Classification Threshold
+- Feature Engineering
+- Pipelines
+- Adding regularization
  
 ## Practice Problems
 
