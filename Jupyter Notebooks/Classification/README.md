@@ -5,6 +5,8 @@
 - [Classification with scikit-learn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20I%20Classification%20with%20scikit%20learn.ipynb)
     * [k-nearest-neighbors](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
     * [logistic regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Logistic%20Regression%20.ipynb)  
+    * Support vector machines
+    * [draw-classification-regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/functions.py)
 - Cross validation and Classification Metrics
 - Grid Search
 - Classification Threshold
