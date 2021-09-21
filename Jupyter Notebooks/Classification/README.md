@@ -18,10 +18,13 @@
 
 **Set 1 (due Sept 24)**
 
-- [Problem 1: The MNIST dataset]()
-- [Problem 2: The fashion MNIST dataset]()
+- [Problem 1: Wine Quality Prediction]()
+- [Problem 2: Bank Note Authentication]()
 
 **Set 2 (due Sept 27)**
+
+- [Problem 3: The MNIST dataset]()
+- [Problem 4: The fashion MNIST dataset]()
 
 ## Homework 
 
