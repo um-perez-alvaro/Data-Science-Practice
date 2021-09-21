@@ -16,12 +16,12 @@
  
 ## Practice Problems
 
-**Set 1 (due Sept 24)
+**Set 1 (due Sept 24)**
 
 - [Problem 1: The MNIST dataset]()
 - [Problem 2: The fashion MNIST dataset]()
 
-**Set 2 (due Sept 27)
+**Set 2 (due Sept 27)**
 
 ## Homework 
 
