@@ -37,4 +37,5 @@ Filename | Description |  Source
 [digits](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits.csv) | Subset of the MNIST dataset 
 [digits_test](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits_test.csv) | Subset of the MNIST dataset
 [titanic](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/titanic.csv) | Famous Titanic daseset from Kaggle | [Kaggle](https://www.kaggle.com/c/titanic)
-[winequality-red](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/winequality-red.csv)
+[winequality-red](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/winequality-red.csv) |  physiochemical properties of red variants of the Portuguese "Vinho Verde" wine. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)
+[BankNote_Authentication](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/BankNote_Authentication.csv) | genuine and forged banknotes | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
