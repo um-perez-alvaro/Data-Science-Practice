@@ -23,8 +23,8 @@
 
 **Set 2 (due Sept 27)**
 
-- [Problem 3: The MNIST dataset]()
-- [Problem 4: The fashion MNIST dataset]()
+- [Problem 3: The MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III%20.ipynb)
+- [Problem 4: The fashion MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV%20.ipynb)
 
 ## Homework 
 
