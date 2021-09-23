@@ -28,7 +28,7 @@
 
 **Set 3 (TBD)**
 - Problem 5: Breast Cancer Diagnosis
-
+- Problem 6: Heart Disease Prediction
 ## Homework 
 
 
