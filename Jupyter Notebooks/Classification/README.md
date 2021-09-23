@@ -28,7 +28,12 @@
 
 **Set 3 (TBD)**
 - Problem 5: Breast Cancer Diagnosis
+
+**Set 4 (TBD)**
 - Problem 6: Heart Disease Prediction
+- The cat in the dat
+
+
 ## Homework 
 
 
