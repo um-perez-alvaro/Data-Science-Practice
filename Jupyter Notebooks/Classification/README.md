@@ -26,12 +26,13 @@
 - [Problem 3: The MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb)
 - [Problem 4: The fashion MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb)
 
-**Set 3 (TBD)**
-- Problem 5: Breast Cancer Diagnosis
+**Set 3 (due Oct 4)**
+- [Problem 5: Breast Cancer Diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V.ipynb)
+- [Problem 6: The Palmer Archipelago Penguin Data](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI.ipynb)
 
 **Set 4 (TBD)**
-- Problem 6: Heart Disease Prediction
-- The cat in the dat
+- Problem 7: Heart Disease Prediction
+- Problem 8: The cat in the dat
 
 
 ## Homework 
