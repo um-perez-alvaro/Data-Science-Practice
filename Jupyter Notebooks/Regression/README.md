@@ -1,5 +1,7 @@
 # Regression Problems
 
+<img src="covid.png" height="350" width = "1000">
+
 With linear regression we aim to fit a line (or hyperplane in higher dimensions) to a dataset. 
 Regression in general may be performed for a variety of reasons: 
 
