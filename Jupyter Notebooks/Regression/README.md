@@ -12,19 +12,17 @@ data under study, or
 
 ## Jupyter notebooks
 
-- [Linear and Polynomial Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
-- [Overfitting and Regularization](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Regularization.ipynb)
-- [Regression Metrics, Cross Validation and Grid Search]()
-- [Feature Engineering and Pipelines]()
+- [Linear and polynomial regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
+- [Overfitting and regularization](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Regularization.ipynb)
+- [COVID deaths forecast]()
+- [A regression pipelines]()
 
 ## Practice Problems
-- [Overfitting and Underfitting: The Califorina housing dataset]() ([solutions]()) 
+- [Overfitting and Underfitting: The Califorina housing dataset]() 
 
-## Homework (Mon, November 16)
+## Homework
 - [Predicting house prices](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Predicting%20House%20Prices.ipynb)
 - [Cancer diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Leukemia%20Diagnosis.ipynb)
-
-## In-class project (Mon, November 16) 
 - [Predicting Bicycle Traffic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Predicting%20Bicycle%20Traffic.ipynb)
 
 ## Datasets
