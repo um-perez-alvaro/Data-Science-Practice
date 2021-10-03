@@ -2,13 +2,6 @@
 
 <img src="covid.png" height="300" width = "1300">
 
-With linear regression we aim to fit a line (or hyperplane in higher dimensions) to a dataset. 
-Regression in general may be performed for a variety of reasons: 
-
-- to produce a so-called trend line (or curve) that can be used to help visually summarize, drive home a particular point about the
-data under study, or
-- to learn a model so that precise predictions can be made regarding output values in the future
-
 
 ## Jupyter notebooks
 
