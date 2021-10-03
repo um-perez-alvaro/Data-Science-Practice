@@ -5,7 +5,7 @@
 
 ## Jupyter notebooks
 
-- [Linear and polynomial regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
+- [Linear models for regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
 - [Overfitting and regularization](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Regularization.ipynb)
 - [COVID deaths forecast]()
 - [A regression pipelines]()
