@@ -23,5 +23,7 @@
 Filename | Description |  Source
 --- | --- |  --- 
 [Advertising](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/Advertising.csv)  | This dataset includes sales data of a product, as well as the budget for TV, Radio And Newspaper advertising | [Kaggle](https://www.kaggle.com/thorgodofthunder/tvradionewspaperadvertising)
-[leukemia.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/leukemia.csv) | Cancer gene-expression levels | The Elements of Statistical Learning [website](https://web.stanford.edu/~hastie/ElemStatLearn/) 
-[house_prices.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/kc_house_data.csv) | House sale prices for King County | [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
+[student debt](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/student%20debt.csv) | Total student loan debt in the United States measured quarterly from 2006 to 2014 | [Machine Learning Refined](https://github.com/nrchade/mlrefined)
+[cerals](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/cereals.csv) | Nutrition data on cereal products | [Kaggle](https://www.kaggle.com/crawford/80-cereals)
+[leukemia](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/leukemia.csv) | Cancer gene-expression levels | The Elements of Statistical Learning [website](https://web.stanford.edu/~hastie/ElemStatLearn/) 
+[house_prices](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/kc_house_data.csv) | House sale prices for King County | [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
