@@ -11,7 +11,10 @@
 - [A regression pipeline]()
 
 ## Practice Problems
-- [Overfitting and Underfitting: The Califorina housing dataset]() 
+
+**Set 1**
+- [Problem 1: Simple linear regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20I.ipynb)
+- [Problem 2: A healthy breakfast](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20II.ipynb)
 
 ## Homework
 - [Predicting house prices](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Predicting%20House%20Prices.ipynb)
