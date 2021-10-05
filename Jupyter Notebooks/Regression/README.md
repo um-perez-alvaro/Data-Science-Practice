@@ -6,9 +6,9 @@
 ## Jupyter notebooks
 
 - [Linear models for regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
+- COVID deaths forecast
 - [Overfitting and regularization](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Regularization.ipynb)
-- [COVID deaths forecast]()
-- [A regression pipeline]()
+- A regression pipeline
 
 ## Practice Problems
 
@@ -17,9 +17,9 @@
 - [Problem 2: A healthy breakfast](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20II.ipynb)
 
 ## Homework
-- [Predicting house prices](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Predicting%20House%20Prices.ipynb)
-- [Cancer diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Leukemia%20Diagnosis.ipynb)
-- [Predicting Bicycle Traffic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Predicting%20Bicycle%20Traffic.ipynb)
+- Predicting house prices
+- Cancer diagnosis
+- Predicting Bicycle Traffic
 
 ## Datasets
 
