@@ -12,7 +12,7 @@
 
 ## Practice Problems
 
-**Set 1**
+**Set 1 (due Oct 08)**
 - [Problem 1: Simple linear regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20I.ipynb)
 - [Problem 2: A healthy breakfast](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20II.ipynb)
 
