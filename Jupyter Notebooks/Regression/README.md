@@ -16,10 +16,13 @@
 - [Problem 1: Simple linear regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20I.ipynb)
 - [Problem 2: A healthy breakfast](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20II%20.ipynb)
 
-## Homework
+**Set 2 (due Wed 13)**
+- [Problem 3: New York City energy production](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20III%20.ipynb)
+
+## Homework (TBD)
 - Predicting house prices
 - Cancer diagnosis
-- Predicting Bicycle Traffic
+
 
 ## Datasets
 
