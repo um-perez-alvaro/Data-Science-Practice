@@ -28,6 +28,7 @@
 
 Filename | Description |  Source
 --- | --- |  --- 
+[nyc_csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/nyc_load.csv) | NYC average energy production and temperature | [New York ISO](https://www.nyiso.com/)
 [covid](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us.csv) | cumulative covid cases/deaths | The New York Times |
 [Advertising](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/Advertising.csv)  | This dataset includes sales data of a product, as well as the budget for TV, Radio And Newspaper advertising | [Kaggle](https://www.kaggle.com/thorgodofthunder/tvradionewspaperadvertising)
 [student debt](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/student%20debt.csv) | Total student loan debt in the United States measured quarterly from 2006 to 2014 | [Machine Learning Refined](https://github.com/nrchade/mlrefined)
