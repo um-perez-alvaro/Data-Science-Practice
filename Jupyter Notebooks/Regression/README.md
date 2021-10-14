@@ -20,9 +20,9 @@
 - [Problem 3: New York City energy production](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20III%20.ipynb)
 
 ## Homework (TBD)
-- Predicting house prices
-- Cancer diagnosis
-- Metro Interstate Traffic Volume]()
+- [Problem 1: Predicting house prices]()
+- [Problem 2: Leukemia diagnosis]()
+- [Problem 3: Metro Interstate Traffic Volume]
 
 
 ## Datasets
