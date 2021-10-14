@@ -19,12 +19,10 @@
 **Set 2 (due Wed 13)**
 - [Problem 3: New York City energy production](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20III%20.ipynb)
 
-##Set 3 (TBD)**
-- [Problem 4: Metro Interstate Traffic Volume]()
-
 ## Homework (TBD)
 - Predicting house prices
 - Cancer diagnosis
+- Metro Interstate Traffic Volume]()
 
 
 ## Datasets
