@@ -22,7 +22,7 @@
 ## Homework (TBD)
 - [Problem 1: Predicting house prices]()
 - [Problem 2: Leukemia diagnosis]()
-- [Problem 3: Metro Interstate Traffic Volume]
+- [Problem 3: Metro Interstate Traffic Volume]()
 
 
 ## Datasets
