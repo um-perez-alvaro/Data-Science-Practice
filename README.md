@@ -9,9 +9,9 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 - [Data Manipulation and Data Visualization](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Pandas)
 - [Classification Problems](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Classification)
 - [Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Regression)
-- [Trees, Ensemble Methods and Random Forests]()
-- [Naive Bayes and Text Classification](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Text%20Classification)
-- [Clustering and Segmentation]()
+- [Trees, Ensemble Methods and Random Forests](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Random%20Forests)
+- Naive Bayes and Text Classification
+- Clustering and Segmentation
 
 ## Extra Topics:
 
