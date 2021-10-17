@@ -1,0 +1,7 @@
+name,sex,mask,cape,tie,ears,smokes,class
+batman,0,1,1,0,1,0,good
+robin,0,1,1,0,0,0,good
+alfred,0,0,0,1,0,0,good
+penguin,0,0,0,1,0,1,bad
+catwoman,1,1,0,0,1,0,bad
+joker,0,0,0,0,0,0,bad
