@@ -6,12 +6,19 @@
   * [draw-classification-regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/functions.py)
 - [Random Forests](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Random%20Forests.ipynb)
 
-## Homework (Mon, October 26)
-- [Credit scoring Problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring.ipynb)
-- [Forest Cover Type Prediction](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Forest%20Cover.ipynb)
+## Practice problems
 
-## In-class project () 
-- [Flight delays]()
+**Set 1 (TBD)**:
+- [Problem 1: Scooby Doo monsters]()
+- [Problem 2: Predicting whether an order should be sent to a technical approver]()
+
+**Set 2 (TBD)**:
+- [Problem 3: Credit scoring problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring.ipynb)
+- [Problem 4: Forest cover type prediction](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Forest%20Cover.ipynb)
+
+## Homework (TBD)
+- [Problem 1: flight delays]()
+- [Problem 2: New York energy consumption] 
 
 ## Datasets
 
