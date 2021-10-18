@@ -2,9 +2,10 @@
 
 ## Jupyter notebooks
 
-- [Decision Trees](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Decision%20Trees.ipynb)
+- [Decision Trees for classification](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Decision%20Trees.ipynb)
   * [draw-classification-regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/functions.py)
-- [Random Forests](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Random%20Forests.ipynb)
+- Decision Trees for regression
+- Random Forests
 
 ## Practice problems
 
