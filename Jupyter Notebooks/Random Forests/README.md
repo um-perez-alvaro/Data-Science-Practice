@@ -18,7 +18,7 @@
 
 ## Homework (TBD)
 - [Problem 1: flight delays]()
-- [Problem 2: New York energy consumption] 
+- [Problem 2: New York energy consumption]()
 
 ## Datasets
 
