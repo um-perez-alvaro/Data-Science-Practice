@@ -5,7 +5,7 @@
 - [Decision Trees for classification](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Decision%20Trees.ipynb)
   * [draw-classification-regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/functions.py)
 - [Random Forests](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Random%20Forests.ipynb)
-- Decision Trees for regression
+- Decision Trees and Random Forests for regression
 
 
 ## Practice problems
