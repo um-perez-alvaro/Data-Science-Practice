@@ -9,7 +9,7 @@
 
 ## Practice problems
 
-**Set 1 (TBD)**:
+**Set 1 (Oct 22)**:
 - [Problem 1: Scooby Doo monsters](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%201.ipynb)
 - [Problem 2: Predicting whether an order should be sent to a technical approver](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%202.ipynb)
 
