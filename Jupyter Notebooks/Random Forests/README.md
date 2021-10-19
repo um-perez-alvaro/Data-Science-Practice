@@ -10,8 +10,8 @@
 ## Practice problems
 
 **Set 1 (TBD)**:
-- [Problem 1: Scooby Doo monsters]()
-- [Problem 2: Predicting whether an order should be sent to a technical approver]()
+- [Problem 1: Scooby Doo monsters](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%201.ipynb)
+- [Problem 2: Predicting whether an order should be sent to a technical approver](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%202.ipynb)
 
 **Set 2 (TBD)**:
 - [Problem 3: Credit scoring problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring.ipynb)
