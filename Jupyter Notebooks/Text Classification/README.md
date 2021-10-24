@@ -11,9 +11,6 @@
 ## Homework (TBD)
 
 
-## In-class project (due, Oct 12, Monday)
-
-
 ## Datasets
 
 Filename | Description |  Source
