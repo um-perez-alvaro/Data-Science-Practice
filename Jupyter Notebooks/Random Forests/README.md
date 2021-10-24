@@ -16,8 +16,8 @@
 - [Problem 2: Predicting whether an order should be sent to a technical approver](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%202.ipynb)
 
 **Set 2 (TBD)**:
-- [Problem 3: Credit scoring problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring.ipynb)
-- [Problem 4: Forest cover type prediction](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Forest%20Cover.ipynb)
+- [Problem 3: Credit scoring problem](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%203.ipynb)
+- [Problem 4: Forest cover type prediction](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%204.ipynb)
 
 ## Homework (TBD)
 - [Problem 1: flight delays]()
