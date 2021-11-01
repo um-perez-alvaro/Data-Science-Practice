@@ -11,7 +11,8 @@
 
 ## Practice Problems
 
-**Set 1 (due Nov 5)
+**Set 1 (due Nov 5)**
+
 -[Problem 1: tweet classification - Trudeau vs Trump]()
 -[Problem 2: email spam detection]()
 
