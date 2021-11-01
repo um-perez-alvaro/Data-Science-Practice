@@ -13,8 +13,8 @@
 
 **Set 1 (due Nov 5)**
 
-- [Problem 1: tweet classification - Trudeau vs Trump]()
-- [Problem 2: email spam detection]()
+- [Problem 1: tweet classification - Trudeau vs Trump](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/practice%20problems/Problem%20I.ipynb)
+- [Problem 2: email spam detection](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/practice%20problems/Problem%20II.ipynb)
 
 ## Homework (TBD)
 
