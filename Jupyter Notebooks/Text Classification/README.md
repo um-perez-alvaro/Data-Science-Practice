@@ -5,6 +5,9 @@
 - [Vectorization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Vectorization.ipynb)
 - [A SMS spam detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Building%20s%20SMS%20spam%20detector.ipynb)
 - [Classifying messages by topic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Classifying%20Text%20Messages%20by%20Topic.ipynb)
+- [Stemming and Lemmatization](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Stemming%20and%20Lemmatization.ipynb)
+- Word to vector embeddings
+
 
 ## Practice Problems
 
