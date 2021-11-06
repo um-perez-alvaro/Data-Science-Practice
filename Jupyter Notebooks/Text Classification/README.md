@@ -18,6 +18,9 @@
 
 ## Homework (TBD)
 
+- Problem 1: A linguistic street map of Singapore
+- Problem 2: The disputed Federalist papers
+
 
 ## Datasets
 
