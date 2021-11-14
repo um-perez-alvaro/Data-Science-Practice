@@ -10,6 +10,7 @@
 
 **Set 1:**
 - [Problem 1: the Old faithful]()
+- [Problem 2: clustering senators]()
 
 
 ## Homework 
