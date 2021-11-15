@@ -4,7 +4,7 @@
 
 - [The k-means algorithm](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/notebooks/Clustering%20and%20the%20k-means%20algorithm.ipynb)
 - [Applications of clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/notebooks/Applications.ipynb)
-- [More clustering algorithms]()
+- [More clustering algorithms](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/notebooks/Other%20clustering%20algorithms.ipynb)
 
 ## Practice Problems
 
