@@ -7,35 +7,35 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Jupyter Notebooks
 
 - [DataFrames and Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/The%20pandas%20DataFrame.ipynb)
-- [Working with Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Working%20with%20Series.ipynb)
-- [Sorting and Filtering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Filtering%20and%20Sorting.ipynb)
-- [Applying a function to a DataFrame or Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Applying%20a%20function%20to%20a%20DataFrame%20or%20Series.ipynb)
-- [Data Aggregation and and Grouping](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Data%20Aggregation%20and%20Grouping.ipynb)
-- [Data Visualization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Data%20Visualization.ipynb)
+- Working with Series
+- Sorting and Filtering
+- Applying a function to a DataFrame or Series
+- Data Aggregation and and Grouping
+- Data Visualization
 
 
 ## Practice Problems
 
 **Set 1 (due Sept 3):**
-- [Problem 1](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20I.ipynb)  ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20I%20-%20solutions.ipynb))
-- [Problem 2](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20%20problem%20II.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20II%20-%20solutions.ipynb))
+- Problem 1
+- Problem 2
 
 **Set 2 (due Sept 7):**
-- [Problem 3](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20III.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20III%20-%20solutions.ipynb))
-- [Problem 4](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20IV.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20IV%20-%20solutions.ipynb))
+- Problem 3
+- Problem 4
 
 **Set 3 (due Sept 10)**
-- [Problem 5](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20V.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20V%20-%20solutions.ipynb))
-- [Problem 6](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI%20-%20solutions.ipynb))
+- Problem 5
+- Problem 6
 
 **Set 4 (due Sept 13)**
-- [Problem 7](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII%20-%20solutions.ipynb))
-- [Problem 8](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII%20-%20solutions.ipynb))
+- Problem 7
+- Problem 8
 
 ## Homework 1 (due Sept 24)
 
-- [Stanford Open Police Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%201.ipynb)
-- [A visual history of Nobel prize winners](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%202.ipynb)
+- Stanford Open Police Dataset
+- A visual history of Nobel prize winners
 
 ## Datasets
 
