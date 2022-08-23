@@ -6,7 +6,7 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 
 ## Contents:
 
-- [Data Manipulation and Data Visualization](https://github.com/um-perez-alvaro/Data-Science-Practice/tree/master/Jupyter%20Notebooks/Pandas)
+- [Data Manipulation and Data Visualization](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/README.md)
 - Classification Problems
 - Regression
 - Trees, Ensemble Methods and Random Forests
