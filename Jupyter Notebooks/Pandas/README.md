@@ -34,7 +34,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 **Set 5 (due )**
 
-## Homework 1 (due Sept 24)
+## Homework 1 (due )
 
 - Stanford Open Police Dataset
 - A visual history of Nobel prize winners
