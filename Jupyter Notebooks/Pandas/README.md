@@ -16,26 +16,29 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Practice Problems
 
-**Set 1 (due Sept 3):**
+**Set 1 (due ):**
 - Problem 1
 - Problem 2
 
-**Set 2 (due Sept 7):**
+**Set 2 (due ):**
 - Problem 3
 - Problem 4
 
-**Set 3 (due Sept 10)**
+**Set 3 (due )**
 - Problem 5
 - Problem 6
 
-**Set 4 (due Sept 13)**
+**Set 4 (due )**
 - Problem 7
 - Problem 8
+
+**Set 5 (due )**
 
 ## Homework 1 (due Sept 24)
 
 - Stanford Open Police Dataset
 - A visual history of Nobel prize winners
+- Churn prediction. Part I: Exploratory Data Analysis
 
 ## Datasets
 
