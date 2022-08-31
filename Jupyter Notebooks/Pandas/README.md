@@ -17,8 +17,8 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Practice Problems
 
 **Set 1 (due ):**
-- Problem 1
-- Problem 2
+- [Problem 1](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20I.ipynb)
+- [Problem 2](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20%20problem%20II.ipynb)
 
 **Set 2 (due ):**
 - Problem 3
