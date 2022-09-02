@@ -7,7 +7,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Jupyter Notebooks
 
 - [DataFrames and Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/The%20pandas%20DataFrame.ipynb)
-- Working with Series
+- [Working with Series](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Working%20with%20Series.ipynb)
 - Sorting and Filtering
 - Applying a function to a DataFrame or Series
 - Data Aggregation and and Grouping
