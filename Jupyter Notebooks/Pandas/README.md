@@ -24,7 +24,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 - [Problem 3](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20III.ipynb)
 - [Problem 4](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20IV.ipynb)
 
-**Set 3 (due 9)**
+**Set 3 (due Sept 9)**
 - [Problem 5](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20V.ipynb)
 - [Problem 6](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI.ipynb)
 
