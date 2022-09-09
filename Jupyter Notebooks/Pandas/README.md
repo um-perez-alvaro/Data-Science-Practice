@@ -10,7 +10,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 - [Working with Series](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Working%20with%20Series.ipynb)
 - [Sorting and Filtering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Filtering%20and%20Sorting.ipynb)
 - [Applying a function to a DataFrame or Series](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Applying%20a%20function%20to%20a%20DataFrame%20or%20Series.ipynb)
-- Data Aggregation and and Grouping
+- [Data Aggregation and and Grouping](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Data%20Aggregation%20and%20Grouping.ipynb)
 - Data Visualization
 
 
