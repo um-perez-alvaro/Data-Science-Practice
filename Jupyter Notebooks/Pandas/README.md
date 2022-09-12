@@ -28,11 +28,11 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 - [Problem 5](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20V.ipynb)
 - [Problem 6](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI.ipynb)
 
-**Set 4 (due )**
-- Problem 7
-- Problem 8
+**Set 4 (due Sept 14)**
+- [Problem 7](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII.ipynb)
+- [Problem 8](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII.ipynb)
 
-**Set 5 (due )**
+**Set 5 (due Sept 16)**
 
 ## Homework 1 (due )
 
