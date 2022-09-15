@@ -61,8 +61,8 @@ Filename | Description |  Source
 [users](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/users.csv) | Demographic information about MovieLens users | [MovieLens](https://movielens.org/)
 [euro12](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/euro12.csv) | 2012 UEFA European Football Championship data | [GitHub](https://github.com/guipsamora/pandas_exercises)
 [US_Crime_Rates](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/US_Crime_Rates.csv) | US crime rates (1964-2014) | [www.disastercenter.com](www.disastercenter.com)
-[greenhouse_emissions]() | Inventory of U.S. Greenhouse Gas Emissions | [United States Environmental Protection Agency](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks)
-[energy_production]() | US energy production by sector | [US Energy Information Administration](https://www.eia.gov/totalenergy/)
+[greenhouse_emissions](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/greenhouse_emissions.csv) | Inventory of U.S. Greenhouse Gas Emissions | [United States Environmental Protection Agency](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks)
+[energy_production](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/energy_production.csv) | US energy production in quads by sector | [US Energy Information Administration](https://www.eia.gov/totalenergy/)
 
 
 ## Would You Like to Know More?
