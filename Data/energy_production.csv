@@ -1,0 +1,731 @@
+Year,Value,Sector
+1949,11.973882,Coal Production
+1950,14.060135,Coal Production
+1951,14.419325,Coal Production
+1952,12.734313,Coal Production
+1953,12.277746,Coal Production
+1954,10.542448,Coal Production
+1955,12.369608,Coal Production
+1956,13.306334,Coal Production
+1957,13.061393,Coal Production
+1958,10.783088,Coal Production
+1959,10.777984,Coal Production
+1960,10.817398,Coal Production
+1961,10.447091,Coal Production
+1962,10.90056,Coal Production
+1963,11.849229,Coal Production
+1964,12.523881,Coal Production
+1965,13.055285,Coal Production
+1966,13.467679,Coal Production
+1967,13.825487,Coal Production
+1968,13.608678,Coal Production
+1969,13.863346,Coal Production
+1970,14.607064,Coal Production
+1971,13.185523,Coal Production
+1972,14.091685,Coal Production
+1973,13.992126,Coal Production
+1974,14.074451,Coal Production
+1975,14.989315,Coal Production
+1976,15.653687,Coal Production
+1977,15.754741,Coal Production
+1978,14.909809,Coal Production
+1979,17.539583,Coal Production
+1980,18.597726,Coal Production
+1981,18.376773,Coal Production
+1982,18.638773,Coal Production
+1983,17.246671,Coal Production
+1984,19.719216,Coal Production
+1985,19.325166,Coal Production
+1986,19.509466,Coal Production
+1987,20.141104,Coal Production
+1988,20.737639,Coal Production
+1989,21.360178,Coal Production
+1990,22.487548,Coal Production
+1991,21.636424,Coal Production
+1992,21.694132,Coal Production
+1993,20.335654,Coal Production
+1994,22.202083,Coal Production
+1995,22.12955,Coal Production
+1996,22.790148,Coal Production
+1997,23.309614,Coal Production
+1998,24.045198,Coal Production
+1999,23.295084,Coal Production
+2000,22.735478,Coal Production
+2001,23.54708,Coal Production
+2002,22.732237,Coal Production
+2003,22.093652,Coal Production
+2004,22.852099,Coal Production
+2005,23.185189,Coal Production
+2006,23.78951,Coal Production
+2007,23.492742,Coal Production
+2008,23.851368,Coal Production
+2009,21.623721,Coal Production
+2010,22.038226,Coal Production
+2011,22.221407,Coal Production
+2012,20.676893,Coal Production
+2013,20.001304,Coal Production
+2014,20.285705,Coal Production
+2015,17.946095,Coal Production
+2016,14.667089,Coal Production
+2017,15.625377,Coal Production
+2018,15.363442,Coal Production
+2019,14.255763,Coal Production
+2020,10.703214,Coal Production
+2021,11.612659,Coal Production
+1949,5.377243,Natural Gas (Dry) Production
+1950,6.232975,Natural Gas (Dry) Production
+1951,7.415733,Natural Gas (Dry) Production
+1952,7.963599,Natural Gas (Dry) Production
+1953,8.338838,Natural Gas (Dry) Production
+1954,8.681785,Natural Gas (Dry) Production
+1955,9.344668,Natural Gas (Dry) Production
+1956,10.002147,Natural Gas (Dry) Production
+1957,10.605254,Natural Gas (Dry) Production
+1958,10.942235,Natural Gas (Dry) Production
+1959,11.951826,Natural Gas (Dry) Production
+1960,12.656133,Natural Gas (Dry) Production
+1961,13.104734,Natural Gas (Dry) Production
+1962,13.716861,Natural Gas (Dry) Production
+1963,14.512781,Natural Gas (Dry) Production
+1964,15.298396,Natural Gas (Dry) Production
+1965,15.775441,Natural Gas (Dry) Production
+1966,17.010742,Natural Gas (Dry) Production
+1967,17.943168,Natural Gas (Dry) Production
+1968,19.067853,Natural Gas (Dry) Production
+1969,20.446462,Natural Gas (Dry) Production
+1970,21.66567,Natural Gas (Dry) Production
+1971,22.279791,Natural Gas (Dry) Production
+1972,22.207545,Natural Gas (Dry) Production
+1973,22.187349,Natural Gas (Dry) Production
+1974,21.210145,Natural Gas (Dry) Production
+1975,19.640343,Natural Gas (Dry) Production
+1976,19.480319,Natural Gas (Dry) Production
+1977,19.565321,Natural Gas (Dry) Production
+1978,19.485219,Natural Gas (Dry) Production
+1979,20.076347,Natural Gas (Dry) Production
+1980,19.9076,Natural Gas (Dry) Production
+1981,19.699155,Natural Gas (Dry) Production
+1982,18.319025,Natural Gas (Dry) Production
+1983,16.593389,Natural Gas (Dry) Production
+1984,18.007933,Natural Gas (Dry) Production
+1985,16.98038,Natural Gas (Dry) Production
+1986,16.540801,Natural Gas (Dry) Production
+1987,17.135819,Natural Gas (Dry) Production
+1988,17.598597,Natural Gas (Dry) Production
+1989,17.847275,Natural Gas (Dry) Production
+1990,18.326155,Natural Gas (Dry) Production
+1991,18.228736,Natural Gas (Dry) Production
+1992,18.3751,Natural Gas (Dry) Production
+1993,18.584037,Natural Gas (Dry) Production
+1994,19.348013,Natural Gas (Dry) Production
+1995,19.082245,Natural Gas (Dry) Production
+1996,19.344268,Natural Gas (Dry) Production
+1997,19.393851,Natural Gas (Dry) Production
+1998,19.613295,Natural Gas (Dry) Production
+1999,19.340703,Natural Gas (Dry) Production
+2000,19.661529,Natural Gas (Dry) Production
+2001,20.165567,Natural Gas (Dry) Production
+2002,19.382055,Natural Gas (Dry) Production
+2003,19.633304,Natural Gas (Dry) Production
+2004,19.074254,Natural Gas (Dry) Production
+2005,18.556015,Natural Gas (Dry) Production
+2006,19.021706,Natural Gas (Dry) Production
+2007,19.786209,Natural Gas (Dry) Production
+2008,20.702884,Natural Gas (Dry) Production
+2009,21.13945,Natural Gas (Dry) Production
+2010,21.805763,Natural Gas (Dry) Production
+2011,23.40572,Natural Gas (Dry) Production
+2012,24.610065,Natural Gas (Dry) Production
+2013,24.859072,Natural Gas (Dry) Production
+2014,26.718073,Natural Gas (Dry) Production
+2015,28.066882,Natural Gas (Dry) Production
+2016,27.576023,Natural Gas (Dry) Production
+2017,28.289335,Natural Gas (Dry) Production
+2018,31.882148,Natural Gas (Dry) Production
+2019,35.187183,Natural Gas (Dry) Production
+2020,34.724219,Natural Gas (Dry) Production
+2021,35.407789,Natural Gas (Dry) Production
+1949,10.683252,Crude Oil Production
+1950,11.446729,Crude Oil Production
+1951,13.036724,Crude Oil Production
+1952,13.281049,Crude Oil Production
+1953,13.671076,Crude Oil Production
+1954,13.42693,Crude Oil Production
+1955,14.409682,Crude Oil Production
+1956,15.180241,Crude Oil Production
+1957,15.178026,Crude Oil Production
+1958,14.204125,Crude Oil Production
+1959,14.932622,Crude Oil Production
+1960,14.934611,Crude Oil Production
+1961,15.206196,Crude Oil Production
+1962,15.521896,Crude Oil Production
+1963,15.965793,Crude Oil Production
+1964,16.163568,Crude Oil Production
+1965,16.521381,Crude Oil Production
+1966,17.561025,Crude Oil Production
+1967,18.651304,Crude Oil Production
+1968,19.308444,Crude Oil Production
+1969,19.556156,Crude Oil Production
+1970,20.40121,Crude Oil Production
+1971,20.032701,Crude Oil Production
+1972,20.041134,Crude Oil Production
+1973,19.493237,Crude Oil Production
+1974,18.574993,Crude Oil Production
+1975,17.729318,Crude Oil Production
+1976,17.261844,Crude Oil Production
+1977,17.453737,Crude Oil Production
+1978,18.433653,Crude Oil Production
+1979,18.103598,Crude Oil Production
+1980,18.248917,Crude Oil Production
+1981,18.146019,Crude Oil Production
+1982,18.308947,Crude Oil Production
+1983,18.391794,Crude Oil Production
+1984,18.848237,Crude Oil Production
+1985,18.992407,Crude Oil Production
+1986,18.375862,Crude Oil Production
+1987,17.674787,Crude Oil Production
+1988,17.278931,Crude Oil Production
+1989,16.116883,Crude Oil Production
+1990,15.571185,Crude Oil Production
+1991,15.700826,Crude Oil Production
+1992,15.222863,Crude Oil Production
+1993,14.49439,Crude Oil Production
+1994,14.102563,Crude Oil Production
+1995,13.886754,Crude Oil Production
+1996,13.722899,Crude Oil Production
+1997,13.65802,Crude Oil Production
+1998,13.23513,Crude Oil Production
+1999,12.451046,Crude Oil Production
+2000,12.358101,Crude Oil Production
+2001,12.281566,Crude Oil Production
+2002,12.160213,Crude Oil Production
+2003,11.959568,Crude Oil Production
+2004,11.550086,Crude Oil Production
+2005,10.974152,Crude Oil Production
+2006,10.766775,Crude Oil Production
+2007,10.741447,Crude Oil Production
+2008,10.613302,Crude Oil Production
+2009,11.340126,Crude Oil Production
+2010,11.610472,Crude Oil Production
+2011,12.012295,Crude Oil Production
+2012,13.847275,Crude Oil Production
+2013,15.872327,Crude Oil Production
+2014,18.612818,Crude Oil Production
+2015,19.700738,Crude Oil Production
+2016,18.522435,Crude Oil Production
+2017,19.545513,Crude Oil Production
+2018,22.785702,Crude Oil Production
+2019,25.559253,Crude Oil Production
+2020,23.501343,Crude Oil Production
+2021,23.239162,Crude Oil Production
+1949,0.706102,Natural Gas Plant Liquids Production
+1950,0.813366,Natural Gas Plant Liquids Production
+1951,0.910336,Natural Gas Plant Liquids Production
+1952,0.985701,Natural Gas Plant Liquids Production
+1953,1.050702,Natural Gas Plant Liquids Production
+1954,1.101065,Natural Gas Plant Liquids Production
+1955,1.222838,Natural Gas Plant Liquids Production
+1956,1.264288,Natural Gas Plant Liquids Production
+1957,1.273767,Natural Gas Plant Liquids Production
+1958,1.275674,Natural Gas Plant Liquids Production
+1959,1.369632,Natural Gas Plant Liquids Production
+1960,1.446688,Natural Gas Plant Liquids Production
+1961,1.530668,Natural Gas Plant Liquids Production
+1962,1.570579,Natural Gas Plant Liquids Production
+1963,1.686928,Natural Gas Plant Liquids Production
+1964,1.777335,Natural Gas Plant Liquids Production
+1965,1.853211,Natural Gas Plant Liquids Production
+1966,1.971083,Natural Gas Plant Liquids Production
+1967,2.148364,Natural Gas Plant Liquids Production
+1968,2.289294,Natural Gas Plant Liquids Production
+1969,2.385951,Natural Gas Plant Liquids Production
+1970,2.478196,Natural Gas Plant Liquids Production
+1971,2.512654,Natural Gas Plant Liquids Production
+1972,2.563714,Natural Gas Plant Liquids Production
+1973,2.53452,Natural Gas Plant Liquids Production
+1974,2.434819,Natural Gas Plant Liquids Production
+1975,2.337943,Natural Gas Plant Liquids Production
+1976,2.287714,Natural Gas Plant Liquids Production
+1977,2.285651,Natural Gas Plant Liquids Production
+1978,2.201959,Natural Gas Plant Liquids Production
+1979,2.232325,Natural Gas Plant Liquids Production
+1980,2.224841,Natural Gas Plant Liquids Production
+1981,2.266284,Natural Gas Plant Liquids Production
+1982,2.149202,Natural Gas Plant Liquids Production
+1983,2.136317,Natural Gas Plant Liquids Production
+1984,2.233806,Natural Gas Plant Liquids Production
+1985,2.203767,Natural Gas Plant Liquids Production
+1986,2.112878,Natural Gas Plant Liquids Production
+1987,2.178933,Natural Gas Plant Liquids Production
+1988,2.23069,Natural Gas Plant Liquids Production
+1989,2.123367,Natural Gas Plant Liquids Production
+1990,2.138298,Natural Gas Plant Liquids Production
+1991,2.265161,Natural Gas Plant Liquids Production
+1992,2.322585,Natural Gas Plant Liquids Production
+1993,2.36619,Natural Gas Plant Liquids Production
+1994,2.349386,Natural Gas Plant Liquids Production
+1995,2.397846,Natural Gas Plant Liquids Production
+1996,2.480343,Natural Gas Plant Liquids Production
+1997,2.444798,Natural Gas Plant Liquids Production
+1998,2.372294,Natural Gas Plant Liquids Production
+1999,2.472965,Natural Gas Plant Liquids Production
+2000,2.551466,Natural Gas Plant Liquids Production
+2001,2.490533,Natural Gas Plant Liquids Production
+2002,2.502206,Natural Gas Plant Liquids Production
+2003,2.296059,Natural Gas Plant Liquids Production
+2004,2.407581,Natural Gas Plant Liquids Production
+2005,2.279946,Natural Gas Plant Liquids Production
+2006,2.298717,Natural Gas Plant Liquids Production
+2007,2.348716,Natural Gas Plant Liquids Production
+2008,2.359299,Natural Gas Plant Liquids Production
+2009,2.508252,Natural Gas Plant Liquids Production
+2010,2.704829,Natural Gas Plant Liquids Production
+2011,2.890075,Natural Gas Plant Liquids Production
+2012,3.162126,Natural Gas Plant Liquids Production
+2013,3.451386,Natural Gas Plant Liquids Production
+2014,4.005085,Natural Gas Plant Liquids Production
+2015,4.475993,Natural Gas Plant Liquids Production
+2016,4.664785,Natural Gas Plant Liquids Production
+2017,4.987096,Natural Gas Plant Liquids Production
+2018,5.726973,Natural Gas Plant Liquids Production
+2019,6.351729,Natural Gas Plant Liquids Production
+2020,6.804761,Natural Gas Plant Liquids Production
+2021,7.060591,Natural Gas Plant Liquids Production
+1949,0.0,Nuclear Electric Power Production
+1950,0.0,Nuclear Electric Power Production
+1951,0.0,Nuclear Electric Power Production
+1952,0.0,Nuclear Electric Power Production
+1953,0.0,Nuclear Electric Power Production
+1954,0.0,Nuclear Electric Power Production
+1955,0.0,Nuclear Electric Power Production
+1956,0.0,Nuclear Electric Power Production
+1957,0.000112,Nuclear Electric Power Production
+1958,0.001915,Nuclear Electric Power Production
+1959,0.002187,Nuclear Electric Power Production
+1960,0.006026,Nuclear Electric Power Production
+1961,0.019678,Nuclear Electric Power Production
+1962,0.026394,Nuclear Electric Power Production
+1963,0.038147,Nuclear Electric Power Production
+1964,0.039819,Nuclear Electric Power Production
+1965,0.043164,Nuclear Electric Power Production
+1966,0.064158,Nuclear Electric Power Production
+1967,0.088456,Nuclear Electric Power Production
+1968,0.141534,Nuclear Electric Power Production
+1969,0.153722,Nuclear Electric Power Production
+1970,0.239347,Nuclear Electric Power Production
+1971,0.412939,Nuclear Electric Power Production
+1972,0.583752,Nuclear Electric Power Production
+1973,0.910177,Nuclear Electric Power Production
+1974,1.272083,Nuclear Electric Power Production
+1975,1.899798,Nuclear Electric Power Production
+1976,2.111121,Nuclear Electric Power Production
+1977,2.701762,Nuclear Electric Power Production
+1978,3.024126,Nuclear Electric Power Production
+1979,2.775827,Nuclear Electric Power Production
+1980,2.739169,Nuclear Electric Power Production
+1981,3.007589,Nuclear Electric Power Production
+1982,3.131148,Nuclear Electric Power Production
+1983,3.202549,Nuclear Electric Power Production
+1984,3.552531,Nuclear Electric Power Production
+1985,4.075563,Nuclear Electric Power Production
+1986,4.380109,Nuclear Electric Power Production
+1987,4.753933,Nuclear Electric Power Production
+1988,5.586968,Nuclear Electric Power Production
+1989,5.602161,Nuclear Electric Power Production
+1990,6.10435,Nuclear Electric Power Production
+1991,6.422132,Nuclear Electric Power Production
+1992,6.479206,Nuclear Electric Power Production
+1993,6.410499,Nuclear Electric Power Production
+1994,6.693877,Nuclear Electric Power Production
+1995,7.075436,Nuclear Electric Power Production
+1996,7.086674,Nuclear Electric Power Production
+1997,6.596992,Nuclear Electric Power Production
+1998,7.067809,Nuclear Electric Power Production
+1999,7.610256,Nuclear Electric Power Production
+2000,7.862349,Nuclear Electric Power Production
+2001,8.028853,Nuclear Electric Power Production
+2002,8.145429,Nuclear Electric Power Production
+2003,7.959622,Nuclear Electric Power Production
+2004,8.222774,Nuclear Electric Power Production
+2005,8.16081,Nuclear Electric Power Production
+2006,8.214626,Nuclear Electric Power Production
+2007,8.458589,Nuclear Electric Power Production
+2008,8.426491,Nuclear Electric Power Production
+2009,8.35522,Nuclear Electric Power Production
+2010,8.434433,Nuclear Electric Power Production
+2011,8.268698,Nuclear Electric Power Production
+2012,8.061822,Nuclear Electric Power Production
+2013,8.244433,Nuclear Electric Power Production
+2014,8.337559,Nuclear Electric Power Production
+2015,8.336886,Nuclear Electric Power Production
+2016,8.426753,Nuclear Electric Power Production
+2017,8.418968,Nuclear Electric Power Production
+2018,8.438068,Nuclear Electric Power Production
+2019,8.451852,Nuclear Electric Power Production
+2020,8.251075,Nuclear Electric Power Production
+2021,8.128571,Nuclear Electric Power Production
+1949,1.424722,Hydroelectric Power Production
+1950,1.415411,Hydroelectric Power Production
+1951,1.423795,Hydroelectric Power Production
+1952,1.465812,Hydroelectric Power Production
+1953,1.412859,Hydroelectric Power Production
+1954,1.359772,Hydroelectric Power Production
+1955,1.359844,Hydroelectric Power Production
+1956,1.434711,Hydroelectric Power Production
+1957,1.515613,Hydroelectric Power Production
+1958,1.591967,Hydroelectric Power Production
+1959,1.548465,Hydroelectric Power Production
+1960,1.607975,Hydroelectric Power Production
+1961,1.656463,Hydroelectric Power Production
+1962,1.816141,Hydroelectric Power Production
+1963,1.771355,Hydroelectric Power Production
+1964,1.886314,Hydroelectric Power Production
+1965,2.059077,Hydroelectric Power Production
+1966,2.061519,Hydroelectric Power Production
+1967,2.346664,Hydroelectric Power Production
+1968,2.348629,Hydroelectric Power Production
+1969,2.647983,Hydroelectric Power Production
+1970,2.633547,Hydroelectric Power Production
+1971,2.824151,Hydroelectric Power Production
+1972,2.863865,Hydroelectric Power Production
+1973,2.861448,Hydroelectric Power Production
+1974,3.17658,Hydroelectric Power Production
+1975,3.154607,Hydroelectric Power Production
+1976,2.976265,Hydroelectric Power Production
+1977,2.333252,Hydroelectric Power Production
+1978,2.936983,Hydroelectric Power Production
+1979,2.930686,Hydroelectric Power Production
+1980,2.900144,Hydroelectric Power Production
+1981,2.757968,Hydroelectric Power Production
+1982,3.265558,Hydroelectric Power Production
+1983,3.52726,Hydroelectric Power Production
+1984,3.385811,Hydroelectric Power Production
+1985,2.970192,Hydroelectric Power Production
+1986,3.071179,Hydroelectric Power Production
+1987,2.634508,Hydroelectric Power Production
+1988,2.334265,Hydroelectric Power Production
+1989,2.837263,Hydroelectric Power Production
+1990,3.046391,Hydroelectric Power Production
+1991,3.015943,Hydroelectric Power Production
+1992,2.617436,Hydroelectric Power Production
+1993,2.891613,Hydroelectric Power Production
+1994,2.683457,Hydroelectric Power Production
+1995,3.205307,Hydroelectric Power Production
+1996,3.589656,Hydroelectric Power Production
+1997,3.640458,Hydroelectric Power Production
+1998,3.297054,Hydroelectric Power Production
+1999,3.267575,Hydroelectric Power Production
+2000,2.811116,Hydroelectric Power Production
+2001,2.241858,Hydroelectric Power Production
+2002,2.689017,Hydroelectric Power Production
+2003,2.792539,Hydroelectric Power Production
+2004,2.688468,Hydroelectric Power Production
+2005,2.702942,Hydroelectric Power Production
+2006,2.869035,Hydroelectric Power Production
+2007,2.446389,Hydroelectric Power Production
+2008,2.511108,Hydroelectric Power Production
+2009,2.668824,Hydroelectric Power Production
+2010,2.538541,Hydroelectric Power Production
+2011,3.102852,Hydroelectric Power Production
+2012,2.628702,Hydroelectric Power Production
+2013,2.562382,Hydroelectric Power Production
+2014,2.466577,Hydroelectric Power Production
+2015,2.321177,Hydroelectric Power Production
+2016,2.472442,Hydroelectric Power Production
+2017,2.766967,Hydroelectric Power Production
+2018,2.663138,Hydroelectric Power Production
+2019,2.563516,Hydroelectric Power Production
+2020,2.502708,Hydroelectric Power Production
+2021,2.282953,Hydroelectric Power Production
+1949,0.0,Geothermal Energy Production
+1950,0.0,Geothermal Energy Production
+1951,0.0,Geothermal Energy Production
+1952,0.0,Geothermal Energy Production
+1953,0.0,Geothermal Energy Production
+1954,0.0,Geothermal Energy Production
+1955,0.0,Geothermal Energy Production
+1956,0.0,Geothermal Energy Production
+1957,0.0,Geothermal Energy Production
+1958,0.0,Geothermal Energy Production
+1959,0.0,Geothermal Energy Production
+1960,0.000359,Geothermal Energy Production
+1961,0.001001,Geothermal Energy Production
+1962,0.001061,Geothermal Energy Production
+1963,0.00176,Geothermal Energy Production
+1964,0.002132,Geothermal Energy Production
+1965,0.001978,Geothermal Energy Production
+1966,0.001958,Geothermal Energy Production
+1967,0.0033,Geothermal Energy Production
+1968,0.004532,Geothermal Energy Production
+1969,0.006422,Geothermal Energy Production
+1970,0.005511,Geothermal Energy Production
+1971,0.005739,Geothermal Energy Production
+1972,0.015079,Geothermal Energy Production
+1973,0.020422,Geothermal Energy Production
+1974,0.02561,Geothermal Energy Production
+1975,0.03378,Geothermal Energy Production
+1976,0.037513,Geothermal Energy Production
+1977,0.037382,Geothermal Energy Production
+1978,0.030851,Geothermal Energy Production
+1979,0.040262,Geothermal Energy Production
+1980,0.052699,Geothermal Energy Production
+1981,0.059437,Geothermal Energy Production
+1982,0.050627,Geothermal Energy Production
+1983,0.06391,Geothermal Energy Production
+1984,0.080811,Geothermal Energy Production
+1985,0.097421,Geothermal Energy Production
+1986,0.107677,Geothermal Energy Production
+1987,0.11227,Geothermal Energy Production
+1988,0.106338,Geothermal Energy Production
+1989,0.161539,Geothermal Energy Production
+1990,0.170747,Geothermal Energy Production
+1991,0.177626,Geothermal Energy Production
+1992,0.178699,Geothermal Energy Production
+1993,0.185673,Geothermal Energy Production
+1994,0.173464,Geothermal Energy Production
+1995,0.152057,Geothermal Energy Production
+1996,0.163359,Geothermal Energy Production
+1997,0.166698,Geothermal Energy Production
+1998,0.16845,Geothermal Energy Production
+1999,0.170921,Geothermal Energy Production
+2000,0.164364,Geothermal Energy Production
+2001,0.164461,Geothermal Energy Production
+2002,0.171164,Geothermal Energy Production
+2003,0.173445,Geothermal Energy Production
+2004,0.178147,Geothermal Energy Production
+2005,0.180703,Geothermal Energy Production
+2006,0.1812,Geothermal Energy Production
+2007,0.185774,Geothermal Energy Production
+2008,0.192433,Geothermal Energy Production
+2009,0.200185,Geothermal Energy Production
+2010,0.207979,Geothermal Energy Production
+2011,0.212311,Geothermal Energy Production
+2012,0.211592,Geothermal Energy Production
+2013,0.214006,Geothermal Energy Production
+2014,0.21449,Geothermal Energy Production
+2015,0.211836,Geothermal Energy Production
+2016,0.209604,Geothermal Energy Production
+2017,0.210233,Geothermal Energy Production
+2018,0.208865,Geothermal Energy Production
+2019,0.201285,Geothermal Energy Production
+2020,0.2029,Geothermal Energy Production
+2021,0.205955,Geothermal Energy Production
+1949,0.0,Solar Energy Production
+1950,0.0,Solar Energy Production
+1951,0.0,Solar Energy Production
+1952,0.0,Solar Energy Production
+1953,0.0,Solar Energy Production
+1954,0.0,Solar Energy Production
+1955,0.0,Solar Energy Production
+1956,0.0,Solar Energy Production
+1957,0.0,Solar Energy Production
+1958,0.0,Solar Energy Production
+1959,0.0,Solar Energy Production
+1960,0.0,Solar Energy Production
+1961,0.0,Solar Energy Production
+1962,0.0,Solar Energy Production
+1963,0.0,Solar Energy Production
+1964,0.0,Solar Energy Production
+1965,0.0,Solar Energy Production
+1966,0.0,Solar Energy Production
+1967,0.0,Solar Energy Production
+1968,0.0,Solar Energy Production
+1969,0.0,Solar Energy Production
+1970,0.0,Solar Energy Production
+1971,0.0,Solar Energy Production
+1972,0.0,Solar Energy Production
+1973,0.0,Solar Energy Production
+1974,0.0,Solar Energy Production
+1975,0.0,Solar Energy Production
+1976,0.0,Solar Energy Production
+1977,0.0,Solar Energy Production
+1978,0.0,Solar Energy Production
+1979,0.0,Solar Energy Production
+1980,0.0,Solar Energy Production
+1981,0.0,Solar Energy Production
+1982,0.0,Solar Energy Production
+1983,0.0,Solar Energy Production
+1984,5.5e-05,Solar Energy Production
+1985,0.000111,Solar Energy Production
+1986,0.000147,Solar Energy Production
+1987,0.000109,Solar Energy Production
+1988,9.4e-05,Solar Energy Production
+1989,0.054483,Solar Energy Production
+1990,0.058787,Solar Energy Production
+1991,0.061644,Solar Energy Production
+1992,0.062903,Solar Energy Production
+1993,0.065215,Solar Energy Production
+1994,0.067155,Solar Energy Production
+1995,0.068265,Solar Energy Production
+1996,0.069171,Solar Energy Production
+1997,0.068208,Solar Energy Production
+1998,0.067496,Solar Energy Production
+1999,0.06612,Solar Energy Production
+2000,0.063531,Solar Energy Production
+2001,0.061749,Solar Energy Production
+2002,0.060068,Solar Energy Production
+2003,0.058534,Solar Energy Production
+2004,0.058501,Solar Energy Production
+2005,0.058081,Solar Energy Production
+2006,0.061027,Solar Energy Production
+2007,0.066003,Solar Energy Production
+2008,0.074819,Solar Energy Production
+2009,0.078992,Solar Energy Production
+2010,0.092527,Solar Energy Production
+2011,0.114452,Solar Energy Production
+2012,0.162248,Solar Energy Production
+2013,0.224998,Solar Energy Production
+2014,0.337421,Solar Energy Production
+2015,0.426734,Solar Energy Production
+2016,0.570218,Solar Energy Production
+2017,0.776925,Solar Energy Production
+2018,0.915105,Solar Energy Production
+2019,1.017059,Solar Energy Production
+2020,1.212237,Solar Energy Production
+2021,1.501231,Solar Energy Production
+1949,0.0,Wind Energy Production
+1950,0.0,Wind Energy Production
+1951,0.0,Wind Energy Production
+1952,0.0,Wind Energy Production
+1953,0.0,Wind Energy Production
+1954,0.0,Wind Energy Production
+1955,0.0,Wind Energy Production
+1956,0.0,Wind Energy Production
+1957,0.0,Wind Energy Production
+1958,0.0,Wind Energy Production
+1959,0.0,Wind Energy Production
+1960,0.0,Wind Energy Production
+1961,0.0,Wind Energy Production
+1962,0.0,Wind Energy Production
+1963,0.0,Wind Energy Production
+1964,0.0,Wind Energy Production
+1965,0.0,Wind Energy Production
+1966,0.0,Wind Energy Production
+1967,0.0,Wind Energy Production
+1968,0.0,Wind Energy Production
+1969,0.0,Wind Energy Production
+1970,0.0,Wind Energy Production
+1971,0.0,Wind Energy Production
+1972,0.0,Wind Energy Production
+1973,0.0,Wind Energy Production
+1974,0.0,Wind Energy Production
+1975,0.0,Wind Energy Production
+1976,0.0,Wind Energy Production
+1977,0.0,Wind Energy Production
+1978,0.0,Wind Energy Production
+1979,0.0,Wind Energy Production
+1980,0.0,Wind Energy Production
+1981,0.0,Wind Energy Production
+1982,0.0,Wind Energy Production
+1983,2.8e-05,Wind Energy Production
+1984,6.8e-05,Wind Energy Production
+1985,6e-05,Wind Energy Production
+1986,4.4e-05,Wind Energy Production
+1987,3.7e-05,Wind Energy Production
+1988,9e-06,Wind Energy Production
+1989,0.022033,Wind Energy Production
+1990,0.029007,Wind Energy Production
+1991,0.030796,Wind Energy Production
+1992,0.029863,Wind Energy Production
+1993,0.030987,Wind Energy Production
+1994,0.03556,Wind Energy Production
+1995,0.03263,Wind Energy Production
+1996,0.03344,Wind Energy Production
+1997,0.033581,Wind Energy Production
+1998,0.030853,Wind Energy Production
+1999,0.045894,Wind Energy Production
+2000,0.057057,Wind Energy Production
+2001,0.069617,Wind Energy Production
+2002,0.105334,Wind Energy Production
+2003,0.113273,Wind Energy Production
+2004,0.141664,Wind Energy Production
+2005,0.178088,Wind Energy Production
+2006,0.263738,Wind Energy Production
+2007,0.340503,Wind Energy Production
+2008,0.545548,Wind Energy Production
+2009,0.721129,Wind Energy Production
+2010,0.923427,Wind Energy Production
+2011,1.167636,Wind Energy Production
+2012,1.340059,Wind Energy Production
+2013,1.601359,Wind Energy Production
+2014,1.727542,Wind Energy Production
+2015,1.777306,Wind Energy Production
+2016,2.095595,Wind Energy Production
+2017,2.342891,Wind Energy Production
+2018,2.482364,Wind Energy Production
+2019,2.634834,Wind Energy Production
+2020,2.964731,Wind Energy Production
+2021,3.331698,Wind Energy Production
+1949,1.549262,Biomass Energy Production
+1950,1.562307,Biomass Energy Production
+1951,1.534669,Biomass Energy Production
+1952,1.474369,Biomass Energy Production
+1953,1.418601,Biomass Energy Production
+1954,1.394327,Biomass Energy Production
+1955,1.424143,Biomass Energy Production
+1956,1.415871,Biomass Energy Production
+1957,1.333581,Biomass Energy Production
+1958,1.323123,Biomass Energy Production
+1959,1.352874,Biomass Energy Production
+1960,1.31987,Biomass Energy Production
+1961,1.294762,Biomass Energy Production
+1962,1.300242,Biomass Energy Production
+1963,1.323316,Biomass Energy Production
+1964,1.336802,Biomass Energy Production
+1965,1.334761,Biomass Energy Production
+1966,1.368985,Biomass Energy Production
+1967,1.340249,Biomass Energy Production
+1968,1.419495,Biomass Energy Production
+1969,1.440487,Biomass Energy Production
+1970,1.430962,Biomass Energy Production
+1971,1.432323,Biomass Energy Production
+1972,1.503065,Biomass Energy Production
+1973,1.529068,Biomass Energy Production
+1974,1.539662,Biomass Energy Production
+1975,1.498734,Biomass Energy Production
+1976,1.713373,Biomass Energy Production
+1977,1.838332,Biomass Energy Production
+1978,2.037605,Biomass Energy Production
+1979,2.151906,Biomass Energy Production
+1980,2.4755,Biomass Energy Production
+1981,2.596283,Biomass Energy Production
+1982,2.663452,Biomass Energy Production
+1983,2.904414,Biomass Energy Production
+1984,2.97112,Biomass Energy Production
+1985,3.016233,Biomass Energy Production
+1986,2.932095,Biomass Energy Production
+1987,2.874884,Biomass Energy Production
+1988,3.016049,Biomass Energy Production
+1989,3.159357,Biomass Energy Production
+1990,2.735112,Biomass Energy Production
+1991,2.781797,Biomass Energy Production
+1992,2.931678,Biomass Energy Production
+1993,2.908446,Biomass Energy Production
+1994,3.027534,Biomass Energy Production
+1995,3.099082,Biomass Energy Production
+1996,3.155301,Biomass Energy Production
+1997,3.107908,Biomass Energy Production
+1998,2.92893,Biomass Energy Production
+1999,2.965132,Biomass Energy Production
+2000,3.005661,Biomass Energy Production
+2001,2.624162,Biomass Energy Production
+2002,2.705406,Biomass Energy Production
+2003,2.804778,Biomass Energy Production
+2004,2.996017,Biomass Energy Production
+2005,3.101186,Biomass Energy Production
+2006,3.211515,Biomass Energy Production
+2007,3.47208,Biomass Energy Production
+2008,3.86825,Biomass Energy Production
+2009,3.956617,Biomass Energy Production
+2010,4.552532,Biomass Energy Production
+2011,4.712436,Biomass Energy Production
+2012,4.553559,Biomass Energy Production
+2013,4.834795,Biomass Energy Production
+2014,5.0521,Biomass Energy Production
+2015,5.031349,Biomass Energy Production
+2016,5.131769,Biomass Energy Production
+2017,5.165726,Biomass Energy Production
+2018,5.314165,Biomass Energy Production
+2019,5.215023,Biomass Energy Production
+2020,4.80483,Biomass Energy Production
+2021,4.997672,Biomass Energy Production
