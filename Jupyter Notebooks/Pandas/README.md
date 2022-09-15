@@ -65,6 +65,7 @@ Filename | Description |  Source
 [energy_production](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/energy_production.csv) | US energy production in quads by sector | [US Energy Information Administration](https://www.eia.gov/totalenergy/)
 [mso_daily_temp](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/mso_daily_temp.csv) | Max and min daily temperature in Missoula for the time periods 1950-1959 and 2010-2019 | [NOAA](https://www.ncei.noaa.gov/cdo-web/) 
 [mso_monthly_temp](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/mso_monthly_temp.csv) | Monthly average temperatures in Missoula county | [NOAA](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/)
+[emergency_events](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/emergency_events.csv) |  Emergency Events database covering over 20,000 mass disasters globally, starting from 1900 | [KU Leuven](https://public.emdat.be/)
 
 
 ## Would You Like to Know More?
