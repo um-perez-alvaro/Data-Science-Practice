@@ -63,6 +63,7 @@ Filename | Description |  Source
 [US_Crime_Rates](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/US_Crime_Rates.csv) | US crime rates (1964-2014) | [www.disastercenter.com](www.disastercenter.com)
 [greenhouse_emissions](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/greenhouse_emissions.csv) | Inventory of U.S. Greenhouse Gas Emissions | [United States Environmental Protection Agency](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks)
 [energy_production](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/energy_production.csv) | US energy production in quads by sector | [US Energy Information Administration](https://www.eia.gov/totalenergy/)
+[mso_daily_temp](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/mso_daily_temp.csv) | Max and min daily temperature in Missoula for the time periods 1950-1959 and 2010-2019 |
 
 
 ## Would You Like to Know More?
