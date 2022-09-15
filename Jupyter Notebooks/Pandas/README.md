@@ -32,9 +32,9 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 - [Problem 7](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII.ipynb)
 - [Problem 8](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII.ipynb)
 
-**Set 5 (due Sept 16)**
+**Set 5 (due Sept 19)**
 
-## Homework 1 (due )
+## Homework 1 (due Sep 26)
 
 - Stanford Open Police Dataset
 - A visual history of Nobel prize winners
