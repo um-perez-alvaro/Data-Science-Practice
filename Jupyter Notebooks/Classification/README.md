@@ -6,33 +6,33 @@
     * [k-nearest-neighbors](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
     * [logistic regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Logistic%20Regression%20.ipynb)  
     * [draw-classification-regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/functions.py)
-- [Cross validation and Classification Metrics](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20II%20-%20Classification%20Metrics%20and%20Cross%20Validation.ipynb)
-- [Grid Search](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20III.%20Grid%20Search.ipynb)
-- [Classification Thresholds](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20IV.%20Adjusting%20the%20classification%20threshold.ipynb)
-- [Feature Engineering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20V.%20Feature%20Engineering.ipynb)
-- [Pipelines](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
+- Cross validation and Classification Metrics
+- Grid Search
+- Classification Thresholds
+- Feature Engineering
+- Pipelines
 
  
 ## Practice Problems
 
-**Set 1 (due Sept 27)**
+**Set 1 ()**
 
-- [Problem 1: Wine Quality Prediction](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20.ipynb)
-- [Problem 2: Bank Note Authentication](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb)
+- Problem 1: Wine Quality Prediction
+- Problem 2: Bank Note Authentication
 
-**Set 2 (due Sept 29)**
+**Set 2 ()**
 
-- [Problem 3: The MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb)
-- [Problem 4: The fashion MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb)
+- Problem 3: The MNIST dataset
+- Problem 4: The fashion MNIST dataset
 
-**Set 3 (due Oct 4)**
-- [Problem 5: Breast Cancer Diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V.ipynb)
-- [Problem 6: The Palmer Archipelago Penguin Data](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI.ipynb)
+**Set 3 ()**
+- Problem 5: Breast Cancer Diagnosis
+- Problem 6: The Palmer Archipelago Penguin Data
 
 ## Homework (due Oct 13)
 
-- [Problem 1: Bird baths in Australia](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Problem%20I.ipynb)
-- [Problem 2: Predicting heart disease](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Problem%20II.ipynb)
+- Problem 1: Bird baths in Australia
+- Problem 2: Predicting heart disease
 
 
 ## Datasets
