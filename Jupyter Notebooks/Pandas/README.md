@@ -39,9 +39,9 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Homework 1 (due Sep 26)
 
-- Stanford Open Police Dataset
-- A visual history of Nobel prize winners
-- Churn prediction. Part I: Exploratory Data Analysis
+- [Stanford Open Police Dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%201.ipynb)
+- [A visual history of Nobel prize winners](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%202.ipynb)
+- [Churn prediction. Part I: Exploratory Data Analysis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%203.ipynb)
 
 ## Datasets
 
