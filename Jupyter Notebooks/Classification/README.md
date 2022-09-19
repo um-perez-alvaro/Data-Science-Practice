@@ -6,7 +6,7 @@
     * [k-nearest-neighbors](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
     * [logistic regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Logistic%20Regression%20.ipynb)  
     * [draw-classification-regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/functions.py)
-- Cross validation and Classification Metrics
+- [Cross Validation and Evaluation Metrics](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20II%20-%20Classification%20Metrics%20and%20Cross%20Validation.ipynb)
 - Grid Search
 - Classification Thresholds
 - Feature Engineering
