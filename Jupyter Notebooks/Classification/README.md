@@ -17,8 +17,8 @@
 
 **Set 1 ()**
 
-- Problem 1: Wine Quality Prediction
-- Problem 2: Bank Note Authentication
+- [Problem 1: Wine Quality Prediction](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20.ipynb)
+- [Problem 2: Bank Note Authentication](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb)
 
 **Set 2 ()**
 
