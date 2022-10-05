@@ -29,7 +29,7 @@
 - Problem 5: Breast Cancer Diagnosis
 - Problem 6: The Palmer Archipelago Penguin Data
 
-## Homework (due Oct 13)
+## Homework (due )
 
 - Problem 1: Bird baths in Australia
 - Problem 2: Predicting heart disease
