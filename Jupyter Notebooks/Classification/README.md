@@ -25,7 +25,7 @@
 - [Problem 3: The MNIST dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb)
 - [Problem 4: The fashion MNIST dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb)
 
-**Set 3 ()**
+**Set 3 (due Oct 12)**
 - [Problem 5: Breast Cancer Diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V.ipynb)
 - [Problem 6: The Palmer Archipelago Penguin Data](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI.ipynb)
 - [Problem 7: Bird baths in Australia](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VII.ipynb)
