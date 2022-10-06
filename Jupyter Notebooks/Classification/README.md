@@ -32,7 +32,7 @@
 
 ## Homework (due )
 
-
+- Problem 1: Churn prediction
 - Problem 2: Predicting heart disease
 
 
