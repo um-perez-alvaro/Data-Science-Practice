@@ -29,8 +29,8 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 - [Problem 6](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI%20-%20solutions.ipynb))
 
 **Set 4 (due Sept 14)**
-- [Problem 7](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII.ipynb)
-- [Problem 8](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII.ipynb)
+- [Problem 7](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII%20-%20solutions.ipynb))
+- [Problem 8](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII%20-%20solutions.ipynb))
 
 **Set 5 (due Sept 19)**
 - [Problem 9](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Problem%20IX.ipynb)
