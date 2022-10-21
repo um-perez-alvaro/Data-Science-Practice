@@ -11,14 +11,14 @@
 - Fremont Bridge
 ## Practice Problems
 
-**Set 1 (Oct 26)**
+**Set 1 (due Oct 26)**
 - [Problem 1: Simple linear regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20I.ipynb)
 - [Problem 2: A healthy breakfast](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20II%20.ipynb)
 
-**Set 2 (due Oct 13)**
+**Set 2 ()**
 - Problem 3: New York City energy production
 
-## Homework (due Oct 29)
+## Homework ()
 - Problem 1: Predicting house prices
 - Problem 2: Leukemia diagnosis
 - Problem 3: Metro interstate traffic volume
