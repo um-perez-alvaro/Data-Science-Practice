@@ -12,8 +12,8 @@
 ## Practice Problems
 
 **Set 1 ()**
-- Problem 1: Simple linear regression
-- Problem 2: A healthy breakfast
+- [Problem 1: Simple linear regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20I.ipynb)
+- [Problem 2: A healthy breakfast](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20II%20.ipynb)
 
 **Set 2 (due Oct 13)**
 - Problem 3: New York City energy production
