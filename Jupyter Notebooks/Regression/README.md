@@ -7,7 +7,7 @@
 
 - [Linear models for regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
 - COVID deaths forecast
-- Overfitting and regularization
+- [Overfitting and regularization](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Regularization.ipynb)
 - Fremont Bridge
 ## Practice Problems
 
