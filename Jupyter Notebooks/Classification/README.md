@@ -17,23 +17,22 @@
 
 **Set 1 (due Sept 23)**
 
-- [Problem 1: Wine Quality Prediction](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20.ipynb)
-- [Problem 2: Bank Note Authentication](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb)
+- [Problem 1: Wine Quality Prediction](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20-%20solutions.ipynb))
+- [Problem 2: Bank Note Authentication](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20-%20solutions.ipynb))
 
 **Set 2 (due Sept 28)**
 
-- [Problem 3: The MNIST dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb)
-- [Problem 4: The fashion MNIST dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb)
+- [Problem 3: The MNIST dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III%20-%20solutions.ipynb))
+- [Problem 4: The fashion MNIST dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV%20-%20solutions.ipynb))
 
 **Set 3 (due Oct 12)**
-- [Problem 5: Breast Cancer Diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V.ipynb)
-- [Problem 6: The Palmer Archipelago Penguin Data](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI.ipynb)
-- [Problem 7: Bird baths in Australia](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VII.ipynb)
+- [Problem 5: Breast Cancer Diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V%20-%20solutions.ipynb))
+- [Problem 6: The Palmer Archipelago Penguin Data](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI%20-%20solution.ipynb))
+- [Problem 7: Bird baths in Australia](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VII.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VII%20-%20solutions.ipynb))
 
 ## Homework (due )
 
-- Problem 1: Churn prediction
-- Problem 2: Predicting heart disease
+- 
 
 
 ## Datasets
