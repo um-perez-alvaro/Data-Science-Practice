@@ -20,7 +20,7 @@
 - [Problem 3: Credit scoring problem](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%203.ipynb)
 - [Problem 4: Forest cover type prediction](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%204.ipynb)
 
-## Homework ()
+## Homework (Nov 28)
 - [Problem 1: customer churn](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20I.ipynb)
 - [Problem 2: New York City energy production](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20II.ipynb)
 ## Datasets
