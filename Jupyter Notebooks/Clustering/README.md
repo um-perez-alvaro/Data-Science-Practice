@@ -3,6 +3,8 @@
 ## Jupyter notebooks
 
 - [The k-means algorithm](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/notebooks/Clustering%20and%20the%20k-means%20algorithm.ipynb)
+  - [plot decision regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/notebooks/plot%20decision%20regions.ipynb)
+  - [plot silhouette diagram function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/notebooks/plot%20silhouette%20diagram.ipynb)
 - [Applications of clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/notebooks/Applications.ipynb)
 - [More clustering algorithms](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/notebooks/Other%20clustering%20algorithms.ipynb)
 
