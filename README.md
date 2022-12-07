@@ -21,6 +21,6 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 
 ## Take-home exam (due ):
 
-- Part 1: Analyzing US baby name trends
-- Part 2: Police Department Incident Reports
+- [Part 1: Analyzing US baby name trends](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Final%20Exam/Part%20I.ipynb)
+- [Part 2: Police Department Incident Reports](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Final%20Exam/Part%20II.ipynb)
 
