@@ -7,20 +7,15 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 ## Contents:
 
 - [Data Manipulation and Data Visualization](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/README.md)
-- [Classification Problems](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/README.md)
-- [Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/README.md)
-- [Trees, Ensemble Methods and Random Forests](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/README.md)
-- [Naive Bayes and Text Classification](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/README.md)
-- [Clustering and Segmentation](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Clustering/README.md)
-
+- Classification Problems
+- Regression
+- Trees, Ensemble Methods and Random Forests
+- Naive Bayes and Text Classification
+- Clustering and Segmentation
+- 
 ## Extra Topics:
 
-- Recommender Systems]
 - Deep Learning (for Natural Language Processing, Image Classification and Computer Vision)
 - Processing Massively Large Data Sets: Sequential, Parallel, and Distributed Computing
 
-## Take-home exam (due Dec 16):
-
-- [Part 1: Analyzing US baby name trends](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Final%20Exam/Part%20I.ipynb)
-- [Part 2: Police Department Incident Reports](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Final%20Exam/Part%20II.ipynb)
 
