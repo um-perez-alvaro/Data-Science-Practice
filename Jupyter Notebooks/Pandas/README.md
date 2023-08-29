@@ -39,9 +39,9 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Homework 1 ()
 
-- Stanford Open Police Dataset
-- A visual history of Nobel prize winners
-- Analyzing US baby name trends
+- [Stanford Open Police Dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%201.ipynb)
+- [A visual history of Nobel prize winners](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%202.ipynb)
+- [Analyzing US baby name trends](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Final%20Exam/Part%20I.ipynb)
 
 
 ## Datasets
