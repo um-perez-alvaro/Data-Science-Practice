@@ -28,16 +28,16 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 - [Problem 5](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20V.ipynb)
 - [Problem 6](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI.ipynb)
   
-**Set 4 ()**
-- Problem 7
-- Problem 8
+**Set 4 (due Sept 22)**
+- [Problem 7](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VII.ipynb)
+- [Problem 8](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VIII.ipynb)
 
-**Set 5 ()**
-- Problem 9
-- Problem 10
-- Problem 11
+**Set 5 (due Sept 22)**
+- [Problem 9](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Problem%20IX.ipynb)
+- [Problem 10](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Problem%20X.ipynb)
+- [Problem 11](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Problem%20XI.ipynb)
 
-## Homework 1 ()
+## Homework 1 (due Sept 29)
 
 - [Stanford Open Police Dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%201.ipynb)
 - [A visual history of Nobel prize winners](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%202.ipynb)
