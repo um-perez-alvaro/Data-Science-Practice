@@ -10,7 +10,7 @@
 - [Grid Search](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20III.%20Grid%20Search.ipynb)
 - [Classification Thresholds](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20IV.%20Adjusting%20the%20classification%20threshold.ipynb)
 - [Feature Engineering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20V.%20Feature%20Engineering.ipynb)
-- Pipelines
+- [Pipelines](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
 - Imbalanced datasets
  
 ## Practice Problems
