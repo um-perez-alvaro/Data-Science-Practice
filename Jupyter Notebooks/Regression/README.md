@@ -6,23 +6,22 @@
 ## Jupyter notebooks
 
 - [Linear models for regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
-- COVID deaths forecast
-- [Overfitting and regularization](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Regularization.ipynb)
-- [Fremont Bridge](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Predicting%20Bicycle%20Traffic.ipynb)
+- Overfitting and regularization
+- Fremont Bridge
 ## Practice Problems
 
-**Set 1 (due Oct 26)**
+**Set 1 ()**
 - [Problem 1: Simple linear regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20I.ipynb)
 - [Problem 2: A healthy breakfast](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20II%20.ipynb)
 
 
 **Set 2 (due Nov 4)**
-- [Problem 3: New York City energy production](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20III%20.ipynb)
+- Problem 3: New York City energy production
 
 ## Homework (due Nov 7)
-- [Problem 1: Predicting house prices](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%201.ipynb)
-- [Problem 2: Leukemia diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%202.ipynb)
-- [Problem 3: Metro interstate traffic volume](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%203.ipynb)
+- Problem 1: Predicting house prices
+- Problem 2: Leukemia diagnosis
+- Problem 3: Metro interstate traffic volume
 
 
 
