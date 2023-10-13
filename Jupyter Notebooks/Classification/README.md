@@ -25,12 +25,9 @@
 - [Problem 3: The MNIST dataset - classification of handwritten digits](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb)
 - [Problem 4: The fashion MNIST dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb)
 
-**Set 3 ()**
-- Problem 5: Breast Cancer Diagnosis
-- Problem 6: The Palmer Archipelago Penguin Data
-- Problem 7: Bird baths in Australia
 
-## Homework (due )
+
+## Homework (comming soon)
 
 - 
 
