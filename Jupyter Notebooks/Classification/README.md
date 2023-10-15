@@ -15,21 +15,24 @@
  
 ## Practice Problems
 
-**Set 1 (October 6)**
+**Set 1 (due October 6)**
 
 - [Problem 1: Wine Quality Prediction](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20.ipynb)
 - [Problem 2: Bank Note Authentication](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb)
 
-**Set 2 (October 9)**
+**Set 2 (due October 9)**
 
 - [Problem 3: The MNIST dataset - classification of handwritten digits](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb)
 - [Problem 4: The fashion MNIST dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb)
 
 
 
-## Homework (comming soon)
+## Homework (due October 25)
 
-- 
+- [Problem 1: Breast cancer diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V.ipynb)
+- [Problem 2: The Palmer archipelago penguin data](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI.ipynb)
+- [Problem 3: Bird baths in Australia](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VII.ipynb)
+- [Problem 4: Chicago traffic crashes prediction](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/homework/Homework%202.ipynb)
 
 
 ## Datasets
