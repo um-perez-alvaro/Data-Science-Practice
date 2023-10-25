@@ -4,25 +4,26 @@
 
 - [Decision Trees for classification](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Classification%20trees.ipynb)
   * [draw-classification-regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/functions.py)
-- [Random Forests](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Random%20Forests.ipynb)
-- [Decision Trees and Random Forests for regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Trees%20and%20Random%20Forests%20for%20regression.ipynb)
-- [Gradient Boosting](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Gradient%20Boosting.ipynb)
-- [Fremont Bridge revisited](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Fremont%20Bridge%20revisited.ipynb)
+- Random Forests
+- Decision Trees and Random Forests for regression
+- Fremont Bridge revisited
+- Gradient Boosting
 
 
 ## Practice problems
 
-**Set 1 (Nov 14)**:
-- [Problem 1: Scooby Doo monsters](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%201.ipynb)
-- [Problem 2: Predicting whether an order should be sent to a technical approver](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%202.ipynb)
+**Set 1 **:
+- Problem 1: Scooby Doo monsters
+- Problem 2: Predicting whether an order should be sent to a technical approver
 - 
 **Set 2 (Nov 14)**:
-- [Problem 3: Credit scoring problem](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%203.ipynb)
-- [Problem 4: Forest cover type prediction](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/practice%20problems/Problem%204.ipynb)
+- Problem 3: Credit scoring problem
+- Problem 4: Forest cover type prediction
 
 ## Homework (Nov 28)
-- [Problem 1: customer churn](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20I.ipynb)
-- [Problem 2: New York City energy production](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20II.ipynb)
+- Problem 1: customer churn
+- Problem 2: New York City energy production
+  
 ## Datasets
 
 Filename | Description |  Source
