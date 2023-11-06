@@ -3,23 +3,23 @@
 ## Jupyter notebooks
 
 - [Vectorization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Vectorization.ipynb)
-- [A SMS spam detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Building%20s%20SMS%20spam%20detector.ipynb)
-- [Classifying messages by topic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Classifying%20Text%20Messages%20by%20Topic.ipynb)
-- [Stemming and Lemmatization](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/notebooks/Stemming%20and%20Lemmatization.ipynb)
+- A SMS spam detector
+- Classifying messages by topic
+- Stemming and Lemmatization
 - Word to vector embeddings
 
 
 ## Practice Problems
 
-**Set 1 (due Dec 9)**
+**Set 1 ()**
 
-- [Problem 1: tweet classification - Trudeau vs Trump](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/practice%20problems/Problem%20I.ipynb)
-- [Problem 2: email spam detection](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/practice%20problems/Problem%20II.ipynb)
+- Problem 1: tweet classification - Trudeau vs Trump
+- Problem 2: email spam detection
 
 ## Homework (due Dec 9)
 
-- [Problem 1: The disputed Federalist papers](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Problem%20I.ipynb)
-- [Problem 2: A linguistic street map of Singapore](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Problem%20II.ipynb)
+- Problem 1: The disputed Federalist papers
+- Problem 2: A linguistic street map of Singapore
 
 
 
