@@ -16,7 +16,7 @@
 - Problem 1: tweet classification - Trudeau vs Trump
 - Problem 2: email spam detection
 
-## Homework (due Dec 9)
+## Homework ()
 
 - Problem 1: The disputed Federalist papers
 - Problem 2: A linguistic street map of Singapore
