@@ -14,7 +14,7 @@
 ## Homework (TBD)
 
 - [Problem 1: customer churn](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20I.ipynb)
-- [Problem 2: New York City energy production]
+- [Problem 2: New York City energy production](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20II.ipynb)
   
 ## Datasets
 
