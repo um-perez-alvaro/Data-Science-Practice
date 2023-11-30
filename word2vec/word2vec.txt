@@ -1,0 +1,9 @@
+https://rare-technologies.com/word2vec-tutorial/#app
+
+https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html
+
+https://radimrehurek.com/gensim/models/word2vec.html
+
+https://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/
+
+https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial

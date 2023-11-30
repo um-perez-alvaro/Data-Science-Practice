@@ -1,0 +1,801 @@
+World_Rank,University_Name,Country,Teaching_Rating,Inter_Outlook_Rating,Research_Rating,Citations_Rating,Industry_Income_Rating,Total_Score,Num_Students,Student/Staff_Ratio,%_Inter_Students,%_Female_Students,Year
+1,California Institute of Technology,United States of America,95.6,64.0,97.6,99.8,97.8,95.2,2243.0,6.9,27.0,33.0,2016
+2,University of Oxford,United Kingdom,86.5,94.4,98.9,98.8,73.1,94.2,19919.0,11.6,34.0,46.0,2016
+3,Stanford University,United States of America,92.5,76.3,96.2,99.9,63.3,93.9,15596.0,7.8,22.0,42.0,2016
+4,University of Cambridge,United Kingdom,88.2,91.5,96.7,97.0,55.0,92.8,18812.0,11.8,34.0,46.0,2016
+5,Massachusetts Institute of Technology,United States of America,89.4,84.0,88.6,99.7,95.4,92,11074.0,9.0,33.0,37.0,2016
+6,Harvard University,United States of America,83.6,77.2,99.0,99.8,45.2,91.6,20152.0,8.9,25.0,,2016
+7,Princeton University,United States of America,85.1,78.5,91.9,99.3,52.1,90.1,7929.0,8.4,27.0,45.0,2016
+8,Imperial College London,United Kingdom,83.3,96.0,88.5,96.7,53.7,89.1,15060.0,11.7,51.0,37.0,2016
+9,ETH Zurich â Swiss Federal Institute of Technology Zurich,Switzerland,77.0,97.9,95.0,91.1,80.0,88.3,18178.0,14.7,37.0,31.0,2016
+10,University of Chicago,United States of America,85.7,65.0,88.9,99.2,36.6,87.9,14221.0,6.9,21.0,42.0,2016
+11,Johns Hopkins University,United States of America,77.6,70.0,90.4,98.2,100.0,87.6,15128.0,3.6,23.0,50.0,2016
+12,Yale University,United States of America,86.5,64.3,87.8,97.2,43.3,87.4,11751.0,4.4,20.0,50.0,2016
+13,"University of California, Berkeley",United States of America,80.4,61.9,91.1,99.7,47.9,87.2,36186.0,16.4,15.0,50.0,2016
+14,University College London,United Kingdom,78.1,94.4,91.0,94.2,40.5,87.1,26607.0,10.7,46.0,56.0,2016
+15,Columbia University,United States of America,85.9,73.5,82.2,98.1,,86.1,25055.0,5.9,28.0,,2016
+16,"University of California, Los Angeles",United States of America,80.8,56.4,88.6,98.5,47.9,85.8,38206.0,10.3,15.0,52.0,2016
+17,University of Pennsylvania,United States of America,82.0,49.5,86.9,98.6,47.9,85.2,20376.0,6.5,20.0,51.0,2016
+18,Cornell University,United States of America,77.9,63.9,86.1,97.2,33.7,84,21424.0,10.2,19.0,48.0,2016
+19,University of Toronto,Canada,75.9,77.8,89.3,90.9,49.1,83.9,66198.0,19.5,15.0,,2016
+20,Duke University,United States of America,76.0,56.5,78.0,99.0,100.0,82.7,15172.0,4.8,17.0,49.0,2016
+21,University of Michigan,United States of America,76.8,53.7,85.2,94.4,56.3,82.4,41786.0,9.0,16.0,48.0,2016
+22,Carnegie Mellon University,United States of America,67.4,57.1,88.8,99.1,57.5,82.3,11885.0,13.1,35.0,39.0,2016
+23,London School of Economics and Political Science,United Kingdom,69.8,93.6,80.6,94.3,32.2,81.3,,,,,2016
+24,University of Edinburgh,United Kingdom,68.6,89.8,77.2,96.3,36.1,80.3,25774.0,14.1,36.0,58.0,2016
+25,Northwestern University,United States of America,69.8,53.9,78.4,96.5,81.2,79.5,18334.0,13.8,15.0,48.0,2016
+26,National University of Singapore,Singapore,71.7,96.2,84.5,79.4,49.8,79.2,31592.0,15.5,34.0,49.0,2016
+27,Kingâs College London,United Kingdom,64.5,93.8,75.8,93.8,40.1,78.2,21394.0,11.4,37.0,61.0,2016
+28,Karolinska Institute,Sweden,60.6,73.1,81.1,92.2,75.8,77.5,7774.0,11.5,22.0,70.0,2016
+29,LMU Munich,Germany,70.5,62.8,77.4,85.7,100.0,77.3,35691.0,15.5,13.0,62.0,2016
+30,New York University,United States of America,74.7,49.3,72.3,95.3,30.4,77.2,42056.0,6.8,19.0,55.0,2016
+31,Ãcole Polytechnique FÃ©dÃ©rale de Lausanne,Switzerland,61.3,98.6,67.5,94.6,65.4,76.1,9666.0,10.5,54.0,27.0,2016
+32,University of Washington,United States of America,67.1,51.2,70.0,98.6,43.1,75.6,44020.0,11.8,13.0,53.0,2016
+33,University of Melbourne,Australia,62.0,87.1,75.5,86.6,64.6,75.4,40128.0,23.7,35.0,55.0,2016
+34,University of British Columbia,Canada,60.2,90.5,73.2,91.5,42.6,75.3,50152.0,17.6,25.0,54.0,2016
+35,KU Leuven,Belgium,59.9,68.6,76.9,87.3,100.0,74.8,42503.0,41.9,18.0,54.0,2016
+36,University of Illinois at Urbana-Champaign,United States of America,64.5,45.8,81.2,86.8,52.8,74.5,42727.0,18.7,20.0,47.0,2016
+37,Heidelberg University,Germany,68.8,62.8,69.6,88.2,68.2,74.4,28881.0,24.5,17.0,55.0,2016
+38,McGill University,Canada,66.1,85.5,72.1,78.9,40.3,72.6,31326.0,13.7,23.0,56.0,2016
+39,"University of California, San Diego",United States of America,56.9,42.9,69.8,98.7,56.7,72.2,27233.0,6.5,11.0,48.0,2016
+39,"University of California, Santa Barbara",United States of America,52.6,61.5,66.0,99.2,90.4,72.2,22020.0,27.3,11.0,52.0,2016
+41,Georgia Institute of Technology,United States of America,57.8,71.5,72.7,86.0,73.7,72.1,19967.0,20.1,26.0,31.0,2016
+42,Peking University,China,77.8,49.2,72.4,69.1,100.0,72,40148.0,8.3,14.0,,2016
+43,University of Tokyo,Japan,81.4,30.3,83.0,60.9,50.8,71.1,26199.0,5.7,10.0,,2016
+44,"University of California, Davis",United States of America,60.1,58.4,72.7,84.3,57.3,71,35364.0,13.9,13.0,54.0,2016
+44,University of Hong Kong,Hong Kong,64.6,99.5,72.8,70.1,53.7,71,19835.0,17.6,38.0,53.0,2016
+46,University of Texas at Austin,United States of America,59.3,31.7,69.7,92.2,63.1,70.3,49427.0,17.4,9.0,51.0,2016
+47,Tsinghua University,China,73.3,39.5,83.0,58.8,100.0,70,39763.0,13.7,10.0,32.0,2016
+47,Wageningen University and Research Center,Netherlands,52.6,70.3,66.9,87.8,100.0,70,9248.0,17.0,21.0,56.0,2016
+49,Humboldt University of Berlin,Germany,63.7,62.6,77.0,73.6,36.1,69.9,29987.0,52.5,16.0,,2016
+50,University of Wisconsin-Madison,United States of America,65.1,33.0,68.2,86.6,48.5,69.7,39655.0,10.8,11.0,51.0,2016
+51,Brown University,United States of America,62.8,57.8,55.7,96.4,31.4,69.6,8653.0,10.1,19.0,,2016
+52,Australian National University,Australia,54.7,93.3,77.3,72.3,48.0,69.5,14604.0,19.2,35.0,52.0,2016
+53,Technical University of Munich,Germany,61.0,63.8,66.0,80.1,99.2,69.4,35565.0,31.5,20.0,33.0,2016
+54,Ãcole Normale SupÃ©rieure,France,70.6,85.5,47.7,87.1,37.1,69,2400.0,7.9,20.0,46.0,2016
+55,Nanyang Technological University,Singapore,48.4,94.6,61.3,85.6,99.9,68.2,25028.0,16.2,33.0,48.0,2016
+56,University of Manchester,United Kingdom,58.4,87.0,66.0,77.3,42.0,68.1,34938.0,15.3,34.0,52.0,2016
+56,University of Sydney,Australia,54.3,84.4,68.1,77.5,72.4,68.1,41868.0,20.2,28.0,57.0,2016
+58,University of Amsterdam,Netherlands,52.2,66.5,64.7,87.4,62.8,67.8,24570.0,14.4,11.0,53.0,2016
+59,Hong Kong University of Science and Technology,Hong Kong,49.4,80.5,66.1,82.6,68.1,67.2,11385.0,23.8,36.0,,2016
+60,The University of Queensland,Australia,49.2,89.3,62.8,82.4,76.7,67,34718.0,32.7,27.0,53.0,2016
+60,Washington University in St Louis,United States of America,54.3,44.9,55.6,99.2,33.5,67,12528.0,5.7,17.0,,2016
+62,Utrecht University,Netherlands,48.1,55.8,64.3,88.1,89.1,66.6,30779.0,15.4,7.0,59.0,2016
+63,University of North Carolina at Chapel Hill,United States of America,58.0,39.0,54.5,95.9,39.4,66.4,26518.0,7.3,8.0,58.0,2016
+64,Boston University,United States of America,57.8,51.0,49.5,97.7,30.3,66.1,24789.0,8.6,17.0,58.0,2016
+65,Delft University of Technology,Netherlands,55.0,84.0,73.8,61.5,100.0,65.9,15920.0,19.4,25.0,26.0,2016
+65,University of Minnesota,United States of America,53.5,35.3,61.0,88.0,98.5,65.9,46825.0,18.0,13.0,52.0,2016
+67,Leiden University,Netherlands,50.5,64.3,63.1,85.2,49.8,65.7,21222.0,17.1,10.0,59.0,2016
+68,University of Southern California,United States of America,49.3,56.3,58.9,93.0,38.0,65.5,36534.0,12.9,20.0,52.0,2016
+69,University of Bristol,United Kingdom,47.6,82.4,51.6,91.2,40.0,64.3,17906.0,14.0,25.0,53.0,2016
+70,Durham University,United Kingdom,47.9,86.4,51.9,87.7,34.4,63.6,15489.0,15.7,24.0,54.0,2016
+71,Erasmus University Rotterdam,Netherlands,37.2,76.1,55.2,95.6,54.6,63.5,20580.0,18.9,18.0,48.0,2016
+72,Free University of Berlin,Germany,57.9,69.2,72.2,60.2,35.1,63.2,33062.0,39.3,20.0,58.0,2016
+73,Monash University,Australia,48.1,87.6,58.5,73.3,79.7,62.5,50882.0,40.5,36.0,56.0,2016
+74,University of Groningen,Netherlands,43.3,63.9,56.9,84.0,92.4,62.4,24556.0,25.6,12.0,52.0,2016
+75,Pennsylvania State University,United States of America,50.4,40.8,61.9,80.5,56.2,62.3,44501.0,12.4,12.0,46.0,2016
+76,University of Glasgow,United Kingdom,41.6,85.8,48.3,92.3,31.6,61.9,22616.0,16.0,29.0,57.0,2016
+76,University of Helsinki,Finland,48.4,51.8,60.4,82.1,31.6,61.9,23505.0,15.1,6.0,66.0,2016
+78,University of TÃ¼bingen,Germany,47.0,58.2,59.8,79.3,59.2,61.7,28327.0,38.9,12.0,58.0,2016
+79,University of Pittsburgh,United States of America,50.6,33.9,50.3,92.3,39.3,61.5,26485.0,5.8,10.0,51.0,2016
+80,University of Warwick,United Kingdom,47.4,90.3,53.1,78.2,37.7,61.3,18529.0,16.6,37.0,48.0,2016
+81,Uppsala University,Sweden,44.1,59.6,61.0,80.9,39.5,61.2,25266.0,18.2,12.0,57.0,2016
+82,University of Copenhagen,Denmark,49.8,83.3,42.7,86.2,45.0,61,27545.0,4.1,19.0,67.0,2016
+82,University of New South Wales,Australia,40.7,89.5,53.9,82.1,50.0,61,38309.0,25.9,33.0,47.0,2016
+84,University of Freiburg,Germany,47.4,60.3,51.1,80.5,100.0,60.7,26467.0,31.2,16.0,52.0,2016
+85,Seoul National University,South Korea,66.5,30.9,70.5,50.0,85.4,60.5,26389.0,13.9,10.0,,2016
+86,University of St Andrews,United Kingdom,49.7,92.3,47.3,78.8,30.6,60.4,8338.0,12.7,47.0,56.0,2016
+87,Vanderbilt University,United States of America,47.8,29.1,44.2,95.7,63.2,60.1,12161.0,3.6,10.0,52.0,2016
+88,Kyoto University,Japan,70.6,26.1,69.3,46.6,79.0,59.9,22809.0,5.6,7.0,,2016
+88,Maastricht University,Netherlands,37.5,95.5,47.7,82.7,95.4,59.9,15626.0,18.9,48.0,56.0,2016
+90,Emory University,United States of America,48.3,51.0,37.1,96.7,48.9,59.7,12338.0,4.5,18.0,56.0,2016
+90,Lund University,Sweden,39.7,74.1,53.6,81.3,70.4,59.7,28251.0,11.5,15.0,,2016
+90,Ohio State University,United States of America,51.6,53.0,46.6,83.2,53.1,59.7,51462.0,13.4,12.0,49.0,2016
+93,University of Exeter,United Kingdom,39.4,87.3,40.0,94.3,31.9,59.5,17755.0,18.8,28.0,54.0,2016
+94,University of Bonn,Germany,45.1,63.6,47.5,85.3,,58.8,32474.0,70.4,13.0,55.0,2016
+94,Georgetown University,United States of America,54.4,52.7,39.3,82.5,80.7,58.8,15408.0,8.5,14.0,53.0,2016
+94,McMaster University,Canada,39.8,76.1,44.8,84.9,88.0,58.8,23823.0,19.3,15.0,53.0,2016
+97,University of Sheffield,United Kingdom,42.4,81.9,48.8,80.1,43.4,58.6,23311.0,15.5,31.0,50.0,2016
+98,Queen Mary University of London,United Kingdom,34.1,93.5,41.3,93.3,36.8,58.5,14260.0,14.0,40.0,52.0,2016
+99,University of GÃ¶ttingen,Germany,49.3,56.4,54.5,72.7,31.8,58,25581.0,25.6,12.0,51.0,2016
+99,Michigan State University,United States of America,47.3,56.4,52.6,76.8,32.2,58,44750.0,15.7,15.0,51.0,2016
+101,University of Basel,Switzerland,39.5,94.7,33.1,88.3,99.9,57.9,12551.0,17.3,24.0,54.0,2016
+101,Ãcole Polytechnique,France,53.5,92.8,44.6,64.7,82.3,57.9,2429.0,4.8,30.0,18.0,2016
+101,Rice University,United States of America,37.9,66.6,35.1,99.7,41.7,57.9,6333.0,9.0,26.0,44.0,2016
+104,Dartmouth College,United States of America,50.7,38.3,35.8,93.3,40.8,57.8,6178.0,6.6,16.0,47.0,2016
+104,University of Zurich,Switzerland,49.5,90.4,31.5,85.4,44.0,57.8,26583.0,6.5,19.0,57.0,2016
+106,Aarhus University,Denmark,36.9,76.8,50.7,79.8,68.3,57.7,23895.0,13.6,14.0,54.0,2016
+106,"University of California, Irvine",United States of America,39.9,59.2,41.8,91.6,48.9,57.7,26614.0,16.1,16.0,52.0,2016
+106,University of Mannheim,Germany,34.5,64.6,47.7,86.9,85.3,57.7,11761.0,85.8,15.0,55.0,2016
+108,University of Notre Dame,United States of America,47.6,47.6,48.1,81.7,33.7,57.6,11829.0,13.8,10.0,44.0,2016
+109,University of Western Australia,Australia,33.4,92.6,46.1,83.6,64.5,57.5,20851.0,20.7,27.0,50.0,2016
+110,RWTH Aachen University,Germany,49.4,54.1,56.3,63.2,98.1,57.2,37917.0,27.6,16.0,31.0,2016
+110,University of Southampton,United Kingdom,39.8,88.4,43.6,82.0,37.5,57.2,20925.0,13.5,29.0,53.0,2016
+112,Scuola Normale Superiore di Pisa,Italy,54.2,46.3,53.1,67.2,52.0,57.1,462.0,16.5,5.0,28.0,2016
+113,University of Montreal,Canada,46.3,84.2,45.5,69.6,92.6,57,38264.0,20.3,25.0,57.0,2016
+113,Pierre and Marie Curie University,France,52.8,74.1,32.7,82.9,37.4,57,27862.0,8.7,18.0,48.0,2016
+113,Purdue University,United States of America,50.2,66.4,57.7,63.2,,57,39256.0,18.1,22.0,42.0,2016
+116,Pohang University of Science and Technology,South Korea,49.1,33.7,47.1,76.7,100.0,56.9,3055.0,10.1,4.0,20.0,2016
+117,"University of Maryland, College Park",United States of America,45.0,43.5,42.1,88.2,32.3,56.7,31331.0,8.4,9.0,48.0,2016
+118,Ghent University,Belgium,42.1,54.2,54.5,71.2,88.3,56.6,32166.0,34.1,9.0,57.0,2016
+119,University of Birmingham,United Kingdom,39.4,82.0,41.8,82.7,34.7,56.2,25295.0,16.4,23.0,54.0,2016
+120,University of Bern,Switzerland,40.0,83.7,42.5,76.6,82.9,56.1,14708.0,22.5,14.0,54.0,2016
+120,University of Cape Town,South Africa,34.9,80.2,38.7,85.6,92.7,56.1,20040.0,12.1,18.0,53.0,2016
+120,University of Florida,United States of America,51.8,33.3,56.8,67.7,,56.1,50095.0,18.7,9.0,54.0,2016
+123,University of Erlangen-Nuremberg,Germany,51.7,47.0,39.7,75.2,99.4,56,36146.0,53.9,9.0,49.0,2016
+123,"Rutgers, the State University of New Jersey",United States of America,43.9,34.7,55.7,75.4,35.9,56,37032.0,17.3,8.0,51.0,2016
+125,University of MÃ¼nster,Germany,40.3,46.3,44.1,85.6,58.2,55.9,39838.0,46.1,8.0,53.0,2016
+125,Radboud University Nijmegen,Netherlands,34.3,60.9,48.5,84.9,39.2,55.9,17713.0,13.0,10.0,58.0,2016
+127,University of Colorado Boulder,United States of America,39.7,36.6,37.6,96.4,35.7,55.8,29325.0,16.1,8.0,45.0,2016
+127,Tufts University,United States of America,45.2,49.4,33.3,90.1,60.7,55.8,10410.0,10.0,14.0,54.0,2016
+129,"Royal Holloway, University of London",United Kingdom,35.1,92.7,33.2,91.2,34.4,55.7,8747.0,15.9,37.0,57.0,2016
+130,Lancaster University,United Kingdom,34.0,87.0,41.4,85.3,33.6,55.6,11512.0,14.9,33.0,52.0,2016
+131,University of Geneva,Switzerland,34.9,98.5,40.5,78.5,72.4,55.4,15668.0,15.0,39.0,61.0,2016
+131,University of York,United Kingdom,41.9,83.5,46.3,73.1,31.1,55.4,,,,,2016
+133,Case Western Reserve University,United States of America,46.1,40.5,33.2,92.0,34.1,55.3,9259.0,6.4,17.0,48.0,2016
+133,University of Leeds,United Kingdom,43.7,77.4,39.0,79.2,36.7,55.3,27703.0,14.7,21.0,58.0,2016
+135,University of Oslo,Norway,43.3,68.2,44.7,75.5,38.3,55.1,27139.0,18.8,18.0,,2016
+136,Stockholm University,Sweden,34.1,48.5,51.2,82.5,31.1,54.8,31715.0,23.7,8.0,62.0,2016
+137,University of Alberta,Canada,46.4,80.7,48.1,63.6,47.4,54.7,36299.0,21.6,23.0,55.0,2016
+138,Chinese University of Hong Kong,Hong Kong,41.5,81.1,48.5,68.4,37.5,54.5,17916.0,10.2,22.0,53.0,2016
+138,Karlsruhe Institute of Technology,Germany,37.7,56.7,47.5,73.8,99.5,54.5,25294.0,24.6,16.0,26.0,2016
+140,University of Sussex,United Kingdom,33.4,88.3,37.2,86.1,30.6,54.4,12001.0,17.4,35.0,54.0,2016
+141,University of Massachusetts,United States of America,40.2,48.9,36.3,88.1,52.2,54.3,56959.0,13.0,11.0,49.0,2016
+142,University of Vienna,Austria,40.8,92.6,50.5,63.6,30.2,54.2,34651.0,20.5,25.0,67.0,2016
+143,University of Nottingham,United Kingdom,40.3,80.6,39.0,77.5,39.8,54.1,30144.0,15.0,27.0,54.0,2016
+144,"University of California, Santa Cruz",United States of America,31.1,45.6,34.2,99.9,36.1,53.9,17404.0,22.7,1.0,53.0,2016
+144,University of Lausanne,Switzerland,30.9,89.2,45.6,76.2,56.0,53.9,11964.0,13.1,22.0,,2016
+146,Autonomous University of Barcelona,Spain,40.3,50.3,40.0,83.8,34.9,53.8,30538.0,12.3,10.0,59.0,2016
+147,University of Virginia,United States of America,38.8,43.4,37.5,87.3,37.9,53.3,23845.0,10.2,12.0,52.0,2016
+148,Korea Advanced Institute of Science and Technology (KAIST),South Korea,43.3,33.9,40.5,75.9,100.0,53,9027.0,10.0,9.0,20.0,2016
+149,University of Adelaide,Australia,32.8,85.1,43.2,72.4,79.3,52.9,20771.0,30.1,26.0,48.0,2016
+149,University of East Anglia,United Kingdom,31.9,83.5,28.7,92.7,28.5,52.9,14992.0,14.7,28.0,58.0,2016
+149,University of Twente,Netherlands,34.1,80.1,45.6,68.8,91.2,52.9,6631.0,12.0,26.0,37.0,2016
+153,Sungkyunkwan University (SKKU),South Korea,51.4,36.7,53.5,53.8,97.5,52.8,24365.0,20.3,9.0,39.0,2016
+154,VU University Amsterdam,Netherlands,28.4,54.9,37.1,90.7,60.1,52.5,23280.0,16.3,6.0,56.0,2016
+155,KTH Royal Institute of Technology,Sweden,39.0,84.4,44.3,63.9,78.1,52.4,12062.0,14.6,21.0,30.0,2016
+156,University of Cologne,Germany,42.2,53.1,38.0,75.0,68.5,52.3,43280.0,43.4,11.0,60.0,2016
+157,University of Liverpool,United Kingdom,32.8,85.4,30.9,85.9,36.6,52.2,18815.0,13.6,30.0,52.0,2016
+158,TU Dresden,Germany,41.4,47.7,45.8,66.1,99.7,52.1,35487.0,37.4,12.0,42.0,2016
+158,University of Rochester,United States of America,39.7,55.8,27.9,89.0,37.0,52.1,9390.0,4.5,26.0,49.0,2016
+160,Trinity College Dublin,Republic of Ireland,41.9,90.5,30.8,75.8,28.0,52,15521.0,18.0,25.0,57.0,2016
+161,Lomonosov Moscow State University,Russian Federation,75.4,57.8,66.7,8.6,95.7,51.9,30822.0,7.7,20.0,43.0,2016
+161,University of Miami,United States of America,41.7,64.0,22.3,90.1,35.5,51.9,15286.0,5.7,14.0,50.0,2016
+163,University of Arizona,United States of America,38.7,38.6,41.8,79.5,32.4,51.7,36429.0,12.7,8.0,52.0,2016
+164,Pompeu Fabra University,Spain,32.9,63.3,28.0,90.7,37.2,51.2,10901.0,18.3,13.0,59.0,2016
+164,University of Reading,United Kingdom,39.3,85.1,37.3,69.9,34.2,51.2,12050.0,14.8,28.0,55.0,2016
+164,Yeshiva University,United States of America,44.8,28.5,23.7,92.8,,51.2,6753.0,5.5,7.0,53.0,2016
+167,"University of California, Riverside",United States of America,27.5,59.5,33.3,91.2,42.5,51.1,20626.0,22.0,12.0,51.0,2016
+167,University of Leicester,United Kingdom,32.1,86.6,27.8,86.0,31.7,51.1,14541.0,13.4,35.0,54.0,2016
+167,National Taiwan University,Taiwan,54.1,27.7,58.0,47.3,49.6,51.1,31891.0,11.9,7.0,39.0,2016
+167,Technical University of Denmark,Denmark,37.3,85.1,29.9,77.8,50.0,51.1,9990.0,5.0,18.0,27.0,2016
+167,UniversitÃ© Catholique de Louvain,Belgium,38.7,74.2,40.6,68.4,51.0,51.1,28856.0,42.0,19.0,54.0,2016
+172,University of Aberdeen,United Kingdom,29.7,91.4,31.4,82.6,43.1,51,12938.0,15.8,33.0,54.0,2016
+172,University of Auckland,New Zealand,31.4,90.5,39.5,69.8,78.0,51,29787.0,18.9,28.0,54.0,2016
+174,University of Barcelona,Spain,38.5,49.2,37.4,78.9,31.1,50.9,47491.0,12.2,10.0,62.0,2016
+175,University of Konstanz,Germany,38.5,58.3,46.7,61.9,92.4,50.8,10930.0,59.1,12.0,54.0,2016
+176,Eindhoven University of Technology,Netherlands,34.3,71.3,41.0,70.7,57.3,50.6,8176.0,16.0,14.0,19.0,2016
+176,University College Dublin,Republic of Ireland,35.0,86.3,38.5,70.8,33.5,50.6,22193.0,24.5,23.0,,2016
+178,Hebrew University of Jerusalem,Israel,45.8,55.6,41.4,64.6,31.9,50.5,17612.0,10.7,5.0,55.0,2016
+179,University of Waterloo,Canada,35.4,74.4,43.9,66.5,39.5,50.3,30726.0,24.2,14.0,45.0,2016
+180,University of Gothenburg,Sweden,28.5,58.3,39.8,81.8,30.3,50.2,26420.0,16.4,12.0,,2016
+180,Scuola Superiore SantâAnna,Italy,42.5,45.2,23.2,84.5,71.2,50.2,769.0,8.5,17.0,35.0,2016
+182,University of Bergen,Norway,32.5,70.0,31.5,82.4,36.2,50.1,11623.0,11.1,12.0,60.0,2016
+182,Cardiff University,United Kingdom,30.9,78.1,31.6,82.0,34.6,50.1,23347.0,13.1,23.0,57.0,2016
+182,University of Utah,United States of America,35.6,30.1,35.3,83.7,57.4,50.1,25674.0,16.9,9.0,45.0,2016
+185,Brandeis University,United States of America,28.3,47.0,25.7,97.3,38.6,49.9,5495.0,12.6,22.0,55.0,2016
+185,University of Dundee,United Kingdom,25.6,78.5,26.9,90.2,49.5,49.9,11628.0,15.3,25.0,60.0,2016
+185,University of WÃ¼rzburg,Germany,34.6,50.9,35.8,79.1,47.9,49.9,26576.0,38.4,8.0,57.0,2016
+188,Paris-Sud University,France,38.7,64.2,29.0,79.8,28.8,49.8,27603.0,15.0,17.0,,2016
+189,Arizona State University,United States of America,32.4,31.9,38.1,84.6,32.0,49.7,83236.0,29.9,9.0,50.0,2016
+190,University of Antwerp,Belgium,31.6,64.8,40.8,71.7,60.3,49.6,12346.0,30.3,16.0,56.0,2016
+190,Boston College,United States of America,34.1,60.0,29.3,83.3,46.8,49.6,13216.0,17.4,19.0,54.0,2016
+192,Ulm University,Germany,35.2,58.2,23.9,86.4,58.4,49.5,9187.0,11.2,10.0,47.0,2016
+193,University of Luxembourg,Luxembourg,25.0,99.8,26.7,84.8,38.1,49.4,5144.0,15.9,52.0,50.0,2016
+193,Texas A&M University,United States of America,49.4,47.8,52.4,47.1,46.4,49.4,50657.0,21.4,9.0,47.0,2016
+195,CharitÃ© - UniversitÃ¤tsmedizin Berlin,Germany,37.3,61.1,22.2,83.8,68.4,49.3,6853.0,6.6,16.0,64.0,2016
+196,Newcastle University,United Kingdom,30.9,84.3,27.5,81.5,34.7,49.2,20174.0,15.2,29.0,50.0,2016
+196,"St Georgeâs, University of London",United Kingdom,25.6,69.5,18.1,100.0,37.7,49.2,2958.0,13.4,17.0,61.0,2016
+198,University of Trento,Italy,30.8,55.9,27.4,87.7,47.1,49.1,16841.0,43.2,8.0,51.0,2016
+199,Paris Diderot University â Paris 7,France,30.5,64.9,22.9,91.0,29.0,48.9,27756.0,14.8,17.0,63.0,2016
+200,Queenâs University Belfast,United Kingdom,34.1,93.4,33.3,68.9,35.7,48.8,17940.0,17.9,30.0,54.0,2016
+201-250,Aalborg University,Denmark,25.1,71.0,28.4,73.8,43.7,-,17422.0,15.9,15.0,48.0,2016
+201-250,"Birkbeck, University of London",United Kingdom,33.5,89.9,35.1,66.3,28.5,-,9454.0,17.2,38.0,55.0,2016
+201-250,University of Bologna,Italy,39.3,39.9,29.5,73.0,34.5,-,85532.0,22.9,7.0,56.0,2016
+201-250,University at Buffalo,United States of America,36.5,60.6,37.9,62.0,43.8,-,25668.0,19.0,19.0,47.0,2016
+201-250,University of Calgary,Canada,33.9,70.1,36.7,67.8,52.0,-,28341.0,16.5,17.0,53.0,2016
+201-250,Chalmers University of Technology,Sweden,36.6,77.6,35.3,52.2,79.5,-,8605.0,11.6,15.0,30.0,2016
+201-250,City University of Hong Kong,Hong Kong,32.1,81.6,26.7,76.8,50.1,-,10015.0,7.1,28.0,51.0,2016
+201-250,Copenhagen Business School,Denmark,19.3,88.5,26.5,79.4,35.3,-,18293.0,42.7,19.0,48.0,2016
+201-250,Dalhousie University,Canada,30.4,78.3,29.4,65.2,50.3,-,15064.0,14.4,18.0,55.0,2016
+201-250,University of Duisburg-Essen,Germany,32.3,48.5,27.0,81.3,82.3,-,36051.0,46.6,11.0,49.0,2016
+201-250,Ãcole Normale SupÃ©rieure de Lyon,France,41.6,65.6,30.0,69.0,31.7,-,2218.0,8.0,14.0,49.0,2016
+201-250,Florida State University,United States of America,38.5,41.6,40.1,64.7,32.0,-,41226.0,31.8,7.0,55.0,2016
+201-250,University of Fribourg,Switzerland,32.3,87.4,32.9,64.1,60.8,-,10416.0,46.9,19.0,58.0,2016
+201-250,Fudan University,China,44.7,38.6,30.4,61.1,28.0,-,32175.0,12.2,11.0,50.0,2016
+201-250,George Washington University,United States of America,44.7,48.1,23.5,65.7,29.5,-,20541.0,12.0,16.0,56.0,2016
+201-250,Goethe University Frankfurt,Germany,35.8,60.2,28.6,79.3,38.1,-,31861.0,9.3,15.0,60.0,2016
+201-250,University of Hawaiâi at MÄnoa,Unisted States of America,32.0,63.4,35.5,67.7,44.7,-,,,,,2016
+201-250,Hong Kong Polytechnic University,Hong Kong,29.3,79.0,35.2,63.3,45.1,-,22064.0,25.9,26.0,51.0,2016
+201-250,University of Illinois at Chicago,United States of America,40.9,58.1,29.2,63.2,38.0,-,24313.0,9.2,17.0,53.0,2016
+201-250,Indiana University,United States of America,43.0,41.2,27.3,74.8,,-,62468.0,13.6,13.0,53.0,2016
+201-250,University of Iowa,United States of America,41.0,32.3,26.7,73.5,54.1,-,27526.0,11.6,11.0,52.0,2016
+201-250,Johannes Gutenberg University of Mainz,Germany,34.9,53.3,21.7,72.6,70.7,-,35609.0,32.6,10.0,58.0,2016
+201-250,Joseph Fourier University,France,34.2,58.6,21.6,83.2,31.6,-,16130.0,12.1,13.0,,2016
+201-250,University of Kiel,Germany,32.3,49.4,20.5,89.5,,-,24444.0,23.8,8.0,53.0,2016
+201-250,Laval University,Canada,37.5,63.8,31.7,62.2,57.5,-,27227.0,16.2,12.0,,2016
+201-250,Medical University of Vienna,Austria,26.6,81.7,14.6,89.1,33.9,-,7426.0,2.9,28.0,50.0,2016
+201-250,Northeastern University,United States of America,35.5,58.7,20.6,84.0,32.9,-,18539.0,15.1,26.0,50.0,2016
+201-250,Oregon Health and Science University,United States of America,27.8,21.4,15.7,96.0,44.6,-,2838.0,1.1,3.0,65.0,2016
+201-250,University of Otago,New Zealand,30.7,89.9,30.5,74.9,31.5,-,18600.0,20.3,21.0,57.0,2016
+201-250,University of Ottawa,Canada,37.1,69.9,36.7,61.5,41.5,-,36733.0,26.3,15.0,60.0,2016
+201-250,Paris Descartes University,France,24.6,49.1,28.8,83.3,29.0,-,34691.0,26.9,15.0,63.0,2016
+201-250,Peter the Great St Petersburg Polytechnic University,Russian Federation,30.8,29.6,17.8,97.4,42.5,-,17155.0,7.2,8.0,40.0,2016
+201-250,Polytechnic University of Milan,Italy,30.1,48.8,31.7,76.3,66.3,-,30025.0,22.2,12.0,34.0,2016
+201-250,Royal Veterinary College,United Kingdom,26.0,81.7,27.8,74.9,45.5,-,1819.0,10.9,18.0,77.0,2016
+201-250,Rush University,United States of America,37.7,21.8,17.4,88.9,45.4,-,1855.0,2.1,5.0,71.0,2016
+201-250,Sapienza University of Rome,Italy,38.0,34.7,37.3,61.5,32.6,-,120986.0,32.3,7.0,59.0,2016
+201-250,University of Science and Technology of China,China,46.7,21.4,36.6,67.2,80.3,-,14290.0,7.9,2.0,,2016
+201-250,University of South Florida,United States of America,24.8,45.1,35.7,73.4,99.8,-,31424.0,21.5,10.0,,2016
+201-250,Stony Brook University,United States of America,32.6,53.2,22.0,83.0,33.4,-,21908.0,10.9,24.0,50.0,2016
+201-250,University of Stuttgart,Germany,40.0,52.7,44.5,55.7,99.8,-,24099.0,45.4,20.0,31.0,2016
+201-250,Swedish University of Agricultural Sciences,Sweden,31.5,40.1,32.8,68.1,99.9,-,3879.0,4.6,,67.0,2016
+201-250,Technical University of Darmstadt,Germany,37.1,54.4,43.2,51.1,99.1,-,20300.0,53.6,18.0,28.0,2016
+201-250,University of Technology Sydney,Australia,27.0,90.1,35.1,66.9,42.3,-,24519.0,44.1,31.0,53.0,2016
+201-250,Tel Aviv University,Israel,41.0,47.5,50.5,49.2,42.9,-,23977.0,24.4,4.0,,2016
+201-250,University of Texas at Dallas,United States of America,24.3,52.3,26.7,86.8,41.8,-,16306.0,22.8,23.0,44.0,2016
+201-250,Tilburg University,Netherlands,34.1,71.6,47.1,51.5,57.4,-,7576.0,22.4,10.0,49.0,2016
+201-250,Tohoku University,Japan,45.3,29.3,42.7,49.4,74.7,-,17200.0,5.0,7.0,25.0,2016
+201-250,Tokyo Institute of Technology,Japan,45.6,31.9,47.6,42.2,70.9,-,9586.0,7.3,13.0,13.0,2016
+201-250,University of Victoria,Canada,20.6,70.2,30.0,79.0,36.6,-,17581.0,21.5,11.0,56.0,2016
+201-250,Wake Forest University,United States of America,34.6,24.2,19.5,94.8,42.5,-,7326.0,4.6,5.0,51.0,2016
+201-250,University of Western Ontario,Canada,38.6,73.6,32.4,59.0,59.7,-,27387.0,20.7,16.0,54.0,2016
+201-250,William & Mary,United States of America,38.5,26.6,17.5,85.0,29.1,-,7867.0,11.8,7.0,54.0,2016
+201-250,University of the Witwatersrand,South Africa,26.2,68.4,31.5,76.0,99.7,-,23321.0,18.6,9.0,56.0,2016
+251-300,Aalto University,Finland,31.1,65.4,32.8,62.1,61.6,-,16099.0,24.2,17.0,32.0,2016
+251-300,Aix-Marseille University,France,36.7,63.0,22.1,64.9,33.1,-,71749.0,45.5,13.0,61.0,2016
+251-300,University of Bath,United Kingdom,28.9,84.8,27.9,56.7,36.3,-,12830.0,18.8,30.0,46.0,2016
+251-300,Bayreuth University,Germany,32.2,52.6,31.2,60.1,56.4,-,12520.0,35.5,8.0,46.0,2016
+251-300,Bielefeld University,Germany,35.2,45.4,46.2,49.9,60.9,-,21428.0,67.8,8.0,57.0,2016
+251-300,University of Bordeaux,France,25.3,54.6,22.0,71.7,30.6,-,51239.0,19.4,12.0,58.0,2016
+251-300,Charles Darwin University,Australia,17.8,63.7,22.6,85.9,43.2,-,5570.0,25.4,15.0,67.0,2016
+251-300,Colorado School of Mines,United States of America,28.5,35.5,30.3,71.8,83.7,-,5287.0,18.2,12.0,26.0,2016
+251-300,Colorado State University,United States of America,31.6,34.5,33.0,59.3,41.0,-,26769.0,19.0,5.0,52.0,2016
+251-300,University of Delaware,United States of America,23.7,41.6,34.0,70.0,98.7,-,19262.0,15.9,10.0,56.0,2016
+251-300,Flinders University,Australia,21.4,64.7,25.7,69.5,41.7,-,15655.0,22.6,15.0,63.0,2016
+251-300,University of Georgia,United States of America,41.1,39.2,30.5,52.2,30.9,-,33119.0,19.9,7.0,57.0,2016
+251-300,Griffith University,Australia,22.5,81.7,25.2,66.3,34.6,-,30251.0,22.0,21.0,,2016
+251-300,University of Iceland,Iceland,16.2,61.0,16.2,91.4,28.0,-,13960.0,25.9,8.0,66.0,2016
+251-300,Indian Institute of Science,India,42.7,16.4,47.2,42.4,52.4,-,3318.0,8.2,1.0,19.0,2016
+251-300,Iowa State University,United States of America,31.2,35.4,29.4,61.5,54.0,-,29991.0,17.4,11.0,44.0,2016
+251-300,James Cook University,Australia,19.0,70.4,22.8,81.4,40.7,-,11713.0,21.9,11.0,63.0,2016
+251-300,Justus Liebig University Giessen,Germany,32.9,46.8,33.9,52.9,46.4,-,25682.0,53.9,9.0,62.0,2016
+251-300,King Abdulaziz University,Saudi Arabia,23.9,93.0,11.8,76.6,73.1,-,35889.0,8.4,21.0,57.0,2016
+251-300,KoÃ§ University,Turkey,21.2,53.5,27.1,74.9,82.4,-,4488.0,14.6,8.0,52.0,2016
+251-300,Korea University,South Korea,43.9,40.2,43.4,41.8,99.8,-,24043.0,15.8,14.0,,2016
+251-300,University of LiÃ¨ge,Belgium,29.1,69.7,36.6,46.5,98.9,-,20951.0,25.9,23.0,54.0,2016
+251-300,LinkÃ¶ping University,Sweden,24.2,57.7,18.9,76.8,42.1,-,17866.0,7.7,10.0,52.0,2016
+251-300,Nanjing University,China,37.2,50.4,32.2,54.2,58.6,-,29743.0,13.3,10.0,46.0,2016
+251-300,National Tsing Hua University,Taiwan,37.7,23.2,36.6,53.0,49.5,-,10221.0,13.5,5.0,33.0,2016
+251-300,"National University of Ireland, Galway",Republic of Ireland,27.3,76.5,25.4,68.5,41.9,-,14067.0,26.8,14.0,56.0,2016
+251-300,University of Newcastle,Australia,27.4,75.9,26.5,67.2,64.4,-,23508.0,21.9,18.0,56.0,2016
+251-300,North Carolina State University,United States of America,36.1,49.0,30.5,60.0,40.7,-,30533.0,13.6,11.0,44.0,2016
+251-300,Oregon State University,United States of America,30.6,42.8,28.5,63.8,32.1,-,22578.0,16.8,9.0,47.0,2016
+251-300,Osaka University,Japan,46.8,26.6,45.2,37.4,76.1,-,23144.0,7.8,9.0,31.0,2016
+251-300,Queenâs University,Canada,35.8,61.6,35.8,54.4,54.2,-,20488.0,22.1,10.0,58.0,2016
+251-300,Queensland University of Technology,Australia,28.8,76.0,35.6,56.0,73.7,-,33391.0,35.8,17.0,54.0,2016
+251-300,Rensselaer Polytechnic Institute,United States of America,30.4,40.3,31.5,65.1,79.6,-,6671.0,15.0,16.0,30.0,2016
+251-300,Royal College of Surgeons in Ireland,Republic of Ireland,29.9,90.1,20.1,65.3,33.9,-,2473.0,15.6,63.0,55.0,2016
+251-300,Ruhr University Bochum,Germany,32.8,51.7,30.0,54.4,66.6,-,38675.0,46.3,13.0,48.0,2016
+251-300,Saint Louis University,United States of America,36.9,26.6,10.9,85.0,29.9,-,11919.0,5.8,8.0,58.0,2016
+251-300,University of SÃ£o Paulo,Brazil,59.1,25.3,57.1,20.4,30.5,-,81402.0,14.6,4.0,48.0,2016
+251-300,Simon Fraser University,Canada,23.2,61.4,29.2,72.8,42.3,-,26640.0,28.3,19.0,55.0,2016
+251-300,University of Surrey,United Kingdom,31.7,90.4,28.9,51.2,34.9,-,12063.0,16.6,38.0,55.0,2016
+251-300,Syracuse University,United States of America,31.4,38.3,20.8,77.1,36.3,-,19660.0,15.9,15.0,55.0,2016
+251-300,University of Tasmania,Australia,21.8,79.1,25.7,68.0,42.7,-,18340.0,23.8,21.0,57.0,2016
+251-300,"University of Tennessee, Knoxville",United States of America,29.5,39.3,23.2,81.4,41.3,-,24716.0,17.0,5.0,,2016
+251-300,Tomsk Polytechnic University,Russian Federation,31.6,32.7,15.1,82.4,60.2,-,11902.0,6.9,17.0,39.0,2016
+251-300,Tulane University,United States of America,39.1,35.3,19.3,67.8,32.4,-,11381.0,8.4,8.0,56.0,2016
+251-300,UmeÃ¥ University,Sweden,20.8,56.1,25.0,74.5,31.1,-,16667.0,11.9,7.0,60.0,2016
+251-300,Vienna University of Technology,Austria,34.1,77.3,32.0,54.6,86.5,-,26419.0,52.0,27.0,27.0,2016
+251-300,Virginia Polytechnic Institute and State University,United States of America,34.9,29.5,38.2,54.2,43.3,-,30850.0,18.6,10.0,42.0,2016
+251-300,University of Wollongong,Australia,25.8,86.8,28.4,59.3,57.9,-,16489.0,25.4,24.0,50.0,2016
+251-300,Zhejiang University,China,44.3,19.6,46.0,36.1,96.2,-,47508.0,15.9,5.0,41.0,2016
+301-350,Aberystwyth University,United Kingdom,21.6,72.2,18.9,67.2,31.3,-,9252.0,19.2,18.0,48.0,2016
+301-350,University of Alaska Fairbanks,United States of America,25.1,53.5,23.1,63.0,51.2,-,3837.0,8.2,7.0,53.0,2016
+301-350,Autonomous University of Madrid,Spain,35.6,48.6,30.9,46.9,33.0,-,28296.0,13.0,15.0,56.0,2016
+301-350,Bangor University,United Kingdom,22.6,81.3,22.1,65.4,31.0,-,9567.0,19.5,22.0,55.0,2016
+301-350,University of Bremen,Germany,30.9,50.0,32.7,50.0,46.0,-,18590.0,25.6,11.0,50.0,2016
+301-350,University of Cincinnati,United States of America,31.3,28.3,20.4,72.1,35.3,-,36108.0,15.7,6.0,54.0,2016
+301-350,University of Connecticut,United States of America,35.9,43.1,25.6,57.0,30.9,-,25742.0,13.0,11.0,51.0,2016
+301-350,Deakin University,Australia,22.4,76.9,21.9,66.8,30.0,-,32713.0,30.4,17.0,60.0,2016
+301-350,University of Essex,United Kingdom,33.9,93.7,33.3,38.6,28.9,-,12695.0,19.8,39.0,55.0,2016
+301-350,George Mason University,United States of America,29.6,36.9,21.2,64.9,29.1,-,26622.0,17.0,7.0,54.0,2016
+301-350,University of Greifswald,Germany,30.1,41.7,23.5,61.3,32.6,-,10931.0,24.0,6.0,55.0,2016
+301-350,Gwangju Institute of Science and Technology,South Korea,35.2,36.2,42.0,43.7,45.2,-,1394.0,9.6,8.0,25.0,2016
+301-350,University of Hohenheim,Germany,30.9,50.3,33.8,51.5,52.8,-,9163.0,41.2,13.0,56.0,2016
+301-350,University of Innsbruck,Austria,23.6,95.7,16.9,67.3,39.9,-,18209.0,16.9,39.0,54.0,2016
+301-350,Kazan Federal University,Russian Federation,21.9,25.5,12.3,87.5,42.4,-,23321.0,12.2,6.0,69.0,2016
+301-350,University of Kent,United Kingdom,24.6,87.2,19.1,60.9,28.8,-,17638.0,14.4,27.0,53.0,2016
+301-350,Leibniz University of Hanover,Germany,36.5,43.2,36.9,39.0,69.6,-,22401.0,62.7,12.0,41.0,2016
+301-350,Macquarie University,Australia,28.5,90.0,27.2,52.3,33.1,-,27930.0,20.0,44.0,55.0,2016
+301-350,Medical College of Wisconsin,United States of America,25.4,30.4,12.1,85.2,31.8,-,1211.0,0.6,5.0,48.0,2016
+301-350,University of Milan,Italy,30.5,37.7,24.2,64.8,40.9,-,58618.0,24.3,5.0,60.0,2016
+301-350,University of Milan-Bicocca,Italy,24.3,34.3,25.5,65.8,46.6,-,33370.0,72.5,5.0,60.0,2016
+301-350,Montpellier University,France,38.7,54.4,16.7,59.5,31.9,-,36731.0,18.4,14.0,51.0,2016
+301-350,Nagoya University,Japan,40.8,27.4,38.9,40.1,91.4,-,15529.0,7.9,10.0,29.0,2016
+301-350,University of Naples Federico II,Italy,24.7,21.1,14.8,81.3,47.4,-,83653.0,64.2,1.0,,2016
+301-350,National Chiao Tung University,Taiwan,32.9,32.0,45.4,34.2,96.9,-,12646.0,16.6,5.0,27.0,2016
+301-350,National Research Nuclear University MePhI,Russian Federation,43.9,27.5,24.1,52.8,28.1,-,7801.0,7.3,7.0,29.0,2016
+301-350,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,31.7,30.5,43.1,39.1,92.2,-,7446.0,17.4,11.0,34.0,2016
+301-350,University of Navarra,Spain,31.9,52.6,20.8,57.5,63.5,-,11259.0,10.6,16.0,52.0,2016
+301-350,University of Nebraska-Lincoln,United States of America,30.1,45.8,30.2,53.5,35.6,-,21789.0,16.4,9.0,46.0,2016
+301-350,Ãrebro University,Sweden,18.3,39.4,10.4,87.8,29.8,-,8788.0,15.8,2.0,61.0,2016
+301-350,University of Oregon,United States of America,21.2,33.5,22.7,72.6,30.8,-,24418.0,20.2,11.0,52.0,2016
+301-350,University of Padua,Italy,25.7,37.9,22.6,74.6,32.6,-,62577.0,18.3,4.0,56.0,2016
+301-350,University of Pavia,Italy,25.0,40.5,22.5,65.1,69.4,-,22958.0,40.6,6.0,56.0,2016
+301-350,Plymouth University,United Kingdom,19.3,64.0,18.0,75.2,28.5,-,24121.0,25.9,13.0,52.0,2016
+301-350,Shanghai Jiao Tong University,China,37.8,27.5,45.2,34.0,92.9,-,38191.0,12.8,6.0,37.0,2016
+301-350,University of Southern Denmark,Denmark,19.2,71.8,14.7,79.7,28.0,-,22210.0,12.7,16.0,52.0,2016
+301-350,Stellenbosch University,South Africa,28.2,49.8,35.0,46.9,100.0,-,21849.0,23.0,8.0,53.0,2016
+301-350,University of Strasbourg,France,25.5,71.6,23.4,64.4,32.8,-,46208.0,17.8,21.0,58.0,2016
+301-350,Technical University of Dortmund,Germany,34.2,40.8,29.8,55.3,48.6,-,29143.0,88.9,10.0,47.0,2016
+301-350,Technion Israel Institute of Technology,Israel,30.8,61.9,33.3,52.1,28.8,-,13855.0,19.4,4.0,35.0,2016
+301-350,Toulouse 1 Capitole University,France,18.6,66.7,35.7,56.3,32.5,-,19011.0,43.8,19.0,59.0,2016
+301-350,University of Trieste,Italy,26.5,47.3,18.5,74.1,32.3,-,18135.0,25.8,9.0,56.0,2016
+301-350,University of Turin,Italy,27.4,38.8,22.3,67.5,54.2,-,67552.0,66.0,6.0,62.0,2016
+301-350,University of Turku,Finland,27.1,66.2,21.2,65.8,31.2,-,12326.0,14.6,5.0,61.0,2016
+301-350,Vrije Universiteit Brussel,Belgium,28.7,64.5,24.5,56.8,77.1,-,9020.0,17.1,16.0,55.0,2016
+301-350,VÅ B - Technical University of Ostrava,Czech Republic,18.8,22.3,15.7,85.5,32.1,-,14991.0,23.9,5.0,49.0,2016
+301-350,Yonsei University,South Korea,37.2,41.5,34.1,39.4,75.9,-,24774.0,11.6,14.0,,2016
+301-350,York University,Canada,30.2,58.2,30.8,49.1,33.2,-,48007.0,39.4,9.0,59.0,2016
+351-400,Bilkent University,Turkey,22.6,47.5,17.5,64.1,30.2,-,,,,,2016
+351-400,"Binghamton University, State University of New York",United States of America,22.7,53.6,17.4,62.0,34.0,-,15799.0,23.3,14.0,48.0,2016
+351-400,University of Crete,Greece,18.6,47.0,19.2,73.6,34.5,-,14650.0,26.9,5.0,63.0,2016
+351-400,University of Cyprus,Cyprus,18.0,74.7,28.5,56.7,30.0,-,6880.0,22.9,8.0,69.0,2016
+351-400,Drexel University,United States of America,31.2,46.3,14.6,57.7,36.3,-,20713.0,10.8,18.0,48.0,2016
+351-400,University of Eastern Finland,Finland,24.8,46.1,20.7,65.1,33.3,-,10798.0,17.3,6.0,64.0,2016
+351-400,University of Florence,Italy,21.7,38.5,20.4,72.1,35.9,-,54290.0,17.2,7.0,59.0,2016
+351-400,University of St Gallen,Switzerland,25.8,97.6,11.2,53.5,41.8,-,6848.0,10.8,34.0,32.0,2016
+351-400,Graz University of Technology,Austria,26.0,69.3,15.8,52.9,77.2,-,7542.0,12.5,16.0,22.0,2016
+351-400,University of Guelph,Canada,28.0,53.6,34.2,44.4,47.4,-,21643.0,28.3,4.0,60.0,2016
+351-400,Hanyang University,South Korea,33.9,54.3,32.6,31.1,87.9,-,16729.0,10.4,19.0,,2016
+351-400,Hong Kong Baptist University,Hong Kong,22.6,75.0,12.1,67.9,28.8,-,10441.0,11.0,25.0,61.0,2016
+351-400,University of Houston,United States of America,34.9,33.9,26.5,52.0,42.3,-,40325.0,43.7,9.0,50.0,2016
+351-400,Indian Institute of Technology Bombay,India,37.8,17.7,28.6,48.5,42.3,-,8327.0,14.9,1.0,16.0,2016
+351-400,Instituto Superior TÃ©cnico Lisboa,Portugal,22.2,43.7,25.0,59.8,38.8,-,11778.0,16.9,9.0,27.0,2016
+351-400,University of JyvÃ¤skylÃ¤,Finland,28.2,47.1,25.5,55.5,34.2,-,9703.0,15.2,5.0,62.0,2016
+351-400,La Trobe University,Australia,27.0,78.0,28.5,45.4,43.7,-,22037.0,29.0,27.0,63.0,2016
+351-400,Loughborough University,United Kingdom,31.2,72.9,32.2,41.3,36.6,-,13951.0,15.9,22.0,38.0,2016
+351-400,University of Manitoba,Canada,27.1,57.8,26.9,49.7,41.8,-,28576.0,27.8,11.0,55.0,2016
+351-400,University of Missouri,United States of America,31.2,31.0,21.0,60.2,31.1,-,29885.0,14.1,5.0,53.0,2016
+351-400,University of Modena and Reggio Emilia,Italy,18.7,34.2,15.6,72.9,32.3,-,19693.0,25.3,6.0,54.0,2016
+351-400,University of Montana,United States of America,30.8,21.5,13.6,65.5,31.0,-,12470.0,15.2,3.0,54.0,2016
+351-400,"National University of Ireland, Maynooth",Republic of Ireland,24.6,75.6,22.8,50.2,36.6,-,7653.0,28.0,11.0,55.0,2016
+351-400,University of Nebraska Medical Center,United States of America,37.0,37.7,13.3,64.4,33.6,-,2857.0,2.6,8.0,67.0,2016
+351-400,University of New Mexico,United States of America,25.6,28.6,15.4,74.5,37.0,-,,,,,2016
+351-400,Norwegian University of Science and Technology,Norway,16.3,59.9,25.8,59.8,51.8,-,17381.0,13.9,9.0,46.0,2016
+351-400,University of Oulu,Finland,23.1,56.9,15.9,62.3,30.9,-,14056.0,8.5,6.0,49.0,2016
+351-400,PanthÃ©on-Sorbonne University â Paris 1,France,53.2,47.6,47.6,6.8,28.3,-,42215.0,34.3,20.0,59.0,2016
+351-400,Polytechnic University of Turin,Italy,23.7,50.6,18.6,65.9,42.5,-,27709.0,19.6,16.0,29.0,2016
+351-400,University of Rome III,Italy,23.1,35.9,21.0,64.8,37.5,-,36353.0,61.2,5.0,59.0,2016
+351-400,SabancÄ± University,Turkey,22.3,42.7,32.3,52.8,70.0,-,2739.0,15.9,6.0,39.0,2016
+351-400,San Diego State University,United States of America,20.3,25.9,27.0,62.7,29.3,-,27420.0,31.7,5.0,57.0,2016
+351-400,University of South Australia,Australia,26.4,89.0,26.7,41.2,85.9,-,18971.0,26.2,32.0,59.0,2016
+351-400,University of South Carolina,United States of America,31.1,24.5,21.5,58.7,30.3,-,29336.0,16.3,1.0,55.0,2016
+351-400,University of South Dakota,United States of America,29.3,17.1,12.1,70.4,28.0,-,8003.0,17.1,2.0,61.0,2016
+351-400,State University of Campinas,Brazil,44.6,21.1,42.3,22.6,49.4,-,27095.0,15.3,3.0,48.0,2016
+351-400,University of Stirling,United Kingdom,22.6,77.7,23.5,59.1,30.4,-,7828.0,15.9,22.0,61.0,2016
+351-400,Sun Yat-sen University,China,31.9,37.0,24.6,45.7,79.4,-,51351.0,16.6,8.0,51.0,2016
+351-400,Swansea University,United Kingdom,22.2,72.4,23.8,58.2,32.7,-,12801.0,17.1,20.0,49.0,2016
+351-400,Swinburne University of Technology,Australia,21.5,84.8,20.2,53.4,32.2,-,20314.0,36.5,33.0,44.0,2016
+351-400,University of Tartu,Estonia,23.8,46.1,22.8,64.2,31.5,-,10269.0,13.0,3.0,66.0,2016
+351-400,Temple University,United States of America,34.0,28.6,18.2,58.3,41.6,-,33268.0,13.3,5.0,51.0,2016
+351-400,University of Texas at San Antonio,United States of America,18.1,29.6,16.6,74.9,28.6,-,27520.0,26.9,6.0,48.0,2016
+351-400,UiT The Arctic University of Norway,Norway,26.5,66.1,18.7,58.8,36.8,-,10398.0,12.2,10.0,60.0,2016
+351-400,UniversitÃ© Libre de Bruxelles,Belgium,26.1,84.5,28.3,47.9,39.1,-,23819.0,26.1,32.0,54.0,2016
+351-400,Lille 2 University â Health and Law,France,15.1,39.4,9.5,81.7,31.5,-,26894.0,38.5,8.0,58.0,2016
+351-400,University College Cork,Republic of Ireland,28.6,75.5,23.8,48.4,47.1,-,15805.0,22.3,15.0,55.0,2016
+351-400,Verona University,Italy,23.6,38.3,13.1,76.1,36.6,-,25250.0,19.7,7.0,65.0,2016
+351-400,Victoria University of Wellington,New Zealand,26.0,88.8,28.7,44.3,45.6,-,17142.0,21.1,21.0,55.0,2016
+351-400,Washington State University,United States of America,29.0,39.6,28.2,49.6,57.1,-,24550.0,18.3,7.0,50.0,2016
+351-400,Wayne State University,United States of America,31.9,29.6,14.2,65.3,41.7,-,23065.0,10.7,7.0,57.0,2016
+401-500,American University,United States of America,42.2,28.9,16.5,41.1,35.9,-,11604.0,12.0,12.0,60.0,2016
+401-500,Aston University,Unted Kingdom,18.4,92.5,20.4,51.9,34.6,-,,,,,2016
+401-500,University of Aveiro,Portugal,24.8,45.9,26.5,43.6,40.1,-,10791.0,17.8,10.0,51.0,2016
+401-500,University of Bari Aldo Moro,Italy,28.7,31.7,21.6,48.8,45.4,-,51560.0,65.1,2.0,65.0,2016
+401-500,Bar-Ilan University,Israel,22.6,49.4,21.3,42.3,28.9,-,17503.0,16.0,5.0,59.0,2016
+401-500,Bournemouth University,United Kingdom,32.0,70.6,12.6,35.2,28.8,-,14907.0,25.9,18.0,53.0,2016
+401-500,University of Brescia,Italy,15.6,36.6,14.8,72.3,35.8,-,14076.0,25.0,7.0,48.0,2016
+401-500,Brno University of Technology,Czech Republic,18.0,35.8,14.7,55.8,33.7,-,23694.0,21.3,15.0,27.0,2016
+401-500,Brunel University London,United Kingdom,24.8,91.8,23.3,39.5,34.7,-,12613.0,17.6,38.0,46.0,2016
+401-500,Caâ Foscari University of Venice,Italy,23.9,38.1,27.8,48.9,32.3,-,19267.0,38.3,7.0,66.0,2016
+401-500,University of Cagliari,Italy,19.4,32.6,13.2,56.8,33.6,-,30638.0,51.0,1.0,62.0,2016
+401-500,University of Canterbury,New Zealand,23.5,91.0,22.5,38.9,52.1,-,12187.0,16.5,20.0,51.0,2016
+401-500,Catholic University of the Sacred Heart,Italy,18.6,39.0,11.3,55.4,38.7,-,30304.0,18.9,10.0,,2016
+401-500,Charles University in Prague,Czech Republic,31.5,52.8,21.5,41.0,28.2,-,51438.0,13.0,15.0,62.0,2016
+401-500,"China Medical University, Taiwan",Taiwan,24.0,25.7,29.4,45.0,60.4,-,7983.0,15.4,8.0,53.0,2016
+401-500,City University London,United Kingdom,23.5,89.6,21.2,43.5,28.9,-,13053.0,17.8,50.0,55.0,2016
+401-500,Claude Bernard University Lyon 1,France,21.3,50.5,13.2,66.5,34.5,-,35308.0,16.1,11.0,50.0,2016
+401-500,University of Coimbra,Portugal,28.3,46.2,26.5,42.4,34.8,-,22795.0,19.0,11.0,55.0,2016
+401-500,Complutense University of Madrid,Spain,33.2,39.1,27.6,31.2,30.9,-,86519.0,17.5,13.0,62.0,2016
+401-500,Concordia University,Canada,19.3,77.4,23.4,36.4,30.9,-,31017.0,30.3,27.0,50.0,2016
+401-500,Curtin University,Australia,20.1,93.1,20.2,44.6,37.8,-,30333.0,17.1,38.0,53.0,2016
+401-500,Dublin City University,Republic of Ireland,26.1,76.7,25.2,36.3,51.7,-,8546.0,22.9,17.0,51.0,2016
+401-500,East China University of Science and Technology,China,24.1,21.7,17.1,46.4,64.7,-,27140.0,15.5,5.0,,2016
+401-500,Ewha Womans University,South Korea,23.9,34.3,18.3,50.4,57.6,-,17625.0,14.4,6.0,100.0,2016
+401-500,Federico Santa MarÃ­a Technical University,Chile,17.2,54.1,10.1,70.5,35.1,-,11718.0,34.0,2.0,24.0,2016
+401-500,University of Ferrara,Italy,17.7,41.8,17.2,63.3,35.9,-,18882.0,30.2,7.0,56.0,2016
+401-500,Florida International University,United States of America,25.7,32.8,18.1,49.4,32.7,-,32566.0,25.9,7.0,56.0,2016
+401-500,University of Genoa,Italy,27.2,38.8,14.2,59.3,42.3,-,37373.0,29.5,9.0,56.0,2016
+401-500,Georgia State University,United States of America,26.3,29.5,19.5,52.9,28.7,-,28534.0,20.4,5.0,59.0,2016
+401-500,University of Graz,Austria,24.9,68.9,16.3,53.3,29.3,-,20584.0,26.8,12.0,65.0,2016
+401-500,Heriot-Watt University,United Kingdom,23.4,90.1,22.4,36.4,45.6,-,8773.0,17.8,43.0,41.0,2016
+401-500,Hokkaido University,Japan,40.3,27.9,32.8,29.3,53.7,-,18162.0,8.2,9.0,29.0,2016
+401-500,Howard University,United States of America,38.8,30.3,11.0,44.5,,-,10297.0,6.8,5.0,65.0,2016
+401-500,University of Hull,United Kingdom,22.4,73.2,16.1,41.1,31.8,-,15141.0,18.7,20.0,52.0,2016
+401-500,University of Idaho,United States of America,28.3,32.0,19.4,40.8,32.4,-,11641.0,21.5,6.0,47.0,2016
+401-500,Indian Institute of Technology Delhi,India,35.8,15.5,25.8,33.4,62.8,-,8371.0,17.3,1.0,18.0,2016
+401-500,Indian Institute of Technology Kharagpur,India,33.2,13.3,30.5,41.4,31.7,-,9928.0,17.5,0.0,15.0,2016
+401-500,Indian Institute of Technology Madras,India,34.6,16.1,20.7,31.4,88.9,-,8234.0,15.9,1.0,19.0,2016
+401-500,University of Ioannina,Greece,14.5,36.9,17.7,56.4,32.9,-,20825.0,36.3,4.0,58.0,2016
+401-500,Iran University of Science and Technology,Iran,25.9,12.2,26.0,42.3,61.2,-,10311.0,23.9,0.0,24.0,2016
+401-500,Johannes Kepler University of Linz,Austria,19.2,58.5,13.8,51.6,37.4,-,19646.0,29.1,10.0,48.0,2016
+401-500,University of Kaiserslautern,Germany,29.6,44.1,22.6,47.5,80.2,-,14184.0,54.4,14.0,36.0,2016
+401-500,Keele University,United Kingdom,20.0,72.7,17.6,53.0,29.3,-,8397.0,15.7,20.0,55.0,2016
+401-500,University of KwaZulu-Natal,South Africa,20.3,58.6,25.7,41.5,38.2,-,30572.0,24.9,6.0,58.0,2016
+401-500,Kyung Hee University,South Korea,26.1,46.4,27.6,39.2,89.4,-,24356.0,17.4,14.0,,2016
+401-500,Kyushu University,Japan,36.5,26.4,27.5,31.8,83.2,-,18925.0,6.7,8.0,28.0,2016
+401-500,Lehigh University,United States of America,23.9,36.0,15.0,58.2,38.9,-,6300.0,11.3,15.0,44.0,2016
+401-500,Louisiana State University,United States of America,26.8,26.1,27.7,37.8,,-,28116.0,20.1,6.0,52.0,2016
+401-500,University of Macau,Macau,18.5,98.4,17.0,49.7,34.9,-,8521.0,14.9,31.0,58.0,2016
+401-500,Makerere University,Uganda,15.1,58.0,10.6,70.7,28.0,-,37340.0,29.4,9.0,50.0,2016
+401-500,Marche Polytechnic University,Italy,15.2,27.3,11.0,80.2,28.0,-,16589.0,23.0,4.0,45.0,2016
+401-500,"University of Maryland, Baltimore County",United States of America,21.3,28.2,18.2,61.3,31.7,-,13908.0,18.1,7.0,46.0,2016
+401-500,Murdoch University,Australia,18.7,88.3,19.6,51.2,36.5,-,16606.0,32.8,43.0,59.0,2016
+401-500,University of Nantes,France,19.6,35.1,12.2,69.4,,-,33866.0,22.2,11.0,56.0,2016
+401-500,National and Kapodistrian University of Athens,Greece,26.7,39.0,16.3,45.8,,-,63052.0,32.3,9.0,61.0,2016
+401-500,National Autonomous University of Mexico,Mexico,42.7,35.9,40.2,14.8,63.7,-,137378.0,11.6,5.0,51.0,2016
+401-500,National Cheng Kung University,Taiwan,29.8,27.7,40.2,27.2,100.0,-,21234.0,14.4,11.0,36.0,2016
+401-500,National Institute of Applied Sciences of Lyon (INSA Lyon),France,27.0,63.6,10.6,41.8,40.3,-,6137.0,8.2,31.0,31.0,2016
+401-500,National Yang-Ming University,Taiwan,41.5,15.8,18.5,33.3,30.2,-,4496.0,5.4,2.0,48.0,2016
+401-500,University of NeuchÃ¢tel,Switzerland,24.2,91.4,14.7,48.2,,-,4358.0,8.5,22.0,59.0,2016
+401-500,New University of Lisbon,Portugal,26.9,44.5,21.9,38.3,41.3,-,18867.0,17.9,7.0,49.0,2016
+401-500,University of Nice Sophia Antipolis,France,21.4,79.5,16.1,53.7,28.5,-,27304.0,20.3,22.0,56.0,2016
+401-500,Novosibirsk State University,Russian Federation,41.4,32.4,30.8,26.2,38.2,-,7131.0,7.1,13.0,52.0,2016
+401-500,The Open University,United Kingdom,21.0,51.5,13.8,60.3,28.4,-,76683.0,35.9,9.0,61.0,2016
+401-500,Oxford Brookes University,United Kingdom,25.7,68.9,18.8,42.7,28.4,-,14238.0,18.5,25.0,57.0,2016
+401-500,University of Palermo,Italy,15.3,23.6,9.1,77.4,28.0,-,43875.0,22.4,1.0,60.0,2016
+401-500,University of Parma,Italy,17.7,36.8,16.6,56.4,37.1,-,26937.0,29.1,7.0,56.0,2016
+401-500,University of Pisa,Italy,21.6,31.1,18.9,64.5,31.4,-,47247.0,18.0,4.0,52.0,2016
+401-500,Polytechnic University of Catalonia,Spain,25.2,63.9,14.8,44.7,40.9,-,22893.0,11.7,28.0,12.0,2016
+401-500,Pontifical Catholic University of Chile,Chile,28.2,52.4,21.3,37.0,28.0,-,25075.0,15.3,7.0,,2016
+401-500,University of Porto,Portugal,32.0,45.4,28.2,37.2,38.7,-,32720.0,18.8,9.0,54.0,2016
+401-500,University of Portsmouth,United Kingdom,17.2,79.3,10.9,58.2,28.9,-,20161.0,19.1,23.0,45.0,2016
+401-500,RMIT University,Australia,24.7,82.1,17.7,44.6,37.0,-,29501.0,18.1,25.0,47.0,2016
+401-500,University of Rome II â Tor Vergata,Italy,23.5,36.5,17.2,64.5,34.7,-,33504.0,26.5,6.0,52.0,2016
+401-500,University of Rovira i Virgili,Spain,20.8,41.5,14.8,66.9,30.9,-,12533.0,12.8,9.0,61.0,2016
+401-500,Saint Petersburg State University,Russian Federation,47.9,33.0,31.4,14.5,29.5,-,20836.0,5.2,7.0,60.0,2016
+401-500,University of Salento,Italy,29.6,24.5,13.2,53.0,36.2,-,19959.0,58.4,1.0,64.0,2016
+401-500,University of San Francisco,United States of America,34.2,40.1,12.9,43.8,28.6,-,10788.0,17.0,17.0,63.0,2016
+401-500,University of Saskatchewan,Canada,30.8,52.9,22.4,39.7,62.9,-,19028.0,16.3,14.0,57.0,2016
+401-500,Sharif University of Technology,Iran,26.6,15.9,30.1,33.7,87.8,-,10977.0,18.7,0.0,27.0,2016
+401-500,University of Siena,Italy,23.7,39.0,17.8,45.2,33.2,-,18846.0,23.6,5.0,59.0,2016
+401-500,Southern Cross University,Australia,18.9,52.7,18.3,53.3,37.7,-,9026.0,32.8,15.0,66.0,2016
+401-500,State University of New York Albany,United States of America,25.6,31.4,35.3,35.5,28.0,-,15387.0,18.5,8.0,51.0,2016
+401-500,University of Strathclyde,United Kingdom,25.9,71.0,28.0,31.8,44.1,-,15705.0,20.2,20.0,50.0,2016
+401-500,University of Tampere,Finland,23.5,41.9,13.7,63.7,40.0,-,10045.0,9.5,4.0,66.0,2016
+401-500,Tampere University of Technology,Finland,23.1,54.0,17.2,45.5,67.5,-,6147.0,15.5,13.0,23.0,2016
+401-500,Tokyo Medical and Dental University (TMDU),Japan,39.3,23.1,18.3,36.6,59.5,-,2872.0,3.3,7.0,51.0,2016
+401-500,Tokyo Metropolitan University,Japan,21.6,19.9,11.4,72.2,30.9,-,9303.0,9.9,4.0,35.0,2016
+401-500,University of Tsukuba,Japan,40.0,34.4,30.0,33.7,42.9,-,15930.0,12.6,16.0,38.0,2016
+401-500,University of Ulsan,South Korea,19.5,18.6,20.5,54.0,64.7,-,14037.0,13.3,3.0,,2016
+401-500,Ulster University,United Kingdom,19.1,79.0,13.2,44.1,29.2,-,19622.0,15.8,15.0,55.0,2016
+401-500,UniversitÃ© du QuÃ©bec Ã  MontrÃ©al,Canada,26.8,42.9,24.5,41.6,29.2,-,27046.0,24.7,9.0,61.0,2016
+401-500,Universiti Teknologi Malaysia,Malaysia,26.3,51.7,14.6,44.7,31.1,-,16270.0,9.0,13.0,43.0,2016
+401-500,University of Urbino Carlo Bo,Italy,17.2,35.0,8.7,66.8,31.2,-,13435.0,37.4,7.0,61.0,2016
+401-500,University of Valencia,Spain,22.7,40.5,16.9,49.6,31.3,-,58413.0,15.4,9.0,60.0,2016
+401-500,University of Waikato,New Zealand,19.3,87.0,18.2,53.7,30.7,-,10159.0,17.0,25.0,57.0,2016
+401-500,Western Sydney University,Australia,20.1,54.0,24.6,52.3,30.7,-,30704.0,32.2,9.0,56.0,2016
+401-500,Wuhan University,China,38.2,36.7,26.8,18.0,97.8,-,46227.0,14.4,7.0,,2016
+401-500,Xiamen University,China,26.7,25.0,15.6,47.0,,-,32921.0,12.3,5.0,52.0,2016
+501-600,American University of Beirut,Lebanon,27.7,93.0,11.2,31.9,,-,7695.0,8.9,25.0,51.0,2016
+501-600,Amirkabir University of Technology,Iran,24.5,7.7,25.7,34.8,55.7,-,14080.0,25.6,1.0,34.0,2016
+501-600,"University of the Andes, Colombia",Colombia,21.2,51.7,13.8,31.2,28.0,-,15773.0,16.9,2.0,44.0,2016
+501-600,University of Arkansas,United States of America,25.5,25.9,17.4,30.3,36.9,-,22819.0,21.2,5.0,50.0,2016
+501-600,Auburn University,United States of America,30.2,27.9,19.4,21.0,37.2,-,22386.0,17.6,4.0,51.0,2016
+501-600,BabeÅ-Bolyai University,Romania,27.9,35.4,12.5,32.1,28.6,-,37915.0,23.5,2.0,67.0,2016
+501-600,University of the Basque Country,Spain,18.2,34.9,11.9,43.1,30.3,-,46373.0,15.3,5.0,53.0,2016
+501-600,Bauman Moscow State Technical University,Russian Federation,44.0,15.6,23.7,3.1,68.1,-,18808.0,4.0,4.0,23.0,2016
+501-600,Ben-Gurion University of the Negev,Israel,25.1,52.9,21.3,30.1,28.7,-,16695.0,12.6,2.0,49.0,2016
+501-600,Blaise Pascal University,France,20.2,66.6,2.9,46.9,,-,15619.0,7.1,17.0,55.0,2016
+501-600,BoÄaziÃ§i University,Turkey,21.2,38.3,17.2,45.4,35.5,-,11506.0,25.0,7.0,50.0,2016
+501-600,University of Burgundy,France,21.4,50.9,8.8,46.3,,-,26612.0,20.8,11.0,54.0,2016
+501-600,University of Canberra,Australia,18.4,54.6,19.3,29.8,36.2,-,11221.0,28.6,24.0,54.0,2016
+501-600,Carleton University,Canada,19.9,61.3,24.0,32.0,30.4,-,25036.0,29.8,18.0,47.0,2016
+501-600,University of Catania,Italy,19.2,25.3,15.9,52.9,29.5,-,55859.0,49.7,1.0,61.0,2016
+501-600,Central Queensland University,Australia,20.9,50.8,11.4,43.7,32.5,-,11452.0,29.6,27.0,59.0,2016
+501-600,University of Chile,Chile,28.3,44.1,19.6,30.5,,-,29207.0,14.2,3.0,47.0,2016
+501-600,China Agricultural University,China,35.8,17.6,24.9,22.6,52.3,-,19342.0,12.0,1.0,57.0,2016
+501-600,Chung-Ang University,South Korea,29.9,43.7,27.6,17.4,61.3,-,13015.0,17.4,17.0,45.0,2016
+501-600,Czech Technical University in Prague,Czech Republic,20.6,25.0,9.3,46.5,28.2,-,22751.0,12.0,,,2016
+501-600,De Montfort University,United Kingdom,16.8,58.4,10.1,40.1,28.5,-,16812.0,19.1,21.0,57.0,2016
+501-600,East China Normal University,China,24.6,30.6,14.7,43.3,42.0,-,29623.0,14.0,11.0,63.0,2016
+501-600,Edith Cowan University,Australia,18.9,68.7,16.1,35.0,34.5,-,27491.0,16.1,16.0,61.0,2016
+501-600,Federal University of Rio de Janeiro,Brazil,32.4,25.1,19.7,18.3,42.9,-,52878.0,12.8,2.0,54.0,2016
+501-600,University of Granada,Spain,24.3,36.4,14.7,45.8,29.4,-,53476.0,16.0,6.0,56.0,2016
+501-600,University of Haifa,Israel,25.5,34.7,29.5,26.2,30.3,-,17758.0,30.8,1.0,65.0,2016
+501-600,Harbin Institute of Technology,China,29.4,25.6,27.3,15.7,99.8,-,31658.0,10.8,7.0,29.0,2016
+501-600,University of Hertfordshire,United Kingdom,15.5,78.9,9.5,50.5,29.3,-,19665.0,19.4,27.0,54.0,2016
+501-600,Hiroshima University,Japan,27.8,22.2,18.9,41.7,42.2,-,14686.0,8.2,5.0,36.0,2016
+501-600,Huazhong University of Science and Technology,China,29.3,17.3,22.7,31.6,71.8,-,57242.0,17.7,4.0,34.0,2016
+501-600,Indian Institute of Technology Guwahati,India,24.3,12.9,20.7,42.6,32.3,-,4710.0,14.2,1.0,14.0,2016
+501-600,Indian Institute of Technology Kanpur,India,33.1,16.4,15.0,31.5,28.0,-,6167.0,12.2,0.0,13.0,2016
+501-600,Indian Institute of Technology Roorkee,India,29.7,13.9,17.5,37.2,81.4,-,8061.0,18.7,1.0,17.0,2016
+501-600,Isfahan University of Technology,Iran,18.1,17.2,23.0,39.5,99.5,-,10964.0,26.5,1.0,39.0,2016
+501-600,Istanbul Technical University,Turkey,19.2,22.9,25.8,26.5,72.1,-,34550.0,16.0,5.0,34.0,2016
+501-600,Jadavpur University,India,32.8,7.7,22.2,31.8,33.8,-,10697.0,16.1,0.0,30.0,2016
+501-600,Kanazawa University,Japan,24.7,18.4,14.8,35.5,30.4,-,10546.0,10.4,5.0,36.0,2016
+501-600,Kansas State University,United States of America,22.9,41.7,17.5,39.3,43.1,-,21379.0,15.1,10.0,50.0,2016
+501-600,Keio University,Japan,25.0,22.7,17.5,28.5,41.4,-,33751.0,11.9,5.0,32.0,2016
+501-600,Kent State University,United States of America,18.4,32.4,14.2,53.8,28.5,-,23122.0,19.0,8.0,58.0,2016
+501-600,King Fahd University of Petroleum and Minerals,Saudi Arabia,25.4,84.5,16.1,24.4,81.2,-,6898.0,7.1,20.0,,2016
+501-600,King Saud University,Saudi Arabia,20.0,75.5,17.5,22.3,57.4,-,40666.0,13.4,7.0,,2016
+501-600,University of La Laguna,Spain,16.9,44.7,10.0,44.8,28.5,-,22422.0,14.9,5.0,58.0,2016
+501-600,Lappeenranta University of Technology,Finland,27.1,53.0,27.5,20.8,80.3,-,3486.0,23.9,19.0,31.0,2016
+501-600,University of Limerick,Republic of Ireland,19.8,76.5,16.3,36.6,34.0,-,12212.0,19.8,13.0,46.0,2016
+501-600,University of Lisbon,Portugal,25.9,46.6,18.3,32.4,35.4,-,47849.0,17.5,9.0,51.0,2016
+501-600,Liverpool John Moores University,United Kingdom,16.4,62.1,11.6,45.9,28.8,-,18513.0,19.8,13.0,52.0,2016
+501-600,Mahidol University,Thailand,26.8,44.1,15.1,28.3,71.6,-,27402.0,7.5,3.0,63.0,2016
+501-600,Manchester Metropolitan University,United Kingdom,22.7,57.8,10.6,30.8,28.3,-,28037.0,18.2,14.0,57.0,2016
+501-600,University of Maribor,Slovenia,17.1,33.6,11.5,42.1,38.7,-,14531.0,17.3,4.0,,2016
+501-600,Masaryk University,Czech Republic,21.2,48.9,22.9,27.8,28.5,-,40898.0,26.6,17.0,62.0,2016
+501-600,Massey University,New Zealand,23.1,80.5,17.1,31.9,35.8,-,19101.0,16.8,15.0,62.0,2016
+501-600,Memorial University of Newfoundland,Canada,18.1,53.3,15.8,35.6,48.3,-,15464.0,14.6,10.0,59.0,2016
+501-600,Middle East Technical University,Turkey,29.9,26.7,17.3,28.8,60.0,-,25779.0,22.2,7.0,44.0,2016
+501-600,University of Minho,Portugal,23.9,43.6,20.1,35.3,51.6,-,19090.0,18.8,9.0,52.0,2016
+501-600,Missouri University of Science and Technology,United States of America,23.5,40.6,18.4,28.7,52.8,-,7647.0,15.5,12.0,23.0,2016
+501-600,Montana State University,United States of America,17.7,23.5,21.8,48.0,43.0,-,12331.0,17.8,4.0,46.0,2016
+501-600,Monterrey Institute of Technology and Higher Education,Mexico,23.9,59.6,12.7,23.4,75.8,-,14353.0,20.5,12.0,40.0,2016
+501-600,National Central University,Taiwan,26.3,27.1,23.2,17.5,75.3,-,10915.0,9.8,6.0,31.0,2016
+501-600,National Sun Yat-Sen University,Taiwan,26.1,19.7,33.0,25.8,44.3,-,9336.0,19.6,4.0,37.0,2016
+501-600,National Taiwan Normal University,Taiwan,26.2,38.1,31.3,16.2,81.9,-,11072.0,13.0,19.0,57.0,2016
+501-600,National Technical University of Athens,Greece,20.2,31.3,15.0,36.2,40.3,-,14780.0,26.9,7.0,36.0,2016
+501-600,New Jersey Institute of Technology,United States of America,18.9,48.5,16.6,32.2,32.2,-,10646.0,26.2,17.0,25.0,2016
+501-600,New Mexico State University,United States of America,19.5,30.5,19.2,47.2,34.6,-,15035.0,18.8,7.0,54.0,2016
+501-600,University of North Carolina at Greensboro,United States of America,18.2,17.4,15.3,43.1,28.9,-,16446.0,19.2,2.0,66.0,2016
+501-600,Oklahoma State University,United States of America,27.5,25.6,22.7,33.1,33.7,-,21270.0,21.4,7.0,49.0,2016
+501-600,Osaka City University,Japan,26.3,21.3,13.4,34.4,40.7,-,8604.0,10.1,4.0,36.0,2016
+501-600,Otto von Guericke University of Magdeburg,Germany,22.9,43.9,14.4,39.7,37.7,-,14104.0,13.1,13.0,42.0,2016
+501-600,University of Oviedo,Spain,19.5,36.2,10.8,41.9,34.1,-,24210.0,13.7,5.0,54.0,2016
+501-600,PalackÃ½ University in Olomouc,Czech Republic,19.2,48.8,11.8,42.9,28.7,-,18540.0,11.4,9.0,70.0,2016
+501-600,Panjab University,India,24.6,14.1,8.8,41.0,28.1,-,16691.0,23.9,1.0,46.0,2016
+501-600,Paris Dauphine University,France,21.9,69.3,11.1,27.6,30.6,-,9565.0,15.4,28.0,53.0,2016
+501-600,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,24.5,31.3,24.1,23.1,100.0,-,14300.0,21.2,3.0,49.0,2016
+501-600,Portland State University,United States of America,16.8,31.6,14.4,43.3,44.6,-,20398.0,22.2,8.0,54.0,2016
+501-600,University of Pretoria,South Africa,25.6,46.0,21.2,17.5,52.4,-,37314.0,20.0,8.0,57.0,2016
+501-600,Pusan National University,South Korea,27.5,32.9,24.7,20.4,66.8,-,24929.0,19.7,12.0,51.0,2016
+501-600,Quaid-i-azam University,Pakistan,17.9,35.4,9.9,45.6,,-,12688.0,25.7,0.0,53.0,2016
+501-600,University of Regina,Canada,15.6,47.7,15.8,34.2,34.4,-,11550.0,22.8,12.0,61.0,2016
+501-600,Renmin University of China,China,34.7,40.1,13.7,30.7,42.5,-,24954.0,12.7,6.0,,2016
+501-600,University of Rennes 1,France,17.8,53.0,10.3,44.7,31.7,-,22186.0,13.9,12.0,50.0,2016
+501-600,University of Salamanca,Spain,26.1,40.8,16.9,25.9,31.6,-,31035.0,17.9,12.0,58.0,2016
+501-600,University of Santiago de Compostela,Spain,22.9,37.1,14.1,46.9,32.3,-,29085.0,15.3,6.0,63.0,2016
+501-600,Semmelweis University,Hungary,19.6,81.7,10.6,41.5,30.7,-,12920.0,10.9,25.0,64.0,2016
+501-600,University of Seville,Spain,21.5,32.0,14.9,32.6,36.7,-,64931.0,17.5,7.0,55.0,2016
+501-600,UniversitÃ© de Sherbrooke,Canada,25.6,39.8,9.5,41.3,29.6,-,13438.0,5.4,5.0,54.0,2016
+501-600,Soochow University,China,19.2,16.0,13.7,45.8,75.3,-,36465.0,12.9,2.0,78.0,2016
+501-600,South China University of Technology,China,19.5,17.5,22.1,28.1,86.8,-,41438.0,17.7,3.0,33.0,2016
+501-600,Tallinn University of Technology,Estonia,16.3,37.9,15.0,38.7,44.8,-,14061.0,28.6,5.0,44.0,2016
+501-600,Tehran University of Medical Sciences,Iran,51.8,14.1,20.0,9.3,30.0,-,13912.0,9.0,1.0,62.0,2016
+501-600,University of Texas at Arlington,United States of America,20.1,50.3,10.1,50.9,33.4,-,29396.0,10.5,10.0,60.0,2016
+501-600,Tianjin University,China,36.5,14.7,34.4,12.2,100.0,-,29693.0,12.2,1.0,,2016
+501-600,Tokyo University of Agriculture and Technology,Japan,34.9,19.4,24.1,16.9,39.9,-,5865.0,14.4,5.0,27.0,2016
+501-600,University of Toledo,United States of America,31.6,37.7,13.4,29.9,32.9,-,19465.0,17.5,9.0,50.0,2016
+501-600,Tongji University,China,28.9,37.2,29.2,13.1,63.5,-,37394.0,13.5,10.0,38.0,2016
+501-600,University of Tulsa,United States of America,29.7,43.8,12.9,24.6,71.7,-,4597.0,12.5,25.0,43.0,2016
+501-600,United Arab Emirates University,United Arab Emirates,18.8,95.0,14.8,21.7,30.1,-,9221.0,12.5,26.0,76.0,2016
+501-600,University of Warsaw,Poland,26.1,41.6,15.8,42.2,28.5,-,49292.0,14.1,7.0,67.0,2016
+501-600,University of Wisconsin-Milwaukee,United States of America,17.3,26.0,13.8,45.5,29.0,-,22542.0,18.4,5.0,52.0,2016
+501-600,Xiâan Jiaotong University,China,28.7,25.8,22.5,25.5,70.4,-,29863.0,12.3,4.0,34.0,2016
+501-600,University of Zaragoza,Spain,20.1,33.5,12.7,49.5,36.7,-,31046.0,11.8,5.0,55.0,2016
+601-800,University of A CoruÃ±a,Spain,18.3,23.4,10.0,16.6,38.2,-,17062.0,13.0,2.0,52.0,2016
+601-800,Adam Mickiewicz University,Poland,20.0,25.7,11.0,15.3,28.7,-,40633.0,15.6,1.0,71.0,2016
+601-800,AGH University of Science and Technology,Poland,14.2,17.9,3.7,35.7,,-,35569.0,17.0,1.0,,2016
+601-800,Ajou University,South Korea,19.5,20.0,11.9,23.9,45.7,-,12706.0,11.3,2.0,33.0,2016
+601-800,University of AlcalÃ¡,Spain,17.6,50.0,11.2,28.3,43.3,-,30812.0,25.1,18.0,53.0,2016
+601-800,Alexandria University,Egypt,20.3,33.7,8.2,14.1,29.7,-,127431.0,23.3,1.0,46.0,2016
+601-800,Alexandru Ioan Cuza University,Romania,24.9,46.9,13.6,7.0,28.2,-,25724.0,33.0,5.0,63.0,2016
+601-800,Aligarh Muslim University,India,28.3,18.7,10.0,20.9,29.6,-,11197.0,10.5,2.0,17.0,2016
+601-800,American University of Sharjah,United Arab Emirates,12.4,95.6,10.6,13.3,33.3,-,5226.0,14.1,82.0,48.0,2016
+601-800,Amrita University,India,20.4,29.6,5.8,20.7,28.0,-,17273.0,6.6,8.0,,2016
+601-800,Anadolu University,Turkey,12.2,14.3,22.6,10.9,100.0,-,379231.0,162.6,1.0,78.0,2016
+601-800,Andhra University,India,34.8,7.2,6.9,1.2,31.3,-,10407.0,20.2,3.0,36.0,2016
+601-800,University of Antioquia,Colombia,18.1,42.0,21.1,14.8,43.6,-,38872.0,23.0,1.0,50.0,2016
+601-800,Aristotle University of Thessaloniki,Greece,22.6,36.6,15.0,29.5,33.6,-,46288.0,22.2,9.0,52.0,2016
+601-800,"Asia University, Taiwan",Taiwan,14.4,18.3,15.9,30.5,38.4,-,12119.0,26.3,3.0,53.0,2016
+601-800,Athens University of Economics and Business,Greece,13.4,39.2,18.8,31.2,66.5,-,13167.0,57.5,6.0,47.0,2016
+601-800,Auckland University of Technology,New Zealand,17.3,95.6,9.8,21.7,28.5,-,18981.0,18.1,38.0,58.0,2016
+601-800,Austral University of Chile,Chile,16.7,45.2,9.7,14.2,41.1,-,13794.0,17.8,1.0,47.0,2016
+601-800,Beijing Institute of Technology,China,25.9,16.9,21.7,9.1,87.6,-,,,,,2016
+601-800,Belarusian State University,Belarus,20.2,48.2,8.7,6.0,28.0,-,29303.0,10.6,6.0,69.0,2016
+601-800,University of Belgrade,Serbia,20.4,30.5,13.2,14.0,45.6,-,96968.0,28.3,5.0,60.0,2016
+601-800,"Birla Institute of Technology and Science, Pilani",India,18.3,13.7,8.3,17.4,29.6,-,11837.0,19.5,0.0,22.0,2016
+601-800,University of Bradford,United Kingdom,18.7,79.1,15.9,22.7,32.7,-,11065.0,20.5,32.0,53.0,2016
+601-800,University of BrasÃ­lia,Brazil,21.9,24.1,7.4,10.4,,-,45880.0,14.5,2.0,52.0,2016
+601-800,University of Brighton,United Kingdom,16.7,62.8,10.7,20.1,29.4,-,16924.0,19.5,19.0,58.0,2016
+601-800,University of Bucharest,Romania,34.3,21.3,11.5,9.9,29.5,-,31806.0,24.9,2.0,70.0,2016
+601-800,Budapest University of Technology and Economics,Hungary,17.1,30.4,13.7,21.6,39.7,-,22447.0,22.1,4.0,32.0,2016
+601-800,Cairo University,Egypt,18.9,31.0,11.1,11.9,30.3,-,231941.0,39.1,3.0,47.0,2016
+601-800,University of Calcutta,India,34.7,13.1,8.7,19.8,29.2,-,18511.0,32.5,0.0,,2016
+601-800,"California State University, Long Beach",United States of America,11.6,18.9,10.4,23.3,,-,29594.0,32.3,5.0,58.0,2016
+601-800,Capital Medical University,China,26.3,18.8,14.9,16.3,28.8,-,11506.0,7.1,3.0,70.0,2016
+601-800,University of Castilla-La Mancha,Spain,18.4,28.6,10.3,30.5,29.7,-,26381.0,14.3,3.0,56.0,2016
+601-800,University of Central Lancashire,United Kingdom,15.7,54.1,9.4,28.2,28.9,-,18542.0,17.5,17.0,57.0,2016
+601-800,University of Cergy-Pontoise,France,18.7,49.1,6.3,13.2,28.6,-,17000.0,9.2,11.0,53.0,2016
+601-800,Chang Gung University,Taiwan,19.3,15.7,24.7,27.6,31.9,-,7506.0,12.6,0.0,42.0,2016
+601-800,Carlos III University of Madrid,Spain,23.2,44.7,17.4,24.8,34.8,-,15730.0,11.4,9.0,43.0,2016
+601-800,"University of Chemistry and Technology, Prague",Czech Republic,21.6,46.3,12.0,17.4,38.9,-,4699.0,11.0,19.0,,2016
+601-800,Chiang Mai University,Thailand,17.8,34.9,9.4,30.0,32.3,-,35617.0,16.5,1.0,19.0,2016
+601-800,Chiba University,Japan,26.9,21.0,16.8,24.8,55.3,-,14554.0,12.3,5.0,37.0,2016
+601-800,China University of Geosciences (Wuhan),China,21.1,16.1,21.4,21.5,64.5,-,29483.0,20.7,3.0,,2016
+601-800,China University of Petroleum (Beijing),China,23.6,15.9,26.6,4.0,100.0,-,14579.0,19.4,6.0,,2016
+601-800,Chonbuk National University,South Korea,19.7,27.2,14.7,24.5,33.3,-,23270.0,15.0,3.0,45.0,2016
+601-800,Chongqing University,China,19.5,15.5,15.5,8.7,73.8,-,43955.0,16.0,3.0,,2016
+601-800,Chonnam National University,South Korea,17.5,20.4,11.7,29.1,31.4,-,35779.0,18.5,3.0,41.0,2016
+601-800,Chulalongkorn University,Thailand,23.8,32.8,14.1,16.7,37.8,-,38719.0,14.5,2.0,59.0,2016
+601-800,Chung Yuan Christian University,Taiwan,15.9,18.7,22.1,17.4,41.9,-,15020.0,30.2,3.0,41.0,2016
+601-800,Chungnam National University,South Korea,23.2,19.8,17.7,13.2,39.9,-,18361.0,17.2,3.0,,2016
+601-800,Clemson University,United States of America,21.4,34.6,19.7,27.0,35.8,-,19198.0,17.1,8.0,46.0,2016
+601-800,Comenius University in Bratislava,Slovakia,23.0,46.9,10.3,19.6,28.0,-,20879.0,9.7,10.0,54.0,2016
+601-800,Coventry University,United Kingdom,17.1,69.6,7.7,18.4,29.1,-,21934.0,14.8,35.0,47.0,2016
+601-800,Dalian University of Technology,China,22.6,20.7,19.0,23.5,93.3,-,34326.0,15.2,2.0,33.0,2016
+601-800,University of Debrecen,Hungary,17.3,49.0,11.4,20.9,,-,29714.0,20.3,13.0,57.0,2016
+601-800,University of Delhi,India,29.8,15.4,10.8,19.1,28.2,-,32567.0,22.9,1.0,50.0,2016
+601-800,University of Dhaka,Bangladesh,21.7,37.2,7.2,9.6,,-,62716.0,6.9,5.0,34.0,2016
+601-800,Dublin Institute of Technology,Republic of Ireland,16.1,70.5,8.8,20.7,28.1,-,13839.0,18.9,25.0,41.0,2016
+601-800,Ehime University,Japan,19.2,20.9,11.3,17.5,37.8,-,8394.0,9.9,1.0,39.0,2016
+601-800,University of Electronic Science and Technology of China,China,20.5,13.4,12.9,8.8,28.0,-,21689.0,9.8,0.0,21.0,2016
+601-800,EÃ¶tvÃ¶s LorÃ¡nd University,Hungary,21.3,43.0,12.1,30.6,29.3,-,28698.0,22.4,4.0,,2016
+601-800,Erciyes University,Turkey,15.5,17.2,10.9,18.0,30.3,-,28079.0,28.0,2.0,46.0,2016
+601-800,Federal University of Bahia,Brazil,18.2,19.7,8.1,14.3,,-,39861.0,17.9,1.0,47.0,2016
+601-800,Federal University of Minas Gerais,Brazil,27.9,21.6,15.4,23.1,30.7,-,42612.0,13.5,1.0,55.0,2016
+601-800,Federal University of ParanÃ¡ (UFPR),Brazil,24.6,15.5,9.6,7.0,,-,21850.0,11.2,1.0,,2016
+601-800,Federal University of Rio Grande do Sul,Brazil,32.6,18.9,13.7,16.8,,-,38743.0,14.8,1.0,50.0,2016
+601-800,Federal University of Santa Catarina,Brazil,26.0,21.0,12.2,14.2,42.9,-,26078.0,12.6,1.0,48.0,2016
+601-800,Federal University of SÃ£o Carlos,Brazil,29.0,16.8,10.8,11.5,,-,18587.0,16.9,0.0,,2016
+601-800,Federal University of ViÃ§osa,Brazil,39.7,15.0,14.5,3.9,59.0,-,13163.0,11.4,3.0,70.0,2016
+601-800,Federal University of Lavras,Brazil,25.8,14.5,16.4,3.0,,-,10350.0,20.9,2.0,53.0,2016
+601-800,Feng Chia University,Taiwan,14.6,21.1,13.7,34.4,33.9,-,20213.0,23.9,7.0,36.0,2016
+601-800,Florida Institute of Technology,United States of America,20.4,62.4,13.5,24.6,33.4,-,4408.0,13.7,26.0,34.0,2016
+601-800,Fu Jen Catholic University,Taiwan,14.4,19.1,9.8,18.2,47.0,-,25951.0,22.8,4.0,59.0,2016
+601-800,GdaÅsk University of Technology,Poland,15.5,16.1,9.5,15.2,36.8,-,25217.0,23.3,1.0,39.0,2016
+601-800,University of Ghana,Ghana,15.6,48.4,15.6,19.5,,-,37274.0,37.5,2.0,41.0,2016
+601-800,Gifu University,Japan,25.4,18.5,16.9,14.7,32.8,-,7318.0,12.4,4.0,35.0,2016
+601-800,Glasgow Caledonian University,United Kingdom,17.1,55.0,10.4,24.2,29.9,-,13527.0,21.6,16.0,60.0,2016
+601-800,University of Greenwich,United Kingdom,15.7,81.8,9.5,17.7,30.0,-,18096.0,24.6,32.0,53.0,2016
+601-800,Hacettepe University,Turkey,21.0,19.6,11.8,19.7,28.2,-,39606.0,20.4,4.0,56.0,2016
+601-800,University of Huddersfield,United Kingdom,17.4,55.2,5.4,16.5,28.0,-,15436.0,18.1,25.0,54.0,2016
+601-800,Hunan University,China,18.3,14.8,15.0,21.2,46.7,-,42756.0,24.7,2.0,43.0,2016
+601-800,University of Ibadan,Nigeria,22.7,26.1,11.1,4.6,29.2,-,26247.0,17.1,1.0,45.0,2016
+601-800,University of Indonesia,Indonesia,18.1,37.2,8.0,13.9,40.0,-,43565.0,15.8,0.0,51.0,2016
+601-800,Inha University,South Korea,20.7,23.5,20.0,22.5,64.7,-,20353.0,24.1,3.0,36.0,2016
+601-800,I-Shou University,Taiwan,12.8,24.8,11.5,13.3,41.0,-,16263.0,29.9,10.0,45.0,2016
+601-800,Istanbul University,Turkey,26.0,20.0,23.3,10.0,100.0,-,82096.0,41.1,6.0,44.0,2016
+601-800,Jagiellonian University,Poland,24.0,33.5,14.4,30.7,28.0,-,42835.0,11.5,5.0,67.0,2016
+601-800,Jilin University,China,28.2,20.3,14.4,14.6,42.1,-,65605.0,13.6,3.0,46.0,2016
+601-800,University of Jordan,Jordan,19.0,53.7,7.7,7.8,28.8,-,35577.0,13.6,13.0,67.0,2016
+601-800,Jordan University of Science and Technology,Jordan,16.4,62.2,6.2,16.4,31.4,-,24686.0,16.4,23.0,55.0,2016
+601-800,Juntendo University,Japan,32.3,16.7,10.5,24.0,51.1,-,3955.0,3.7,1.0,52.0,2016
+601-800,K.N. Toosi University of Technology,Iran,20.9,7.1,18.1,22.5,45.5,-,7146.0,24.6,0.0,32.0,2016
+601-800,Kaohsiung Medical University,Taiwan,20.6,19.9,22.2,20.5,33.2,-,7009.0,12.6,5.0,56.0,2016
+601-800,Khon Kaen University,Thailand,18.2,31.5,7.4,19.9,35.7,-,39669.0,16.9,1.0,62.0,2016
+601-800,King Mongkutâs University of Technology Thonburi,Thailand,18.2,28.5,11.4,36.2,70.3,-,17791.0,23.7,1.0,42.0,2016
+601-800,Kingston University,United Kingdom,16.9,76.8,12.1,26.7,28.5,-,20778.0,20.9,34.0,53.0,2016
+601-800,Kinki University,Japan,18.5,17.0,7.9,30.0,33.2,-,31216.0,11.6,2.0,,2016
+601-800,Kobe University,Japan,27.8,21.1,15.4,24.3,45.1,-,15885.0,8.4,6.0,33.0,2016
+601-800,Konkuk University,South Korea,20.0,22.6,19.6,17.0,36.0,-,26483.0,23.5,6.0,47.0,2016
+601-800,Kumamoto University,Japan,23.4,22.2,11.6,28.1,43.1,-,10226.0,7.6,5.0,37.0,2016
+601-800,Kyungpook National University,South Korea,21.1,21.7,16.0,18.1,34.9,-,27152.0,14.4,4.0,42.0,2016
+601-800,Kyushu Institute of Technology,Japan,19.4,20.7,12.5,14.2,44.1,-,5890.0,12.1,4.0,11.0,2016
+601-800,University of Latvia,Latvia,22.6,31.5,10.2,20.9,28.3,-,15100.0,26.5,3.0,68.0,2016
+601-800,Lille 1 University â Science and Technology,France,20.0,60.3,8.6,32.4,31.8,-,19599.0,14.5,18.0,41.0,2016
+601-800,University of Lincoln,United Kingdom,17.9,60.5,11.9,26.4,29.3,-,10665.0,18.9,11.0,54.0,2016
+601-800,University of Ljubljana,Slovenia,24.9,34.5,13.6,24.0,32.3,-,48821.0,17.6,4.0,60.0,2016
+601-800,University of Marrakech Cadi Ayyad,Morocco,17.4,42.7,6.3,12.1,29.2,-,56060.0,38.7,1.0,46.0,2016
+601-800,Miami University,United States of America,19.2,24.8,15.7,36.1,30.2,-,16370.0,20.5,7.0,53.0,2016
+601-800,Middlesex University,United Kingdom,18.5,81.0,10.6,25.7,,-,17753.0,24.7,44.0,59.0,2016
+601-800,Moscow Institute of Physics and Technology,Russian Federation,34.3,44.4,16.3,15.5,28.0,-,5395.0,7.0,12.0,,2016
+601-800,University of Murcia,Spain,19.3,28.3,11.7,28.0,29.5,-,31460.0,15.8,6.0,62.0,2016
+601-800,Nagasaki University,Japan,22.8,21.9,10.8,14.3,,-,9137.0,7.2,4.0,36.0,2016
+601-800,University of Nairobi,Kenya,13.7,45.5,9.0,19.5,28.0,-,72676.0,47.0,1.0,40.0,2016
+601-800,National Chengchi University,Taiwan,18.4,33.1,12.5,14.0,31.3,-,16867.0,18.4,10.0,57.0,2016
+601-800,National Chung Cheng University,Taiwan,21.3,14.2,20.3,15.7,40.8,-,11989.0,22.9,1.0,,2016
+601-800,National Chung Hsing University,Taiwan,20.2,16.9,16.8,24.5,42.5,-,15632.0,20.3,4.0,39.0,2016
+601-800,National Taipei University of Technology,Taiwan,17.8,16.0,14.6,16.4,81.3,-,10227.0,16.5,3.0,25.0,2016
+601-800,National Taiwan Ocean University,Taiwan,18.1,20.3,21.0,18.2,49.3,-,8240.0,20.9,5.0,30.0,2016
+601-800,National University of CÃ³rdoba,Argentina,16.0,28.1,9.0,12.5,28.6,-,108373.0,38.1,2.0,62.0,2016
+601-800,National University of Science and Technology (MISiS),Russian Federation,24.8,33.7,17.5,10.8,67.2,-,4441.0,6.7,13.0,43.0,2016
+601-800,National University of Sciences and Technology,Pakistan,21.4,31.3,7.0,35.0,31.3,-,9808.0,7.8,3.0,27.0,2016
+601-800,Niigata University,Japan,21.9,19.3,10.1,17.5,33.0,-,12460.0,8.5,3.0,37.0,2016
+601-800,Northumbria University,United Kingdom,17.7,55.1,10.9,29.2,29.1,-,22750.0,19.3,16.0,55.0,2016
+601-800,Northwestern Polytechnical University,China,23.4,15.2,15.4,3.5,28.0,-,23056.0,14.1,3.0,25.0,2016
+601-800,Nottingham Trent University,United Kingdom,16.5,52.7,8.9,27.3,28.4,-,21852.0,17.4,18.0,55.0,2016
+601-800,Oakland University,United States of America,18.1,23.3,11.9,21.9,30.3,-,14584.0,19.8,2.0,60.0,2016
+601-800,Ocean University of China,China,18.9,15.6,10.7,12.9,50.1,-,36205.0,20.6,1.0,40.0,2016
+601-800,Ohio University,United States of America,25.0,33.6,14.9,24.6,30.1,-,22224.0,20.0,10.0,50.0,2016
+601-800,Okayama University,Japan,24.3,20.6,14.9,25.3,48.0,-,13035.0,8.6,3.0,38.0,2016
+601-800,Osaka Prefecture University,Japan,21.6,17.6,10.2,17.5,41.5,-,8051.0,7.5,3.0,36.0,2016
+601-800,University of Pardubice,Czech Republic,15.9,23.4,11.9,11.1,28.3,-,10671.0,19.8,4.0,55.0,2016
+601-800,University of Paris North â Paris 13,France,17.5,46.4,11.6,36.2,28.0,-,23026.0,23.4,22.0,60.0,2016
+601-800,Paris-Sorbonne University â Paris 4,France,31.1,44.2,21.3,7.1,28.5,-,21580.0,27.4,21.0,69.0,2016
+601-800,University of Patras,Greece,18.5,30.6,12.1,28.8,48.3,-,29251.0,40.9,4.0,46.0,2016
+601-800,University of PÃ©cs,Hungary,19.7,50.8,9.0,23.4,28.4,-,21819.0,15.4,10.0,,2016
+601-800,Polytechnic University of Valencia,Spain,20.3,32.9,12.7,34.3,43.8,-,33172.0,13.6,7.0,36.0,2016
+601-800,Pontifical Catholic University of ParanÃ¡,Brazil,18.4,18.6,6.5,32.2,28.0,-,7741.0,10.9,2.0,1.0,2016
+601-800,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,21.1,18.7,10.9,27.6,52.3,-,14797.0,10.1,0.0,50.0,2016
+601-800,Pontifical Catholic University of ValparaÃ­so,Chile,18.4,35.7,8.0,10.4,44.3,-,13493.0,10.4,0.0,45.0,2016
+601-800,Prince of Songkla University,Thailand,15.3,31.0,7.0,22.2,31.6,-,38274.0,16.1,1.0,69.0,2016
+601-800,Qatar University,Qatar,9.9,99.9,10.3,22.3,55.2,-,9583.0,19.0,42.0,74.0,2016
+601-800,Rio de Janeiro State University (UERJ),Brazil,21.7,16.8,9.1,12.3,30.8,-,28757.0,10.1,0.0,46.0,2016
+601-800,Rochester Institute of Technology,United States of America,17.4,29.8,13.4,25.1,30.4,-,12965.0,13.5,13.0,34.0,2016
+601-800,Saitama University,Japan,18.6,20.6,9.6,23.4,29.6,-,7469.0,11.7,2.0,33.0,2016
+601-800,University of Salford,United Kingdom,20.8,66.4,12.1,21.2,28.8,-,16152.0,17.0,25.0,51.0,2016
+601-800,"University of Santiago, Chile (USACH)",Chile,17.6,40.4,11.3,10.2,31.0,-,22739.0,23.6,1.0,39.0,2016
+601-800,SÃ£o Paulo State University (UNESP),Brazil,28.0,18.7,22.6,6.7,40.1,-,50594.0,13.0,5.0,52.0,2016
+601-800,Savitribai Phule Pune University,India,38.3,17.3,12.4,11.4,29.3,-,4858.0,14.6,3.0,25.0,2016
+601-800,University of Science and Technology Beijing,China,25.1,15.6,22.4,6.9,89.7,-,22780.0,15.1,4.0,36.0,2016
+601-800,Sejong University,South Korea,18.9,25.2,12.2,38.7,35.4,-,11704.0,15.5,3.0,43.0,2016
+601-800,University of Seoul,South Korea,22.8,18.7,17.5,21.4,28.9,-,10243.0,19.0,3.0,36.0,2016
+601-800,Shahid Beheshti University,Iran,20.5,13.8,19.0,11.4,58.9,-,17800.0,24.9,1.0,52.0,2016
+601-800,Shanghai University,China,19.1,15.8,16.1,14.8,45.7,-,46044.0,17.5,3.0,48.0,2016
+601-800,Shantou University,China,17.6,30.7,9.1,28.3,30.7,-,9593.0,13.5,0.0,48.0,2016
+601-800,Sheffield Hallam University,United Kingdom,17.3,47.0,9.4,20.1,28.6,-,27477.0,18.8,15.0,53.0,2016
+601-800,Shinshu University,Japan,20.8,20.3,8.3,22.0,31.6,-,11232.0,9.6,3.0,,2016
+601-800,Showa University,Japan,28.5,14.0,7.9,7.0,,-,3675.0,2.5,0.0,57.0,2016
+601-800,Sichuan University,China,25.0,15.7,18.4,16.1,90.8,-,65035.0,14.5,2.0,48.0,2016
+601-800,University of Silesia in Katowice,Poland,17.7,18.5,8.0,20.4,28.1,-,32764.0,17.3,1.0,65.0,2016
+601-800,Slovak University of Technology in Bratislava,Slovakia,23.3,30.6,8.6,24.9,33.2,-,16400.0,15.3,2.0,31.0,2016
+601-800,Sogang University,South Korea,21.5,27.7,24.8,20.5,46.8,-,10625.0,24.1,7.0,43.0,2016
+601-800,Sophia University,Japan,22.0,32.8,9.4,5.3,29.5,-,12799.0,24.3,8.0,53.0,2016
+601-800,University of South Africa,South Africa,18.4,28.7,11.3,9.4,28.8,-,197102.0,108.5,9.0,65.0,2016
+601-800,Southern Federal University,Russian Federation,21.9,17.3,8.2,9.2,39.5,-,27556.0,9.0,3.0,56.0,2016
+601-800,University of Southern Mississippi,United States of America,21.0,20.8,11.8,20.1,39.9,-,14569.0,18.5,3.0,63.0,2016
+601-800,University of Southern Queensland,Australia,18.4,63.0,13.1,14.4,28.8,-,13761.0,29.2,21.0,55.0,2016
+601-800,Suez Canal University,Egypt,22.6,31.6,5.9,16.0,,-,16817.0,6.0,,65.0,2016
+601-800,Sultan Qaboos University,Oman,21.3,71.5,10.6,16.0,37.6,-,7089.0,9.0,3.0,50.0,2016
+601-800,Suranaree University of Technology,Thailand,21.1,25.9,11.6,18.4,38.1,-,12650.0,32.9,1.0,50.0,2016
+601-800,University of Szeged,Hungary,20.0,46.9,10.5,20.5,33.2,-,22684.0,13.8,9.0,58.0,2016
+601-800,Taipei Medical University,Taiwan,25.7,26.5,21.7,19.0,42.2,-,6001.0,11.1,6.0,58.0,2016
+601-800,Taras Shevchenko National University of Kyiv,Ukraine,27.9,28.2,11.0,4.2,28.0,-,22686.0,8.2,2.0,45.0,2016
+601-800,Technical University of Madrid,Spain,21.8,39.5,14.6,24.5,38.3,-,41500.0,13.8,11.0,32.0,2016
+601-800,University of Tehran,Iran,26.1,16.5,16.9,15.8,,-,53802.0,27.0,1.0,45.0,2016
+601-800,University of Texas at El Paso,United States of America,18.6,30.4,18.7,18.4,,-,19123.0,29.0,7.0,54.0,2016
+601-800,Texas Tech University,United States of America,27.9,36.8,17.2,22.0,,-,29512.0,20.9,7.0,46.0,2016
+601-800,Tokai University,Japan,17.9,19.3,7.6,15.3,34.4,-,29700.0,12.7,1.0,27.0,2016
+601-800,Tokushima University,Japan,25.3,16.8,21.6,12.8,59.6,-,7519.0,8.9,3.0,34.0,2016
+601-800,Tokyo University of Marine Science and Technology,Japan,27.9,24.5,12.4,7.7,57.9,-,2597.0,11.1,7.0,34.0,2016
+601-800,Tokyo University of Science,Japan,23.0,15.4,24.1,21.4,37.6,-,20243.0,25.7,2.0,20.0,2016
+601-800,Tomsk State University,Russian Federation,34.8,36.9,20.8,7.6,44.0,-,10413.0,9.9,12.0,60.0,2016
+601-800,Tottori University,Japan,24.3,16.7,10.1,9.6,34.5,-,6248.0,8.2,2.0,34.0,2016
+601-800,Toyohashi University of Technology,Japan,22.0,25.4,18.9,15.8,50.3,-,2153.0,9.3,9.0,9.0,2016
+601-800,Universiti Kebangsaan Malaysia,Malaysia,24.3,29.7,15.9,10.9,28.4,-,24227.0,11.8,12.0,62.0,2016
+601-800,Universiti Putra Malaysia,Malaysia,25.3,50.1,20.9,10.2,34.2,-,23883.0,12.2,16.0,63.0,2016
+601-800,Universiti Sains Malaysia,Malaysia,26.9,44.2,16.6,12.4,34.4,-,28179.0,14.8,10.0,61.0,2016
+601-800,Universiti Teknologi MARA,Malaysia,15.2,14.8,7.7,18.2,28.3,-,69268.0,16.8,0.0,65.0,2016
+601-800,Ural Federal University,Russian Federation,24.8,17.3,10.6,16.8,35.6,-,28427.0,10.1,3.0,48.0,2016
+601-800,V.N. Karazin Kharkiv National University,Ukraine,21.7,48.4,8.9,1.7,28.8,-,14410.0,9.7,22.0,53.0,2016
+601-800,University of Vigo,Spain,18.4,30.7,10.5,31.8,38.1,-,22793.0,19.0,3.0,51.0,2016
+601-800,Vilnius University,Lithuania,18.3,40.8,13.6,26.1,41.0,-,19019.0,14.2,4.0,65.0,2016
+601-800,Warsaw University of Technology,Poland,19.4,20.7,8.5,40.3,47.4,-,34572.0,14.5,3.0,34.0,2016
+601-800,Waseda University,Japan,23.6,29.7,14.6,29.4,32.4,-,52316.0,16.9,8.0,35.0,2016
+601-800,University of West Bohemia,Czech Republic,16.3,23.1,9.7,29.8,32.1,-,15639.0,21.5,2.0,52.0,2016
+601-800,University of the West of England,United Kingdom,16.9,48.5,11.2,34.6,28.5,-,22525.0,21.4,15.0,53.0,2016
+601-800,West University of TimiÅoara,Romania,16.1,21.0,3.9,22.4,,-,12933.0,19.0,3.0,62.0,2016
+601-800,University of Westminster,United Kingdom,17.3,81.9,11.7,21.1,28.5,-,16609.0,21.0,43.0,57.0,2016
+601-800,Xidian University,China,17.9,12.8,12.1,8.9,83.7,-,31618.0,16.4,2.0,29.0,2016
+601-800,Yeungnam University,South Korea,18.6,24.3,10.9,26.5,35.4,-,21958.0,15.3,3.0,48.0,2016
+601-800,YÄ±ldÄ±z Technical University,Turkey,14.5,14.9,7.6,19.3,44.0,-,31268.0,28.7,2.0,36.0,2016
+601-800,Yokohama City University,Japan,24.0,16.1,10.2,36.4,37.9,-,4122.0,3.7,3.0,,2016
+601-800,Yokohama National University,Japan,20.1,23.3,16.0,13.5,40.4,-,10117.0,12.1,8.0,28.0,2016
+601-800,Yuan Ze University,Taiwan,16.2,17.7,18.3,28.6,39.8,-,8663.0,20.6,4.0,43.0,2016
