@@ -16,7 +16,7 @@
 - [Problem 1: tweet classification - Trudeau vs Trump](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/practice%20problems/Problem%20I.ipynb)
 - [Problem 2: email spam detection](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/practice%20problems/Problem%20II.ipynb)
 
-## Homework ()
+## Homework (due Dec 15)
 
 - [Problem 1: The disputed Federalist papers](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Problem%20I.ipynb)
 - [Problem 2: A linguistic street map of Singapore](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Problem%20II.ipynb)
