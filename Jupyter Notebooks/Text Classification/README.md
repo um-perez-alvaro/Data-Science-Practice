@@ -18,8 +18,8 @@
 
 ## Homework ()
 
-- Problem 1: The disputed Federalist papers
-- Problem 2: A linguistic street map of Singapore
+- [Problem 1: The disputed Federalist papers](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Problem%20I.ipynb)
+- [Problem 2: A linguistic street map of Singapore](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Text%20Classification/Homework/Problem%20II.ipynb)
 
 
 
