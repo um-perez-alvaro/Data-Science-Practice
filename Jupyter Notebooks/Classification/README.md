@@ -3,9 +3,9 @@
 ## Jupyther notebooks
 
 - [Training a Classification Model with scikit-learn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20I%20Classification%20with%20scikit%20learn.ipynb)
-    * [k-nearest-neighbors](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
-    * [logistic regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Logistic%20Regression%20.ipynb)  
-    * [draw-classification-regions function](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/functions.py)
+    * [k-Nearest-Neighbors](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
+    * [Logistic Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Logistic%20Regression%20.ipynb)  
+    * [Decision Trees](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Decision%20Trees.ipynb)
 - [Cross Validation and Evaluation Metrics](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20II%20-%20Classification%20Metrics%20and%20Cross%20Validation.ipynb)
 - [Grid Search](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20III.%20Grid%20Search.ipynb)
 - [Classification Thresholds](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20IV.%20Adjusting%20the%20classification%20threshold.ipynb)
