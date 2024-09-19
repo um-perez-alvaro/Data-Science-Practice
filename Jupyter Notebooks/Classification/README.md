@@ -39,6 +39,8 @@
 
 Filename | Description |  Source
 --- | --- |  --- 
+[good_or_evil_train](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/good_or_evil_train) <br> [good_or_evil_test](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/good_or_evil_test) | Characters in the Batman universe | 
+[pima](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/pima.csv) | Pima indians diabetes database | [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) |
 [LLCP2019.ASC](https://www.cdc.gov/brfss/annual_data/2019/files/LLCP2019ASC.zip) | The Behavioral Risk Factor Surveillance System Survey | [CDC](https://www.cdc.gov/brfss/annual_data/annual_2019.html)
 [pima](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/pima.csv) | Pima indians diabetes database | [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 [iris](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
