@@ -10,7 +10,7 @@
 - [Searching for Optimal Hyperparameters](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20III.%20Grid%20Search.ipynb)
 - [Feature Engineering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20V.%20Feature%20Engineering.ipynb)
 - [Pipelines](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
-- [Changing the Classification Threshold]()
+- [Changing the Classification Threshold](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Adjusting%20the%20classification%20threshold.ipynb)
 - [Classification Thresholds and Imbalanced datasets]()
  
 ## Practice Problems
