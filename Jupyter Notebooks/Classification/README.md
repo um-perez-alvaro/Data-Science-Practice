@@ -15,6 +15,13 @@
  
 ## Practice Problems
 
+**Set 0** (Due Sept 8)
+Go to [drawdata.xyz](https://drawdata.xyz/) and select the Scatter Chart option (below the line chart). Use it to draw a dataset for a classification problem. You can place points with up to four different labels (A, B, C, D).
+
+Next, take your dataset and train three classifiers: k-Nearest Neighbors (kNN), Logistic Regression, and a Decision Tree. Use DecisionBoundaryDisplay to plot the classification regions for each method.
+
+Your goal is to create a dataset where at least one of the methods has trouble. Compare the plots and explain briefly which method struggles and why.
+
 **Set 1**
 
 - Problem 1: Wine Quality Prediction
