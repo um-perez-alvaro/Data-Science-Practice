@@ -25,9 +25,9 @@ Your goal is to create a dataset where at least one of the methods has trouble. 
 
 **Set 1**
 
-- Problem 1: Wine Quality Prediction
-- Problem 2: Bank Note Authentication
-- 
+- [Problem 1: Wine Quality Prediction](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20.ipynb)
+- [Problem 2: Bank Note Authentication](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb)
+  
 **Set 2**
 
 - Problem 3: The MNIST dataset - classification of handwritten digits
