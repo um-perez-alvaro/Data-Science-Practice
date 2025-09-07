@@ -23,7 +23,7 @@ Next, take your dataset and train three classifiers: k-Nearest Neighbors (kNN), 
 
 Your goal is to create a dataset where at least one of the methods has trouble. Compare the plots and explain briefly which method struggles and why.
 
-**Set 1**
+**Set 1** (Due Sept 10)
 
 - [Problem 1: Wine Quality Prediction](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20.ipynb)
 - [Problem 2: Bank Note Authentication](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb)
