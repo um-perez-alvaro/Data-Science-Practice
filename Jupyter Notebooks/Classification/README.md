@@ -34,6 +34,8 @@ Your goal is to create a dataset where at least one of the methods has trouble. 
 
 **Set 3** (Due Sept 17)
 
+- [Problem 5: Scooby-Doo](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI%20-%20tree.ipynb)
+
 **Set 4**
 
 - Problem 1: Breast cancer diagnosis]
