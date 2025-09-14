@@ -32,14 +32,14 @@ Your goal is to create a dataset where at least one of the methods has trouble. 
 - [Problem 3: The MNIST dataset - classification of handwritten digits](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb)
 - [Problem 4: The fashion MNIST dataset](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb)
 
+**Set 3** (Due Sept 17)
 
-**Set 3**
+**Set 4**
 
 - Problem 1: Breast cancer diagnosis]
 - Problem 2: The Palmer archipelago penguin data
-- Problem 3: Bird baths in Australia
 
-**Set 4**
+**Set 5**
 - Problem 4: Chicago traffic crashes prediction
 
 
