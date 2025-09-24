@@ -37,11 +37,11 @@ Your goal is to create a dataset where at least one of the methods has trouble. 
 
 **Set 4**
 
-- Problem 1: Breast cancer diagnosis]
-- Problem 2: The Palmer archipelago penguin data
+- [Problem 6: Predicting whether an order should be sent to a technical approver](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V%20-%20tree.ipynb)
+- [Problem 7: Revisiting Logistic Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VII.ipynb)
+- [Problem 8: The Palmer archipelago penguin data](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI.ipynb)
 
-**Set 5**
-- Problem 4: Chicago traffic crashes prediction
+
 
 
 ## Datasets
