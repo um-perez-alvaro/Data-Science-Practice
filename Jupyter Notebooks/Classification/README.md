@@ -35,7 +35,7 @@ Your goal is to create a dataset where at least one of the methods has trouble. 
 
 - [Problem 5: Scooby-Doo](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI%20-%20tree.ipynb)
 
-**Set 4**
+**Set 4** (Due Sept 29)
 
 - [Problem 6: Predicting whether an order should be sent to a technical approver](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V%20-%20tree.ipynb)
 - [Problem 7: Revisiting Logistic Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VII.ipynb)
