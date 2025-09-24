@@ -10,7 +10,8 @@
 - [Searching for Optimal Hyperparameters](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20III.%20Grid%20Search.ipynb)
 - [Feature Engineering](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20V.%20Feature%20Engineering.ipynb)
 - [Pipelines](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
-- Classification Thresholds and Imbalanced datasets
+- [Classification Thresholds](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Adjusting%20the%20classification%20threshold.ipynb)
+- [Imbalanced datasets]
  
 ## Practice Problems
 
