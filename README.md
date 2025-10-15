@@ -7,7 +7,7 @@ This is the GitHub repository of Data Science Analytics (M461)/Advanced Analytic
 ## Contents:
 
 - [Classification Problems](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/README.md)
-- Regression
+- [Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/README.md)
 - Ensemble Methods
 - Naive Bayes and Text Classification
 - Clustering and Segmentation
