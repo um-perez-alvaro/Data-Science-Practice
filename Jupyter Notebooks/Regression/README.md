@@ -6,9 +6,8 @@
 ## Jupyter notebooks
 
 - [Linear regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Linear%20Regression.ipynb)
-- Overfitting and regularization
-- Feature selection
-- Feature importances
+- [Overfitting and regularization](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Regularization.ipynb)
+
   
 ## Practice Problems
 
