@@ -3,17 +3,14 @@
 ## Jupyter notebooks
 
 - [Random Forests](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Random%20Forests.ipynb)
-- [Decision Trees and Random Forests for regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Trees%20and%20Random%20Forests%20for%20regression.ipynb)
-- [Gradient Boosting](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Gradient%20Boosting.ipynb)
-- [Fremont Bridge revisited](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Fremont%20bridge%20revisited%20-%202023.ipynb)
+- Gradient Boosting
+- Fremont Bridge revisited
 
 
+## Practice set 1 (TBD)
 
-
-## Homework (Nov 27)
-
-- [Problem 1: customer churn](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20I.ipynb)
-- [Problem 2: New York City energy production](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20II.ipynb)
+- Problem 1: customer churn](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20I.ipynb)
+- Problem 2: New York City energy production
   
 ## Datasets
 
