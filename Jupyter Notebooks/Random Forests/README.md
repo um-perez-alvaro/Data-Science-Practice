@@ -9,7 +9,7 @@
 
 ## Practice set 1 (TBD)
 
-- Problem 1: customer churn](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/homework/Problem%20I.ipynb)
+- Problem 1: customer churn
 - Problem 2: New York City energy production
   
 ## Datasets
