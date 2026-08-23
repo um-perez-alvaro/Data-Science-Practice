@@ -3,19 +3,18 @@
 ## Jupyther notebooks
 
 - [Training a Classification Model with scikit-learn](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20I%20Classification%20with%20scikit%20learn.ipynb)
-    * [k-Nearest-Neighbors](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
-    * [Logistic Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Logistic%20Regression%20.ipynb) 
-    * [Decision Trees](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Decision%20Trees.ipynb)
-- [Cross Validation and Evaluation Metrics](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20II%20-%20Classification%20Metrics%20and%20Cross%20Validation.ipynb)
-- [Searching for Optimal Hyperparameters](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20III.%20Grid%20Search.ipynb)
-- [Feature Engineering](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20V.%20Feature%20Engineering.ipynb)
-- [Pipelines](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
-- [Changing the Classification Threshold](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Adjusting%20the%20classification%20threshold.ipynb)
-- [Imbalanced datasets](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Imbalanced%20datasets.ipynb)
- 
+    * k-Nearest-Neighbors
+    * Logistic Regression
+- Cross Validation and Evaluation Metrics
+- Searching for Optimal Hyperparameters
+- Feature Engineering
+- Pipelines
+- Changing the Classification Threshold
+- Imbalanced datasets
+- 
 ## Practice Problems
 
-**Set 0** (Due Sept 8)
+**Set 0** 
 
 Go to [drawdata.xyz](https://drawdata.xyz/) and select the Scatter Chart option (below the line chart). Use it to draw a dataset for a classification problem. You can place points with up to four different labels (A, B, C, D).
 
@@ -23,25 +22,24 @@ Next, take your dataset and train three classifiers: k-Nearest Neighbors (kNN), 
 
 Your goal is to create a dataset where at least one of the methods has trouble. Compare the plots and explain briefly which method struggles and why.
 
-**Set 1** (Due Sept 10)
+**Set 1** 
 
-- [Problem 1: Wine Quality Prediction](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20I%20.ipynb)
+- Problem 1: Wine Quality Prediction
 - [Problem 2: Bank Note Authentication](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb)
   
-**Set 2** (Due Sept 15)
-- [Problem 3: The MNIST dataset - classification of handwritten digits](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20III.ipynb)
-- [Problem 4: The fashion MNIST dataset](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20IV.ipynb)
+**Set 2** 
+- Problem 3: The MNIST dataset - classification of handwritten digits
+- Problem 4: The fashion MNIST dataset
 
-**Set 3** (Due Sept 17)
+**Set 3** 
 
-- [Problem 5: Scooby-Doo](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI%20-%20tree.ipynb)
+- Problem 5: Scooby-Doo
 
-**Set 4** (Due Sept 29)
+**Set 4** 
 
-- [Problem 6: Predicting whether an order should be sent to a technical approver](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20V%20-%20tree.ipynb)
-- [Problem 7: Revisiting Logistic Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VII.ipynb)
-- [Problem 8: The Palmer archipelago penguin data](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20VI.ipynb)
-
+- Problem 6: Predicting whether an order should be sent to a technical approver
+- Problem 7: Revisiting Logistic Regression
+- Problem 8: The Palmer archipelago penguin data
 
 
 
