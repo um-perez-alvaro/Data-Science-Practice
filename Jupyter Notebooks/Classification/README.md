@@ -11,7 +11,7 @@
 - [Feature Engineering](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20V.%20Feature%20Engineering.ipynb)
 - [Pipelines](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
 - [Changing the Classification Threshold](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Adjusting%20the%20classification%20threshold.ipynb)
-- Imbalanced datasets
+- [Imbalanced datasets](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Imbalanced%20datasets.ipynb)
  
 ## Practice Problems
 
