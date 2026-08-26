@@ -3,7 +3,7 @@
 ## Jupyther notebooks
 
 - [Training a Classification Model with scikit-learn](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20I%20Classification%20with%20scikit%20learn.ipynb)
-    * k-Nearest-Neighbors
+    * [k-Nearest-Neighbors](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
     * Logistic Regression
 - Cross Validation and Evaluation Metrics
 - Searching for Optimal Hyperparameters
