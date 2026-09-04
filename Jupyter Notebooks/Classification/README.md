@@ -6,7 +6,7 @@
     * [k-Nearest-Neighbors](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
     * [Logistic Regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Logistic%20Regression%20.ipynb)
     * [Decision trees](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Decision%20Trees.ipynb)
-- Cross Validation and Evaluation Metrics
+- [Cross Validation and Evaluation Metrics](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20II%20-%20Classification%20Metrics%20and%20Cross%20Validation.ipynb)
 - Searching for Optimal Hyperparameters
 - Feature Engineering
 - Pipelines
