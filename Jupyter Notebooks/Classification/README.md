@@ -12,35 +12,7 @@
 - [Pipelines](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
 - [Changing the Classification Threshold](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Adjusting%20the%20classification%20threshold.ipynb)
 - [Imbalanced datasets](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Imbalanced%20datasets.ipynb)
-- 
-## Practice Problems
 
-**Set 0** 
-
-Go to [drawdata.xyz](https://drawdata.xyz/) and select the Scatter Chart option (below the line chart). Use it to draw a dataset for a classification problem. You can place points with up to four different labels (A, B, C, D).
-
-Next, take your dataset and train three classifiers: k-Nearest Neighbors (kNN), Logistic Regression, and a Decision Tree. Use DecisionBoundaryDisplay to plot the classification regions for each method.
-
-Your goal is to create a dataset where at least one of the methods has trouble. Compare the plots and explain briefly which method struggles and why.
-
-**Set 1** 
-
-- Problem 1: Wine Quality Prediction
-- [Problem 2: Bank Note Authentication](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/practice%20problems/Problem%20II%20.ipynb)
-  
-**Set 2** 
-- Problem 3: The MNIST dataset - classification of handwritten digits
-- Problem 4: The fashion MNIST dataset
-
-**Set 3** 
-
-- Problem 5: Scooby-Doo
-
-**Set 4** 
-
-- Problem 6: Predicting whether an order should be sent to a technical approver
-- Problem 7: Revisiting Logistic Regression
-- Problem 8: The Palmer archipelago penguin data
 
 
 
@@ -64,4 +36,4 @@ Filename | Description |  Source
 [cancer](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/cancer.csv) | Breast Cancer Wisconsin (Diagnostic) Data Set | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 [penguins_size](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/penguins_size.csv) | This dataset contains data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica | [Kaggle](https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data) </br> [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/)
 [census income](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/adult_census.csv) | The goal is to predict whether income exceeds $50K/yr based on census data. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/2/adult)
-[bank marketing](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/refs/heads/master/Data/bank_marketing.cvs) | The Bank Marketing dataset contains information about clients contacted by a bank. The goal is to predict whether a client will subscribe to a term deposit |  [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/2/adult)
+[bank marketing](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/refs/heads/master/Data/bank_marketing.cvs) | The Bank Marketing dataset contains information about clients contacted by a bank. The goal is to predict whether a client will subscribe to a term deposit |  [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing)
