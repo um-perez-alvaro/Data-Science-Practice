@@ -7,10 +7,7 @@
 - Fremont Bridge revisited
 
 
-## Practice set 1 (TBD)
 
-- Problem 1: customer churn
-- Problem 2: New York City energy production
   
 ## Datasets
 
