@@ -3,7 +3,7 @@
 ## Jupyter notebooks
 
 - [Random Forests](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Random%20Forests.ipynb)
-- Gradient Boosting
+- [Gradient Boosting](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Random%20Forests/notebooks/Gradient%20Boosting.ipynb)
 - Fremont Bridge revisited
 
 
