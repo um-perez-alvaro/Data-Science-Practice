@@ -9,14 +9,6 @@
 - [Overfitting and regularization](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/notebooks/Regularization.ipynb)
 
   
-## Practice Problems
-
-**Set 1 (due Oct 22)**
-- [Problem 1: Simple linear regression](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20I.ipynb)
-- [Problem 2: A healthy breakfast](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Regression/practice%20problems/Problem%20II%20.ipynb)
-
-
-
 
 ## Datasets
 
