@@ -18,3 +18,4 @@ Filename | Description |  Source
 [Tova_the_cat](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/Tova_the_cat.png) | Photo of my cat "Tova" |  |
 [Cities Moving Dataset](https://raw.githubusercontent.com/rafaelprietocuriel/ModalShare/main/ModalShare.csv) | percentage of trips made using three types of transportation | [CitiesMoving](https://citiesmoving.com/) |
 [Mall_Customers](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/Mall_Customers.csv) | Basic data about customers like Customer ID, age, gender, annual income and spending score. | [Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
+[iris](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
